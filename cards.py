@@ -10,6 +10,8 @@ import openpyxl
 Obstacle = namedtuple('Obstacle', ['element1', 'element2', 'name', 'flavour'])
 Reward = namedtuple('Reward', ['element1', 'element2', 'name'])
 
+FONT_PATH = '/usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf'
+
 
 def text_wrap(text, font, max_width):
     """Wrap text base on specified width.
@@ -93,8 +95,7 @@ def draw_element_card(element, icon):
     img = Image.new('RGBA', (width, height), color=(255, 255, 255, 255))
     draw = ImageDraw.Draw(img)
 
-    font = ImageFont.truetype('/usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf',
-                              size=64)
+    font = ImageFont.truetype(FONT_PATH, size=64)
     text_width, text_height = font.getsize(element)
 
     title_x = width // 2 - text_width // 2
@@ -123,8 +124,7 @@ def draw_obstacle_card(obstacle, elements):
     text_width = 1000
     while text_width > width - 64:
         title_size -= 1
-        font = ImageFont.truetype(
-            '/usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf', size=title_size)
+        font = ImageFont.truetype(FONT_PATH, size=title_size)
         text_width, text_height = font.getsize(obstacle.name)
 
     title_x = width // 2 - text_width // 2
@@ -144,8 +144,7 @@ def draw_obstacle_card(obstacle, elements):
     flavour_x = 32
     flavour_y = icon_y + icon_size + 16
 
-    font = ImageFont.truetype('/usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf',
-                              size=32)
+    font = ImageFont.truetype(FONT_PATH, size=32)
     line_height = font.getsize('hg')[1]
 
     for line in text_wrap(obstacle.flavour, font, width - 64):
@@ -169,9 +168,7 @@ def draw_reward_card(reward, elements):
         text_width = 1000
         while text_width > width - 64:
             title_size -= 1
-            font = ImageFont.truetype(
-                '/usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf',
-                size=title_size)
+            font = ImageFont.truetype(FONT_PATH, size=title_size)
             text_width, text_height = font.getsize(reward.name)
 
         title_x = width // 2 - text_width // 2
