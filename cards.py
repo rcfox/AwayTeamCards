@@ -1,7 +1,6 @@
 from io import BytesIO
 from collections import namedtuple
 import sys
-import json
 
 from PIL import Image, ImageDraw, ImageFont
 import cairosvg
@@ -241,7 +240,7 @@ def icons_horizontal(img, xy1, xy2, icons):
 
 def draw_element_card(element, icon):
     if 'macguffin' in element.lower():
-        return
+        return None
 
     img, xy1, xy2 = card_template(element, 'ELEMENT', '')
     return icons_vertical(img, xy1, xy2, [icon])
