@@ -272,7 +272,6 @@ def draw_reward_card(reward, elements):
 def draw_role_card(role):
     img, xy1, xy2 = card_template(role.name, 'ROLE', role.power)
     icons = ['role.svg']
-
     return icons_vertical(img, xy1, xy2, icons)
 
 
@@ -302,11 +301,9 @@ def create_image_sheets(name, images, hidden):
 
 
 def hidden_card(size):
-    img = Image.new('RGBA', size)
-    draw = ImageDraw.Draw(img)
-
-    draw.ellipse(((0, 0), size), fill=(255, 0, 0))
-    return img
+    img, xy1, xy2 = card_template('???', 'HIDDEN', '')
+    icons = ['hidden.svg']
+    return icons_vertical(img, xy1, xy2, icons)
 
 
 def main():
