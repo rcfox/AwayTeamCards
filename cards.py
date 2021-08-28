@@ -95,190 +95,25 @@ def svg2image(svg, size):
     return Image.open(out)
 
 
-def draw_element_card(element, icon):
-    if 'macguffin' in element.lower():
-        return
-
-    width = 407
-    height = 585
-
-    img = Image.new('RGBA', (width, height), color=(255, 255, 255, 255))
-    draw = ImageDraw.Draw(img)
-
-    font = ImageFont.truetype(FONT_PATH, size=64)
-    text_width, text_height = font.getsize(element)
-
-    title_x = width // 2 - text_width // 2
-    title_y = 32
-
-    draw.text((title_x, title_y),
-              element,
-              font=font,
-              fill=(0, 0, 0),
-              align='center')
-
-    icon_size = min(width, height) // 2
-    icon_img = svg2image(icon, (icon_size, icon_size))
-
-    img.paste(icon_img,
-              (width // 2 - icon_size // 2, height // 2 - icon_size // 2 + 32),
-              icon_img)
-
-    return img
-
-
-def draw_obstacle_card(obstacle, elements):
-    img, xy1, xy2 = card_template(obstacle.name, 'OBSTACLE', obstacle.flavour)
-
+def icons_vertical(img, xy1, xy2, icons):
     x1, y1 = xy1
     x2, y2 = xy2
 
     width = x2 - x1
     height = y2 - y1
 
-    draw = ImageDraw.Draw(img)
+    icon_size = min(width, height) // (len(icons) + 1)
+    icon_x = x1 + width // 2 - icon_size // 2
 
-    icon_size = min(width, height) // 2
-    icon_img1 = svg2image(elements[obstacle.element1], (icon_size, icon_size))
-    icon_img2 = svg2image(elements[obstacle.element2], (icon_size, icon_size))
+    y_step = (height - icon_size) // len(icons)
 
-    icon_x1 = x1 + icon_size // 4
-    icon_x2 = x2 - icon_size - icon_size // 4
-    icon_y = y1 + height // 2 - icon_size // 2
+    icon_imgs = [svg2image(icon, (icon_size, icon_size)) for icon in icons]
 
-    img.paste(icon_img1, (icon_x1, icon_y), icon_img1)
-    img.paste(icon_img2, (icon_x2, icon_y), icon_img2)
+    icon_y = y1 + height // (len(icons) + 1) - icon_size // 2
+    for icon_img in icon_imgs:
+        img.paste(icon_img, (icon_x, icon_y), icon_img)
+        icon_y += y_step
 
-    return img
-
-
-def draw_reward_card(reward, elements):
-    width = 407
-    height = 585
-    icon_size = min(width, height) // 4
-
-    img = Image.new('RGBA', (width, height), color=(255, 255, 255, 255))
-    draw = ImageDraw.Draw(img)
-
-    if reward.name:
-
-        title_size = 65
-        text_width = 1000
-        while text_width > width - 64:
-            title_size -= 1
-            font = ImageFont.truetype(FONT_PATH, size=title_size)
-            text_width, text_height = font.getsize(reward.name)
-
-        title_x = width // 2 - text_width // 2
-        title_y = 32
-
-        draw.text((title_x, title_y),
-                  reward.name,
-                  font=font,
-                  fill=(0, 0, 0),
-                  align='center')
-
-        icon_y = title_y + text_height + icon_size // 2
-        icon_y2 = icon_y + icon_size + 10
-
-    else:
-
-        icon_y = 3 * icon_size // 4
-        icon_y2 = height - 3 * icon_size // 2
-
-    icon_img1 = svg2image(elements[reward.element1], (icon_size, icon_size))
-
-    img.paste(icon_img1, (width // 2 - icon_size // 2, icon_y), icon_img1)
-
-    if reward.element2 is not None:
-        icon_img2 = svg2image(elements[reward.element2],
-                              (icon_size, icon_size))
-        img.paste(icon_img2, (width // 2 - icon_size // 2, icon_y2), icon_img2)
-
-    if reward.text:
-        font = ImageFont.truetype(FONT_PATH, size=32)
-        line_height = font.getsize('hg')[1]
-        text_x = width // 2
-        text_y = icon_y2 + 32
-
-        draw.multiline_text((text_x, text_y),
-                            text_wrap(reward.text, font, width - 64),
-                            font=font,
-                            fill=(0, 0, 0),
-                            anchor='ma',
-                            align='center')
-
-    return img
-
-
-def draw_role_card(role):
-    width = 407
-    height = 585
-
-    img = Image.new('RGBA', (width, height), color=(255, 255, 255, 255))
-    draw = ImageDraw.Draw(img)
-
-    font = ImageFont.truetype(FONT_PATH, size=64)
-    text_width, text_height = font.getsize(role.name)
-
-    title_size = 65
-    while text_width > width - 64:
-        title_size -= 1
-        font = ImageFont.truetype(FONT_PATH, size=title_size)
-        text_width, text_height = font.getsize(role.name)
-
-    title_x = width // 2 - text_width // 2
-    title_y = 32
-
-    draw.text((title_x, title_y),
-              role.name,
-              font=font,
-              fill=(0, 0, 0),
-              align='center')
-
-    font = ImageFont.truetype(FONT_PATH, size=32)
-    line_height = font.getsize('hg')[1]
-
-    draw.multiline_text((width // 2, height // 2),
-                        text_wrap(role.power, font, width - 64),
-                        font=font,
-                        fill=(0, 0, 0),
-                        anchor='mm',
-                        align='center')
-
-    return img
-
-
-def create_image_sheets(name, images, hidden):
-    if len(images) > 69:
-        create_image_sheets(name + '_', images[70:], hidden)
-
-    sheet_width = 10
-    if len(images) <= 10:
-        sheet_width = len(images) // 2 + 1
-    sheet_height = len(images) // sheet_width + 1
-
-    card_width, card_height = images[0].size
-
-    sheet = Image.new('RGB',
-                      (sheet_width * card_width, sheet_height * card_height))
-    width, height = images[0].size
-    for idx, image in enumerate(images):
-        x = (idx % sheet_width) * width
-        y = (idx // sheet_width) * height
-        sheet.paste(image, (x, y), image)
-
-    sheet.paste(hidden,
-                ((sheet_width - 1) * width, (sheet_height - 1) * height),
-                hidden)
-    sheet.save(f'generated/{name}.png')
-
-
-def hidden_card(size):
-    img = Image.new('RGBA', size)
-    draw = ImageDraw.Draw(img)
-
-    draw.ellipse(((0, 0), size), fill=(255, 0, 0))
     return img
 
 
@@ -379,6 +214,99 @@ def card_template(title, card_type, text):
         width=rect_outline_width)
 
     return img, (inset, img_box_y), (width - inset, img_box_y + img_box_height)
+
+
+def icons_horizontal(img, xy1, xy2, icons):
+    x1, y1 = xy1
+    x2, y2 = xy2
+
+    width = x2 - x1
+    height = y2 - y1
+
+    icon_size = min(width, height) // max(len(icons), 2)
+    icon_y = y1 + height // 2 - icon_size // 2
+
+    x_step = (width - icon_size) // len(icons)
+
+    icon_imgs = [svg2image(icon, (icon_size, icon_size)) for icon in icons]
+
+    icon_x = x1 + width // (len(icons) + 1) - icon_size // 2
+    for icon_img in icon_imgs:
+        img.paste(icon_img, (icon_x, icon_y), icon_img)
+        icon_x += x_step
+
+    return img
+
+
+def draw_element_card(element, icon):
+    if 'macguffin' in element.lower():
+        return
+
+    img, xy1, xy2 = card_template(element, 'ELEMENT', '')
+
+    icons = [icon]
+    return icons_vertical(img, xy1, xy2, icons)
+
+
+def draw_obstacle_card(obstacle, elements):
+    img, xy1, xy2 = card_template(obstacle.name, 'OBSTACLE', obstacle.flavour)
+
+    icons = [elements[obstacle.element1], elements[obstacle.element2]]
+    return icons_horizontal(img, xy1, xy2, icons)
+
+
+def draw_reward_card(reward, elements):
+    name = reward.name
+    if not name:
+        name = f'{reward.element1}/{reward.element2}'
+
+    img, xy1, xy2 = card_template(name, 'REWARD', reward.text)
+
+    icons = [elements[reward.element1]]
+    if reward.element2:
+        icons.append(elements[reward.element2])
+
+    return icons_vertical(img, xy1, xy2, icons)
+
+
+def draw_role_card(role):
+    img, xy1, xy2 = card_template(role.name, 'ROLE', role.power)
+    icons = ['role.svg']
+
+    return icons_vertical(img, xy1, xy2, icons)
+
+
+def create_image_sheets(name, images, hidden):
+    if len(images) > 69:
+        create_image_sheets(name + '_', images[70:], hidden)
+
+    sheet_width = 10
+    if len(images) <= 10:
+        sheet_width = len(images) // 2 + 1
+    sheet_height = len(images) // sheet_width + 1
+
+    card_width, card_height = images[0].size
+
+    sheet = Image.new('RGB',
+                      (sheet_width * card_width, sheet_height * card_height))
+    width, height = images[0].size
+    for idx, image in enumerate(images):
+        x = (idx % sheet_width) * width
+        y = (idx // sheet_width) * height
+        sheet.paste(image, (x, y), image)
+
+    sheet.paste(hidden,
+                ((sheet_width - 1) * width, (sheet_height - 1) * height),
+                hidden)
+    sheet.save(f'generated/{name}.png')
+
+
+def hidden_card(size):
+    img = Image.new('RGBA', size)
+    draw = ImageDraw.Draw(img)
+
+    draw.ellipse(((0, 0), size), fill=(255, 0, 0))
+    return img
 
 
 def main():
