@@ -292,7 +292,7 @@ def create_image_sheets(name, images, hidden):
     sheet.paste(hidden,
                 ((sheet_width - 1) * width, (sheet_height - 1) * height),
                 hidden)
-    sheet.save(f'{name}.png')
+    sheet.save(f'generated/{name}.png')
 
 
 def hidden_card(size):
