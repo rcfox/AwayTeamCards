@@ -8,7 +8,7 @@ import cairosvg
 import openpyxl
 
 Obstacle = namedtuple('Obstacle', ['element1', 'element2', 'name', 'flavour'])
-Reward = namedtuple('Reward', ['element1', 'element2', 'name'])
+Reward = namedtuple('Reward', ['element1', 'element2', 'name', 'text'])
 
 FONT_PATH = '/usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf'
 
@@ -49,7 +49,7 @@ def text_wrap(text, font, max_width):
                 line = words[i]
                 i += 1
             lines.append(line)
-    return lines
+    return '\n'.join(lines)
 
 
 def parse_spreadsheet(filename):
@@ -69,7 +69,7 @@ def parse_spreadsheet(filename):
         for row in obstacles_sheet.iter_rows(min_row=2, max_col=4):
             obstacles.append(Obstacle(*[cell.value for cell in row]))
 
-        for row in rewards_sheet.iter_rows(min_row=2, max_col=3):
+        for row in rewards_sheet.iter_rows(min_row=2, max_col=4):
             rewards.append(Reward(*[cell.value for cell in row]))
 
     finally:
@@ -101,7 +101,11 @@ def draw_element_card(element, icon):
     title_x = width // 2 - text_width // 2
     title_y = 32
 
-    draw.text((title_x, title_y), element, font=font, fill=(0, 0, 0))
+    draw.text((title_x, title_y),
+              element,
+              font=font,
+              fill=(0, 0, 0),
+              align='center')
 
     icon_size = max(width, height) // 2
     icon_img = svg2image(icon, (icon_size, icon_size))
@@ -130,7 +134,11 @@ def draw_obstacle_card(obstacle, elements):
     title_x = width // 2 - text_width // 2
     title_y = 32
 
-    draw.text((title_x, title_y), obstacle.name, font=font, fill=(0, 0, 0))
+    draw.text((title_x, title_y),
+              obstacle.name,
+              font=font,
+              fill=(0, 0, 0),
+              align='center')
 
     icon_size = max(width, height) // 4
     icon_img1 = svg2image(elements[obstacle.element1], (icon_size, icon_size))
@@ -141,16 +149,17 @@ def draw_obstacle_card(obstacle, elements):
     img.paste(icon_img1, (width // 4 - icon_size // 2, icon_y), icon_img1)
     img.paste(icon_img2, (3 * width // 4 - icon_size // 2, icon_y), icon_img2)
 
-    flavour_x = 32
-    flavour_y = icon_y + icon_size + 16
+    flavour_x = width // 2
+    flavour_y = icon_y + icon_size + 50
 
     font = ImageFont.truetype(FONT_PATH, size=32)
-    line_height = font.getsize('hg')[1]
 
-    for line in text_wrap(obstacle.flavour, font, width - 64):
-        draw.text((flavour_x, flavour_y), line, font=font, fill=(0, 0, 0))
-        flavour_y += line_height
-
+    draw.multiline_text((flavour_x, flavour_y),
+                        text_wrap(obstacle.flavour, font, width - 64),
+                        font=font,
+                        fill=(0, 0, 0),
+                        anchor='ma',
+                        align='center')
     return img
 
 
@@ -174,7 +183,11 @@ def draw_reward_card(reward, elements):
         title_x = width // 2 - text_width // 2
         title_y = 32
 
-        draw.text((title_x, title_y), reward.name, font=font, fill=(0, 0, 0))
+        draw.text((title_x, title_y),
+                  reward.name,
+                  font=font,
+                  fill=(0, 0, 0),
+                  align='center')
 
         icon_y = title_y + text_height + icon_size // 2
         icon_y2 = icon_y + icon_size + 10
@@ -186,15 +199,25 @@ def draw_reward_card(reward, elements):
 
     icon_img1 = svg2image(elements[reward.element1], (icon_size, icon_size))
 
-    if reward.element2 is None:
-        icon_y = height // 2 - icon_size // 2
-
     img.paste(icon_img1, (width // 2 - icon_size // 2, icon_y), icon_img1)
 
     if reward.element2 is not None:
         icon_img2 = svg2image(elements[reward.element2],
                               (icon_size, icon_size))
         img.paste(icon_img2, (width // 2 - icon_size // 2, icon_y2), icon_img2)
+
+    if reward.text:
+        font = ImageFont.truetype(FONT_PATH, size=32)
+        line_height = font.getsize('hg')[1]
+        text_x = width // 2
+        text_y = icon_y2 + 32
+
+        draw.multiline_text((text_x, text_y),
+                            text_wrap(reward.text, font, width - 64),
+                            font=font,
+                            fill=(0, 0, 0),
+                            anchor='ma',
+                            align='center')
 
     return img
 
