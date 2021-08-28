@@ -117,7 +117,7 @@ def draw_element_card(element, icon):
               fill=(0, 0, 0),
               align='center')
 
-    icon_size = max(width, height) // 2
+    icon_size = min(width, height) // 2
     icon_img = svg2image(icon, (icon_size, icon_size))
 
     img.paste(icon_img,
@@ -128,55 +128,34 @@ def draw_element_card(element, icon):
 
 
 def draw_obstacle_card(obstacle, elements):
-    width = 407
-    height = 585
+    img, xy1, xy2 = card_template(obstacle.name, 'OBSTACLE', obstacle.flavour)
 
-    img = Image.new('RGBA', (width, height), color=(255, 255, 255, 255))
+    x1, y1 = xy1
+    x2, y2 = xy2
+
+    width = x2 - x1
+    height = y2 - y1
+
     draw = ImageDraw.Draw(img)
 
-    title_size = 65
-    text_width = 1000
-    while text_width > width - 64:
-        title_size -= 1
-        font = ImageFont.truetype(FONT_PATH, size=title_size)
-        text_width, text_height = font.getsize(obstacle.name)
-
-    title_x = width // 2 - text_width // 2
-    title_y = 32
-
-    draw.text((title_x, title_y),
-              obstacle.name,
-              font=font,
-              fill=(0, 0, 0),
-              align='center')
-
-    icon_size = max(width, height) // 4
+    icon_size = min(width, height) // 2
     icon_img1 = svg2image(elements[obstacle.element1], (icon_size, icon_size))
     icon_img2 = svg2image(elements[obstacle.element2], (icon_size, icon_size))
 
-    icon_y = title_y + text_height + icon_size // 2
+    icon_x1 = x1 + icon_size // 4
+    icon_x2 = x2 - icon_size - icon_size // 4
+    icon_y = y1 + height // 2 - icon_size // 2
 
-    img.paste(icon_img1, (width // 4 - icon_size // 2, icon_y), icon_img1)
-    img.paste(icon_img2, (3 * width // 4 - icon_size // 2, icon_y), icon_img2)
+    img.paste(icon_img1, (icon_x1, icon_y), icon_img1)
+    img.paste(icon_img2, (icon_x2, icon_y), icon_img2)
 
-    flavour_x = width // 2
-    flavour_y = icon_y + icon_size + 50
-
-    font = ImageFont.truetype(FONT_PATH, size=32)
-
-    draw.multiline_text((flavour_x, flavour_y),
-                        text_wrap(obstacle.flavour, font, width - 64),
-                        font=font,
-                        fill=(0, 0, 0),
-                        anchor='ma',
-                        align='center')
     return img
 
 
 def draw_reward_card(reward, elements):
     width = 407
     height = 585
-    icon_size = max(width, height) // 4
+    icon_size = min(width, height) // 4
 
     img = Image.new('RGBA', (width, height), color=(255, 255, 255, 255))
     draw = ImageDraw.Draw(img)
@@ -301,6 +280,105 @@ def hidden_card(size):
 
     draw.ellipse(((0, 0), size), fill=(255, 0, 0))
     return img
+
+
+def card_template(title, card_type, text):
+    width = 407
+    height = 585
+
+    num_text_lines = 8
+
+    inset = 24
+    box_separation = 8
+
+    rect_radius = 8
+    rect_outline_width = 3
+
+    title_font = ImageFont.truetype(FONT_PATH, size=32)
+    title_padding = 2
+
+    type_font = ImageFont.truetype(FONT_PATH, size=16)
+    type_padding = 2
+
+    text_font = ImageFont.truetype(FONT_PATH, size=24)
+    text_padding = 8
+
+    img = Image.new('RGBA', (width, height), color=(255, 255, 255, 255))
+    draw = ImageDraw.Draw(img)
+
+    # ---
+
+    _, title_height = title_font.getsize(title)
+    title_box_height = title_height + title_padding * 4
+    draw.rounded_rectangle(
+        ((inset, inset), (width - inset, inset + title_box_height)),
+        radius=rect_radius,
+        outline=(0, 0, 0),
+        width=rect_outline_width)
+
+    title_x = inset + rect_radius + title_padding
+    title_y = inset + title_padding + title_height
+    draw.text((title_x, title_y),
+              title,
+              font=title_font,
+              fill=(0, 0, 0),
+              anchor='ls')
+
+    # ---
+
+    type_width, type_height = type_font.getsize(card_type)
+    type_x = width - inset
+    type_y = height - inset - type_height // 2 - type_padding
+    draw.text((type_x, type_y),
+              card_type,
+              font=type_font,
+              fill=(0, 0, 0),
+              anchor='rm')
+
+    type_box_x = width // 2
+    type_box_y = height - inset
+    type_box_width = type_width + type_padding * 2
+    type_box_height = type_height + type_padding * 2
+    # draw.rounded_rectangle(
+    #     ((type_box_x - type_box_width // 2, type_box_y - type_box_height),
+    #      (type_box_x + type_box_width // 2, type_box_y)),
+    #     radius=rect_radius,
+    #     outline=(0, 0, 0),
+    #     width=rect_outline_width)
+
+    # ---
+
+    text_box_y = type_box_y - type_box_height
+    text_box_height = 0
+    if text:
+        text_width, text_height = text_font.getsize(text)
+        text_box_y = type_box_y - type_box_height - box_separation
+        text_box_height = num_text_lines * text_height + text_padding * 2
+        draw.rounded_rectangle(((inset, text_box_y - text_box_height),
+                                (width - inset, text_box_y)),
+                               radius=rect_radius,
+                               outline=(0, 0, 0),
+                               width=rect_outline_width)
+
+        draw.multiline_text((width // 2, text_box_y - text_box_height // 2),
+                            text_wrap(text, text_font,
+                                      width - inset * 2 - text_padding * 2),
+                            font=text_font,
+                            fill=(0, 0, 0),
+                            anchor='mm',
+                            align='center')
+
+    # --
+
+    img_box_y = inset + title_height + title_padding * 2 + box_separation
+    img_box_height = text_box_y - img_box_y - text_box_height - box_separation
+    draw.rounded_rectangle(
+        ((inset, img_box_y), (width - inset, img_box_y + img_box_height)),
+        radius=rect_radius,
+        outline=(0, 0, 0),
+        width=rect_outline_width)
+
+    return img, (inset, img_box_y), (width - inset, img_box_y + img_box_height)
 
 
 def main():
