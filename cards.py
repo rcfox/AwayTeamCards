@@ -9,6 +9,7 @@ import openpyxl
 
 Obstacle = namedtuple('Obstacle', ['element1', 'element2', 'name', 'flavour'])
 Reward = namedtuple('Reward', ['element1', 'element2', 'name', 'text'])
+Role = namedtuple('Role', ['name', 'power'])
 
 FONT_PATH = '/usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf'
 
@@ -57,11 +58,13 @@ def parse_spreadsheet(filename):
     elements = {}
     obstacles = []
     rewards = []
+    roles = []
 
     try:
         elements_sheet = wb['Elements']
         obstacles_sheet = wb['Obstacles']
         rewards_sheet = wb['Rewards']
+        roles_sheet = wb['SpeciesRolesTrait']
 
         for row in elements_sheet.iter_rows(min_row=2, max_col=2):
             elements[row[0].value] = row[1].value
@@ -72,10 +75,14 @@ def parse_spreadsheet(filename):
         for row in rewards_sheet.iter_rows(min_row=2, max_col=4):
             rewards.append(Reward(*[cell.value for cell in row]))
 
+        for row in roles_sheet.iter_rows(min_row=2, min_col=6, max_col=7):
+            if row[0].value:
+                roles.append(Role(*[cell.value for cell in row]))
+
     finally:
         wb.close()
 
-    return elements, obstacles, rewards
+    return elements, obstacles, rewards, roles
 
 
 def svg2image(svg, size):
@@ -89,6 +96,9 @@ def svg2image(svg, size):
 
 
 def draw_element_card(element, icon):
+    if 'macguffin' in element.lower():
+        return
+
     width = 407
     height = 585
 
@@ -222,6 +232,44 @@ def draw_reward_card(reward, elements):
     return img
 
 
+def draw_role_card(role):
+    width = 407
+    height = 585
+
+    img = Image.new('RGBA', (width, height), color=(255, 255, 255, 255))
+    draw = ImageDraw.Draw(img)
+
+    font = ImageFont.truetype(FONT_PATH, size=64)
+    text_width, text_height = font.getsize(role.name)
+
+    title_size = 65
+    while text_width > width - 64:
+        title_size -= 1
+        font = ImageFont.truetype(FONT_PATH, size=title_size)
+        text_width, text_height = font.getsize(role.name)
+
+    title_x = width // 2 - text_width // 2
+    title_y = 32
+
+    draw.text((title_x, title_y),
+              role.name,
+              font=font,
+              fill=(0, 0, 0),
+              align='center')
+
+    font = ImageFont.truetype(FONT_PATH, size=32)
+    line_height = font.getsize('hg')[1]
+
+    draw.multiline_text((width // 2, height // 2),
+                        text_wrap(role.power, font, width - 64),
+                        font=font,
+                        fill=(0, 0, 0),
+                        anchor='mm',
+                        align='center')
+
+    return img
+
+
 def create_image_sheets(name, images, hidden):
     if len(images) > 69:
         create_image_sheets(name + '_', images[70:], hidden)
@@ -256,11 +304,13 @@ def hidden_card(size):
 
 
 def main():
-    elements, obstacles, rewards = parse_spreadsheet(sys.argv[1])
+    elements, obstacles, rewards, roles = parse_spreadsheet(sys.argv[1])
 
     element_cards = []
     for element, icon in elements.items():
-        element_cards.append(draw_element_card(element, icon))
+        card = draw_element_card(element, icon)
+        if card is not None:
+            element_cards.append(card)
     hidden = hidden_card(element_cards[0].size)
     create_image_sheets('element', element_cards, hidden)
 
@@ -273,6 +323,11 @@ def main():
     for reward in rewards:
         reward_cards.append(draw_reward_card(reward, elements))
     create_image_sheets('reward', reward_cards, hidden)
+
+    role_cards = []
+    for role in roles:
+        role_cards.append(draw_role_card(role))
+    create_image_sheets('role', role_cards, hidden)
 
 
 if __name__ == '__main__':
