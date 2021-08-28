@@ -88,33 +88,11 @@ def parse_spreadsheet(filename):
 def svg2image(svg, size):
     width, height = size
     out = BytesIO()
-    cairosvg.svg2png(url=svg,
+    cairosvg.svg2png(url=f'icons/{svg}',
                      write_to=out,
                      parent_width=width,
                      parent_height=height)
     return Image.open(out)
-
-
-def icons_vertical(img, xy1, xy2, icons):
-    x1, y1 = xy1
-    x2, y2 = xy2
-
-    width = x2 - x1
-    height = y2 - y1
-
-    icon_size = min(width, height) // (len(icons) + 1)
-    icon_x = x1 + width // 2 - icon_size // 2
-
-    y_step = (height - icon_size) // len(icons)
-
-    icon_imgs = [svg2image(icon, (icon_size, icon_size)) for icon in icons]
-
-    icon_y = y1 + height // (len(icons) + 1) - icon_size // 2
-    for icon_img in icon_imgs:
-        img.paste(icon_img, (icon_x, icon_y), icon_img)
-        icon_y += y_step
-
-    return img
 
 
 def card_template(title, card_type, text):
@@ -217,6 +195,28 @@ def card_template(title, card_type, text):
     return img, (inset, img_box_y), (width - inset, img_box_y + img_box_height)
 
 
+def icons_vertical(img, xy1, xy2, icons):
+    x1, y1 = xy1
+    x2, y2 = xy2
+
+    width = x2 - x1
+    height = y2 - y1
+
+    icon_size = min(width, height) // (len(icons) + 1)
+    icon_x = x1 + width // 2 - icon_size // 2
+
+    y_step = (height - icon_size) // len(icons)
+
+    icon_imgs = [svg2image(icon, (icon_size, icon_size)) for icon in icons]
+
+    icon_y = y1 + height // (len(icons) + 1) - icon_size // 2
+    for icon_img in icon_imgs:
+        img.paste(icon_img, (icon_x, icon_y), icon_img)
+        icon_y += y_step
+
+    return img
+
+
 def icons_horizontal(img, xy1, xy2, icons):
     x1, y1 = xy1
     x2, y2 = xy2
@@ -244,14 +244,11 @@ def draw_element_card(element, icon):
         return
 
     img, xy1, xy2 = card_template(element, 'ELEMENT', '')
-
-    icons = [icon]
-    return icons_vertical(img, xy1, xy2, icons)
+    return icons_vertical(img, xy1, xy2, [icon])
 
 
 def draw_obstacle_card(obstacle, elements):
     img, xy1, xy2 = card_template(obstacle.name, 'OBSTACLE', obstacle.flavour)
-
     icons = [elements[obstacle.element1], elements[obstacle.element2]]
     return icons_horizontal(img, xy1, xy2, icons)
 
@@ -272,8 +269,7 @@ def draw_reward_card(reward, elements):
 
 def draw_role_card(role):
     img, xy1, xy2 = card_template(role.name, 'ROLE', role.power)
-    icons = ['role.svg']
-    return icons_vertical(img, xy1, xy2, icons)
+    return icons_vertical(img, xy1, xy2, ['role.svg'])
 
 
 def create_image_sheets(name, images, hidden):
@@ -301,21 +297,21 @@ def create_image_sheets(name, images, hidden):
     sheet.save(f'generated/{name}.png')
 
 
-def hidden_card(size):
+def hidden_card():
     img, xy1, xy2 = card_template('???', 'HIDDEN', '')
-    icons = ['hidden.svg']
-    return icons_vertical(img, xy1, xy2, icons)
+    return icons_vertical(img, xy1, xy2, ['hidden.svg'])
 
 
 def main():
     elements, obstacles, rewards, roles = parse_spreadsheet(sys.argv[1])
+
+    hidden = hidden_card()
 
     element_cards = []
     for element, icon in elements.items():
         card = draw_element_card(element, icon)
         if card is not None:
             element_cards.append(card)
-    hidden = hidden_card(element_cards[0].size)
     create_image_sheets('element', element_cards, hidden)
 
     obstacle_cards = []
