@@ -130,7 +130,7 @@ def card_template(title, card_type, text):
     rect_outline_width = 3
 
     title_font = ImageFont.truetype(FONT_PATH, size=32)
-    title_padding = 2
+    title_padding = 4
 
     type_font = ImageFont.truetype(FONT_PATH, size=16)
     type_padding = 2
@@ -143,8 +143,9 @@ def card_template(title, card_type, text):
 
     # ---
 
-    _, title_height = title_font.getsize(title)
-    title_box_height = title_height + title_padding * 4
+    # Add 'Q' to every string to try to get a uniform text height.
+    _, title_height = title_font.getsize(title + 'Q')
+    title_box_height = title_height + title_padding * 2
     draw.rounded_rectangle(
         ((inset, inset), (width - inset, inset + title_box_height)),
         radius=rect_radius,
@@ -152,16 +153,16 @@ def card_template(title, card_type, text):
         width=rect_outline_width)
 
     title_x = inset + rect_radius + title_padding
-    title_y = inset + title_padding + title_height
+    title_y = inset + title_padding
     draw.text((title_x, title_y),
               title,
               font=title_font,
               fill=(0, 0, 0),
-              anchor='ls')
+              anchor='la')
 
     # ---
 
-    type_width, type_height = type_font.getsize(card_type)
+    type_width, type_height = type_font.getsize(card_type + 'Q')
     type_x = width - inset
     type_y = height - inset - type_height // 2 - type_padding
     draw.text((type_x, type_y),
@@ -186,7 +187,7 @@ def card_template(title, card_type, text):
     text_box_y = type_box_y - type_box_height
     text_box_height = 0
     if text:
-        text_width, text_height = text_font.getsize(text)
+        text_width, text_height = text_font.getsize(text + 'Q')
         text_box_y = type_box_y - type_box_height - box_separation
         text_box_height = num_text_lines * text_height + text_padding * 2
         draw.rounded_rectangle(((inset, text_box_y - text_box_height),
