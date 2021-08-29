@@ -11,8 +11,7 @@ import openpyxl
 Element = namedtuple('Element', ['name', 'image', 'deck_count'])
 Obstacle = namedtuple(
     'Obstacle', ['element1', 'element2', 'name', 'flavour', 'deck_count'])
-Reward = namedtuple('Reward',
-                    ['element1', 'element2', 'name', 'text', 'deck_count'])
+Reward = namedtuple('Reward', ['name', 'text', 'deck_count', 'elements'])
 Role = namedtuple('Role', ['name', 'power'])
 
 FONT_PATH = '/usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf'
@@ -76,8 +75,15 @@ def parse_spreadsheet(filename):
         for row in obstacles_sheet.iter_rows(min_row=2, max_col=5):
             obstacles.append(Obstacle(*[cell.value for cell in row]))
 
-        for row in rewards_sheet.iter_rows(min_row=2, max_col=5):
-            rewards.append(Reward(*[cell.value for cell in row]))
+        for row in rewards_sheet.iter_rows(min_row=2):
+            name, text, deck_count, *reward_elements = [
+                cell.value for cell in row
+            ]
+            reward_elements = [el for el in reward_elements if el is not None]
+            if text == 'Total':
+                continue
+            rewards.append(Reward(name, text, int(deck_count),
+                                  reward_elements))
 
         for row in roles_sheet.iter_rows(min_row=2, min_col=6, max_col=7):
             if row[0].value:
@@ -257,13 +263,11 @@ def draw_obstacle_card(obstacle, elements):
 def draw_reward_card(reward, elements):
     name = reward.name
     if not name:
-        name = f'{reward.element1}/{reward.element2}'
+        name = '/'.join(reward.elements)
 
     img, xy1, xy2 = card_template(name, 'REWARD', reward.text)
 
-    icons = [elements[reward.element1]]
-    if reward.element2:
-        icons.append(elements[reward.element2])
+    icons = [elements[el] for el in reward.elements]
 
     return icons_vertical(img, xy1, xy2, icons)
 
@@ -284,19 +288,17 @@ def create_image_sheets(name, images, hidden):
         sheet_width = len(images) // 2 + 1
     sheet_height = len(images) // sheet_width + 1
 
-    card_width, card_height = images[0].size
+    card_width, card_height = hidden.size
 
     sheet = Image.new('RGB',
                       (sheet_width * card_width, sheet_height * card_height))
-    width, height = images[0].size
     for idx, image in enumerate(images):
-        x = (idx % sheet_width) * width
-        y = (idx // sheet_width) * height
+        x = (idx % sheet_width) * card_width
+        y = (idx // sheet_width) * card_height
         sheet.paste(image, (x, y), image)
 
-    sheet.paste(hidden,
-                ((sheet_width - 1) * width, (sheet_height - 1) * height),
-                hidden)
+    sheet.paste(hidden, ((sheet_width - 1) * card_width,
+                         (sheet_height - 1) * card_height), hidden)
     sheet.save(f'generated/{name}.png')
 
     yield name, min(len(images), 69), sheet_width, sheet_height
