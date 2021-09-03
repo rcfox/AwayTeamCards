@@ -615,7 +615,7 @@ def main():
     for idx, deck in enumerate(collection['ObjectStates']):
         deck['Transform']['posX'] = idx * 2.5
 
-    with open('all.json', 'w') as f:
+    with open('generated/all.json', 'w') as f:
         json.dump(collection, f, indent=2)
 
 
