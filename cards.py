@@ -380,9 +380,10 @@ def draw_role_card(role):
 
 
 def draw_macguffin_card(macguffin):
-    img, xy1, xy2 = card_template2(macguffin.name, 'MACGUFFIN', macguffin.text)
+    img, xy1, xy2 = card_template2(
+        f'({macguffin.power_rating}) {macguffin.name}', 'MACGUFFIN',
+        macguffin.text)
     return img
-    return icons_vertical(img, xy1, xy2, ['role.svg'])
 
 
 def create_image_sheets(name, images, hidden):
@@ -579,7 +580,7 @@ def define_role_deck(roles, hidden_card):
 
 
 def define_macguffin_deck(macguffins, hidden_card):
-    backface_url = 'https://hdwallpaperim.com/wp-content/uploads/2017/08/22/453064-space-space_art-stars-planet-nebula-galaxy.jpg'
+    backface_url = 'https://i.imgur.com/4FsVPIC.jpg'
 
     card_imgs = []
     card_data = []
@@ -590,9 +591,7 @@ def define_macguffin_deck(macguffins, hidden_card):
         card_data.append(card_json(macguffin.name, macguffin.text, 1))
         card_imgs.append(draw_macguffin_card(macguffin))
 
-    deck = deck_json(
-        'Macguffins',
-        'Player-specific special abilities to help you in the game.')
+    deck = deck_json('MacGuffins', 'Problems to solve.')
 
     return define_deck(deck, 'macguffin', backface_url, card_data, card_imgs,
                        hidden_card)
