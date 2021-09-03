@@ -13,6 +13,7 @@ Obstacle = namedtuple(
     'Obstacle', ['element1', 'element2', 'name', 'flavour', 'deck_count'])
 Reward = namedtuple('Reward', ['name', 'text', 'deck_count', 'elements'])
 Role = namedtuple('Role', ['name', 'power'])
+MacGuffin = namedtuple('MacGuffin', ['name', 'power_rating', 'text'])
 
 FONT_PATH = '/usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf'
 
@@ -62,20 +63,16 @@ def parse_spreadsheet(filename):
     obstacles = []
     rewards = []
     roles = []
+    macguffins = []
 
     try:
-        elements_sheet = wb['Elements']
-        obstacles_sheet = wb['Obstacles']
-        rewards_sheet = wb['Rewards']
-        roles_sheet = wb['SpeciesRolesTrait']
-
-        for row in elements_sheet.iter_rows(min_row=2, max_col=3):
+        for row in wb['Elements'].iter_rows(min_row=2, max_col=3):
             elements.append(Element(*[cell.value for cell in row]))
 
-        for row in obstacles_sheet.iter_rows(min_row=2, max_col=5):
+        for row in wb['Obstacles'].iter_rows(min_row=2, max_col=5):
             obstacles.append(Obstacle(*[cell.value for cell in row]))
 
-        for row in rewards_sheet.iter_rows(min_row=2):
+        for row in wb['Rewards'].iter_rows(min_row=2):
             name, text, deck_count, *reward_elements = [
                 cell.value for cell in row
             ]
@@ -85,14 +82,19 @@ def parse_spreadsheet(filename):
             rewards.append(Reward(name, text, int(deck_count),
                                   reward_elements))
 
-        for row in roles_sheet.iter_rows(min_row=2, min_col=6, max_col=7):
+        for row in wb['SpeciesRolesTrait'].iter_rows(min_row=2,
+                                                     min_col=6,
+                                                     max_col=7):
             if row[0].value:
                 roles.append(Role(*[cell.value for cell in row]))
+
+        for row in wb['MacGuffins'].iter_rows(min_row=2, max_col=3):
+            macguffins.append(MacGuffin(*[cell.value for cell in row]))
 
     finally:
         wb.close()
 
-    return elements, obstacles, rewards, roles
+    return elements, obstacles, rewards, roles, macguffins
 
 
 def svg2image(svg, size):
@@ -110,6 +112,106 @@ def card_template(title, card_type, text):
     height = 585
 
     num_text_lines = 8
+
+    inset = 24
+    box_separation = 8
+
+    rect_radius = 8
+    rect_outline_width = 3
+
+    title_font = ImageFont.truetype(FONT_PATH, size=32)
+    title_padding = 4
+
+    type_font = ImageFont.truetype(FONT_PATH, size=16)
+    type_padding = 2
+
+    text_font = ImageFont.truetype(FONT_PATH, size=24)
+    text_padding = 8
+
+    img = Image.new('RGBA', (width, height), color=(255, 255, 255, 255))
+    draw = ImageDraw.Draw(img)
+
+    # ---
+
+    # Add 'Q' to every string to try to get a uniform text height.
+    _, title_height = title_font.getsize(title + 'Q')
+    title_box_height = title_height + title_padding * 2
+    draw.rounded_rectangle(
+        ((inset, inset), (width - inset, inset + title_box_height)),
+        radius=rect_radius,
+        outline=(0, 0, 0),
+        width=rect_outline_width)
+
+    title_x = inset + rect_radius + title_padding
+    title_y = inset + title_padding
+    draw.text((title_x, title_y),
+              title,
+              font=title_font,
+              fill=(0, 0, 0),
+              anchor='la')
+
+    # ---
+
+    type_width, type_height = type_font.getsize(card_type + 'Q')
+    type_x = width - inset
+    type_y = height - inset - type_height // 2 - type_padding
+    draw.text((type_x, type_y),
+              card_type,
+              font=type_font,
+              fill=(0, 0, 0),
+              anchor='rm')
+
+    type_box_x = width // 2
+    type_box_y = height - inset
+    type_box_width = type_width + type_padding * 2
+    type_box_height = type_height + type_padding * 2
+    # draw.rounded_rectangle(
+    #     ((type_box_x - type_box_width // 2, type_box_y - type_box_height),
+    #      (type_box_x + type_box_width // 2, type_box_y)),
+    #     radius=rect_radius,
+    #     outline=(0, 0, 0),
+    #     width=rect_outline_width)
+
+    # ---
+
+    text_box_y = type_box_y - type_box_height
+    text_box_height = 0
+    if text:
+        text_width, text_height = text_font.getsize(text + 'Q')
+        text_box_y = type_box_y - type_box_height - box_separation
+        text_box_height = num_text_lines * text_height + text_padding * 2
+        draw.rounded_rectangle(((inset, text_box_y - text_box_height),
+                                (width - inset, text_box_y)),
+                               radius=rect_radius,
+                               outline=(0, 0, 0),
+                               width=rect_outline_width)
+
+        draw.multiline_text((width // 2, text_box_y - text_box_height // 2),
+                            text_wrap(text, text_font,
+                                      width - inset * 2 - text_padding * 2),
+                            font=text_font,
+                            fill=(0, 0, 0),
+                            anchor='mm',
+                            align='center')
+
+    # --
+
+    img_box_y = inset + title_height + title_padding * 2 + box_separation
+    img_box_height = text_box_y - img_box_y - text_box_height - box_separation
+    draw.rounded_rectangle(
+        ((inset, img_box_y), (width - inset, img_box_y + img_box_height)),
+        radius=rect_radius,
+        outline=(0, 0, 0),
+        width=rect_outline_width)
+
+    return img, (inset, img_box_y), (width - inset, img_box_y + img_box_height)
+
+
+def card_template2(title, card_type, text):
+    width = 407
+    height = 585
+
+    num_text_lines = 16
 
     inset = 24
     box_separation = 8
@@ -274,6 +376,12 @@ def draw_reward_card(reward, elements):
 
 def draw_role_card(role):
     img, xy1, xy2 = card_template(role.name, 'ROLE', role.power)
+    return icons_vertical(img, xy1, xy2, ['role.svg'])
+
+
+def draw_macguffin_card(macguffin):
+    img, xy1, xy2 = card_template2(macguffin.name, 'MACGUFFIN', macguffin.text)
+    return img
     return icons_vertical(img, xy1, xy2, ['role.svg'])
 
 
@@ -470,8 +578,29 @@ def define_role_deck(roles, hidden_card):
                        hidden_card)
 
 
+def define_macguffin_deck(macguffins, hidden_card):
+    backface_url = 'https://hdwallpaperim.com/wp-content/uploads/2017/08/22/453064-space-space_art-stars-planet-nebula-galaxy.jpg'
+
+    card_imgs = []
+    card_data = []
+    for macguffin in macguffins:
+        if macguffin.name is None:
+            continue
+
+        card_data.append(card_json(macguffin.name, macguffin.text, 1))
+        card_imgs.append(draw_macguffin_card(macguffin))
+
+    deck = deck_json(
+        'Macguffins',
+        'Player-specific special abilities to help you in the game.')
+
+    return define_deck(deck, 'macguffin', backface_url, card_data, card_imgs,
+                       hidden_card)
+
+
 def main():
-    elements, obstacles, rewards, roles = parse_spreadsheet(sys.argv[1])
+    elements, obstacles, rewards, roles, macguffins = parse_spreadsheet(
+        sys.argv[1])
 
     element_icons = {element.name: element.image for element in elements}
 
@@ -481,7 +610,8 @@ def main():
         define_element_deck(elements, hidden),
         define_obstacle_deck(obstacles, element_icons, hidden),
         define_reward_deck(rewards, element_icons, hidden),
-        define_role_deck(roles, hidden))
+        define_role_deck(roles, hidden),
+        define_macguffin_deck(macguffins, hidden))
 
     for idx, deck in enumerate(collection['ObjectStates']):
         deck['Transform']['posX'] = idx * 2.5
