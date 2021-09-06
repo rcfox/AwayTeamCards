@@ -11,6 +11,9 @@ FONT_PATH = '/usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf'
 
 ELEMENTS: Dict[str, Element] = {}
 
+Point = Tuple[int, int]
+BBox = Tuple[Point, Point]
+
 
 @dataclass
 class Element:
@@ -48,7 +51,7 @@ class CardTemplate:
     width: int = 407
     height: int = 585
 
-    min_text_box_size: int = 8
+    text_box_rows: int = 8
 
     inset: int = 24
     box_separation: int = 8
@@ -65,33 +68,45 @@ class CardTemplate:
     text_font_size: int = 24
     text_padding: int = 8
 
+    def get_x1(self) -> int:
+        return self.inset
+
+    def get_x2(self) -> int:
+        return self.width - self.inset
+
     def get_text_height(self, font: ImageFont) -> int:
         # Use 'Q' since it's full height and has a descender
         _, height = font.getsize('Q')
         return height
 
-    def draw_title_box(self, draw: ImageDraw, title: str) -> None:
+    def draw_title_box(self, draw: ImageDraw, title: str) -> BBox:
         font = self.font.font_variant(size=self.title_font_size)
 
         title_box_height = self.get_text_height(font) + self.title_padding * 2
 
-        draw.rounded_rectangle(
-            ((self.inset, self.inset),
-             (self.width - self.inset, self.inset + title_box_height)),
-            radius=self.rect_radius,
-            outline=self.fg_colour,
-            width=self.rect_stroke_width)
+        x1 = self.get_x1()
+        x2 = self.get_x2()
+        y1 = self.inset
+        y2 = y1 + title_box_height
 
-        title_x = self.inset + self.rect_radius + self.title_padding
-        title_y = self.inset + self.title_padding
+        draw.rounded_rectangle(((x1, y1), (x2, y2)),
+                               radius=self.rect_radius,
+                               outline=self.fg_colour,
+                               width=self.rect_stroke_width)
+
+        title_x = x1 + self.rect_radius + self.title_padding
+        title_y = y1 + self.title_padding
         draw.text((title_x, title_y),
                   title,
                   font=font,
                   fill=self.fg_colour,
                   anchor='la')
 
-    def draw_type_marker(self, draw: ImageDraw, card_type: str) -> None:
+        return ((x1, y1), (x2, y2))
+
+    def draw_type_marker(self, draw: ImageDraw, card_type: str) -> int:
         font = self.font.font_variant(size=self.type_font_size)
+
         type_height = self.get_text_height(font)
         type_x = self.width - self.inset
         type_y = self.height - self.inset - type_height // 2 - self.type_padding
@@ -101,59 +116,60 @@ class CardTemplate:
                   fill=self.fg_colour,
                   anchor='rm')
 
-    def get_text_box_height(self, text: str) -> int:
+        return type_height + self.type_padding * 2
+
+    def draw_text_box(self, draw: ImageDraw, text: str, offset: int) -> BBox:
         font = self.font.font_variant(size=self.text_font_size)
-        _, text_height = font.getsize(text + 'Q')
-        text_box_height = self.min_text_box_size * text_height + self.text_padding * 2
-        return text_box_height
 
-    def draw_text_box(self, draw: ImageDraw, text: str) -> None:
-        type_height = self.get_text_height(
-            self.font.font_variant(size=self.type_font_size))
-        bottom_y = self.height - self.inset - type_height - self.type_padding * 2
-        text_box_height = self.get_text_box_height(text)
-        top_y = bottom_y - text_box_height - self.box_separation
+        text_height = self.get_text_height(font)
+        text_box_height = self.text_box_rows * text_height + self.text_padding * 2
 
-        font = self.font.font_variant(size=self.text_font_size)
-        draw.rounded_rectangle(
-            ((self.inset, top_y), (self.width - self.inset, bottom_y)),
-            radius=self.rect_radius,
-            outline=self.fg_colour,
-            width=self.rect_stroke_width)
+        x1 = self.get_x1()
+        x2 = self.get_x2()
 
-        draw.multiline_text(
-            (self.width // 2, bottom_y - text_box_height // 2),
-            text_wrap(text, font,
-                      self.width - self.inset * 2 - self.text_padding * 2),
-            font=font,
-            fill=self.fg_colour,
-            anchor='mm',
-            align='center')
+        y2 = self.height - self.inset - offset
+        y1 = y2 - text_box_height - self.box_separation
 
-    def draw_image_box(self, draw: ImageDraw) -> None:
-        text_box_y = 200
-        text_box_height = 40
+        draw.rounded_rectangle(((x1, y1), (x2, y2)),
+                               radius=self.rect_radius,
+                               outline=self.fg_colour,
+                               width=self.rect_stroke_width)
 
-        title_height = self.get_text_height(
-            self.font.font_variant(size=self.title_font_size))
-        img_box_y = self.inset + title_height + self.title_padding * 2 + self.box_separation
-        img_box_height = text_box_y - img_box_y - text_box_height - self.box_separation
-        draw.rounded_rectangle(
-            ((self.inset, img_box_y),
-             (self.width - self.inset, img_box_y + img_box_height)),
-            radius=self.rect_radius,
-            outline=self.fg_colour,
-            width=self.rect_stroke_width)
+        text_x = x1 + (x2 - x1) // 2
+        text_y = y1 + (y2 - y1) // 2
+        max_width = (x2 - x1) - self.text_padding * 2
+
+        draw.multiline_text((text_x, text_y),
+                            text_wrap(text, font, max_width),
+                            font=font,
+                            fill=self.fg_colour,
+                            anchor='mm',
+                            align='center')
+
+        return ((x1, y1), (x2, y2))
+
+    def draw_image_box(self, draw: ImageDraw, y1: int, y2: int) -> BBox:
+        y1 = y1 + self.box_separation
+        y2 = y2 - self.box_separation
+        x1 = self.get_x1()
+        x2 = self.get_x2()
+
+        draw.rounded_rectangle(((x1, y1), (x2, y2)),
+                               radius=self.rect_radius,
+                               outline=self.fg_colour,
+                               width=self.rect_stroke_width)
+        return ((x1, y1), (x2, y2))
 
     def draw(self, card: Card):
         img = Image.new('RGBA', (self.width, self.height),
                         color=self.bg_colour)
         draw = ImageDraw.Draw(img)
 
-        self.draw_title_box(draw, card.name)
-        self.draw_text_box(draw, card.description)
-        self.draw_image_box(draw)
-        self.draw_type_marker(draw, card.get_card_type())
+        text_offset = self.draw_type_marker(draw, card.get_card_type())
+        title_bbox = self.draw_title_box(draw, card.name)
+        text_bbox = self.draw_text_box(draw, card.description, text_offset)
+        image_bbox = self.draw_image_box(draw, title_bbox[1][1],
+                                         text_bbox[0][1])
 
         return img
 
