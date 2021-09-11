@@ -62,4 +62,6 @@ class Card(Base):
     Name: str = 'Card'
     Hands: bool = True
     SidewaysCard: bool = False
+    GMNotes: str = '0'
     Transform: Transform = field(default_factory=Transform)
+    Tags: List[str] = field(default_factory=list)

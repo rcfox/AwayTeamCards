@@ -25,6 +25,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -35,7 +36,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Covert Ops"
+          ]
         },
         {
           "Nickname": "Covert Ops",
@@ -44,6 +50,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -54,7 +61,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Covert Ops"
+          ]
         },
         {
           "Nickname": "Covert Ops",
@@ -63,6 +75,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -73,7 +86,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Covert Ops"
+          ]
         },
         {
           "Nickname": "Covert Ops",
@@ -82,6 +100,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -92,7 +111,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Covert Ops"
+          ]
         },
         {
           "Nickname": "Covert Ops",
@@ -101,6 +125,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -111,7 +136,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Covert Ops"
+          ]
         },
         {
           "Nickname": "Covert Ops",
@@ -120,6 +150,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -130,7 +161,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Covert Ops"
+          ]
         },
         {
           "Nickname": "Covert Ops",
@@ -139,6 +175,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -149,7 +186,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Covert Ops"
+          ]
         },
         {
           "Nickname": "Covert Ops",
@@ -158,6 +200,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -168,7 +211,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Covert Ops"
+          ]
         },
         {
           "Nickname": "Covert Ops",
@@ -177,6 +225,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -187,7 +236,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Covert Ops"
+          ]
         },
         {
           "Nickname": "Covert Ops",
@@ -196,6 +250,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -206,7 +261,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Covert Ops"
+          ]
         },
         {
           "Nickname": "Covert Ops",
@@ -215,6 +275,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -225,7 +286,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Covert Ops"
+          ]
         },
         {
           "Nickname": "Covert Ops",
@@ -234,6 +300,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -244,7 +311,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Covert Ops"
+          ]
         },
         {
           "Nickname": "Power",
@@ -253,6 +325,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -263,7 +336,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Power"
+          ]
         },
         {
           "Nickname": "Power",
@@ -272,6 +350,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -282,7 +361,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Power"
+          ]
         },
         {
           "Nickname": "Power",
@@ -291,6 +375,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -301,7 +386,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Power"
+          ]
         },
         {
           "Nickname": "Power",
@@ -310,6 +400,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -320,7 +411,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Power"
+          ]
         },
         {
           "Nickname": "Power",
@@ -329,6 +425,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -339,7 +436,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Power"
+          ]
         },
         {
           "Nickname": "Power",
@@ -348,6 +450,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -358,7 +461,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Power"
+          ]
         },
         {
           "Nickname": "Power",
@@ -367,6 +475,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -377,7 +486,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Power"
+          ]
         },
         {
           "Nickname": "Power",
@@ -386,6 +500,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -396,7 +511,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Power"
+          ]
         },
         {
           "Nickname": "Power",
@@ -405,6 +525,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -415,7 +536,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Power"
+          ]
         },
         {
           "Nickname": "Power",
@@ -424,6 +550,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -434,7 +561,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Power"
+          ]
         },
         {
           "Nickname": "Power",
@@ -443,6 +575,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -453,7 +586,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Power"
+          ]
         },
         {
           "Nickname": "Power",
@@ -462,6 +600,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -472,7 +611,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Power"
+          ]
         },
         {
           "Nickname": "Air Support",
@@ -481,6 +625,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -491,7 +636,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Air Support"
+          ]
         },
         {
           "Nickname": "Air Support",
@@ -500,6 +650,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -510,7 +661,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Air Support"
+          ]
         },
         {
           "Nickname": "Air Support",
@@ -519,6 +675,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -529,7 +686,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Air Support"
+          ]
         },
         {
           "Nickname": "Air Support",
@@ -538,6 +700,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -548,7 +711,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Air Support"
+          ]
         },
         {
           "Nickname": "Air Support",
@@ -557,6 +725,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -567,7 +736,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Air Support"
+          ]
         },
         {
           "Nickname": "Air Support",
@@ -576,6 +750,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -586,7 +761,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Air Support"
+          ]
         },
         {
           "Nickname": "Air Support",
@@ -595,6 +775,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -605,7 +786,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Air Support"
+          ]
         },
         {
           "Nickname": "Air Support",
@@ -614,6 +800,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -624,7 +811,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Air Support"
+          ]
         },
         {
           "Nickname": "Air Support",
@@ -633,6 +825,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -643,7 +836,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Air Support"
+          ]
         },
         {
           "Nickname": "Air Support",
@@ -652,6 +850,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -662,7 +861,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Air Support"
+          ]
         },
         {
           "Nickname": "Air Support",
@@ -671,6 +875,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -681,7 +886,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Air Support"
+          ]
         },
         {
           "Nickname": "Air Support",
@@ -690,6 +900,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -700,7 +911,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Air Support"
+          ]
         },
         {
           "Nickname": "Combat",
@@ -709,6 +925,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -719,7 +936,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Combat"
+          ]
         },
         {
           "Nickname": "Combat",
@@ -728,6 +950,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -738,7 +961,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Combat"
+          ]
         },
         {
           "Nickname": "Combat",
@@ -747,6 +975,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -757,7 +986,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Combat"
+          ]
         },
         {
           "Nickname": "Combat",
@@ -766,6 +1000,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -776,7 +1011,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Combat"
+          ]
         },
         {
           "Nickname": "Combat",
@@ -785,6 +1025,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -795,7 +1036,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Combat"
+          ]
         },
         {
           "Nickname": "Combat",
@@ -804,6 +1050,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -814,7 +1061,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Combat"
+          ]
         },
         {
           "Nickname": "Combat",
@@ -823,6 +1075,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -833,7 +1086,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Combat"
+          ]
         },
         {
           "Nickname": "Combat",
@@ -842,6 +1100,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -852,7 +1111,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Combat"
+          ]
         },
         {
           "Nickname": "Combat",
@@ -861,6 +1125,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -871,7 +1136,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Combat"
+          ]
         },
         {
           "Nickname": "Combat",
@@ -880,6 +1150,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -890,7 +1161,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Combat"
+          ]
         },
         {
           "Nickname": "Combat",
@@ -899,6 +1175,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -909,7 +1186,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Combat"
+          ]
         },
         {
           "Nickname": "Combat",
@@ -918,6 +1200,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -928,7 +1211,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Combat"
+          ]
         },
         {
           "Nickname": "Diplomacy",
@@ -937,6 +1225,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -947,7 +1236,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Diplomacy",
@@ -956,6 +1250,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -966,7 +1261,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Diplomacy",
@@ -975,6 +1275,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -985,7 +1286,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Diplomacy",
@@ -994,6 +1300,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1004,7 +1311,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Diplomacy",
@@ -1013,6 +1325,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1023,7 +1336,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Diplomacy",
@@ -1032,6 +1350,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1042,7 +1361,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Diplomacy",
@@ -1051,6 +1375,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1061,7 +1386,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Diplomacy",
@@ -1070,6 +1400,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1080,7 +1411,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Diplomacy",
@@ -1089,6 +1425,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1099,7 +1436,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Diplomacy",
@@ -1108,6 +1450,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1118,7 +1461,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Diplomacy",
@@ -1127,6 +1475,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1137,7 +1486,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Diplomacy",
@@ -1146,6 +1500,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1156,7 +1511,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Luck",
@@ -1165,6 +1525,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1175,7 +1536,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Luck"
+          ]
         },
         {
           "Nickname": "Luck",
@@ -1184,6 +1550,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1194,7 +1561,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Luck"
+          ]
         },
         {
           "Nickname": "Luck",
@@ -1203,6 +1575,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1213,7 +1586,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Luck"
+          ]
         },
         {
           "Nickname": "Luck",
@@ -1222,6 +1600,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1232,7 +1611,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Luck"
+          ]
         },
         {
           "Nickname": "Luck",
@@ -1241,6 +1625,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1251,7 +1636,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Luck"
+          ]
         },
         {
           "Nickname": "Luck",
@@ -1260,6 +1650,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1270,7 +1661,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Luck"
+          ]
         },
         {
           "Nickname": "Luck",
@@ -1279,6 +1675,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1289,7 +1686,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Luck"
+          ]
         },
         {
           "Nickname": "Luck",
@@ -1298,6 +1700,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1308,7 +1711,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Luck"
+          ]
         },
         {
           "Nickname": "Luck",
@@ -1317,6 +1725,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1327,7 +1736,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Luck"
+          ]
         },
         {
           "Nickname": "Luck",
@@ -1336,6 +1750,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1346,7 +1761,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Luck"
+          ]
         },
         {
           "Nickname": "Luck",
@@ -1355,6 +1775,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1365,7 +1786,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Luck"
+          ]
         },
         {
           "Nickname": "Luck",
@@ -1374,6 +1800,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1384,7 +1811,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Luck"
+          ]
         },
         {
           "Nickname": "Science",
@@ -1393,6 +1825,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1403,7 +1836,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Science"
+          ]
         },
         {
           "Nickname": "Science",
@@ -1412,6 +1850,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1422,7 +1861,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Science"
+          ]
         },
         {
           "Nickname": "Science",
@@ -1431,6 +1875,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1441,7 +1886,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Science"
+          ]
         },
         {
           "Nickname": "Science",
@@ -1450,6 +1900,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1460,7 +1911,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Science"
+          ]
         },
         {
           "Nickname": "Science",
@@ -1469,6 +1925,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1479,7 +1936,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Science"
+          ]
         },
         {
           "Nickname": "Science",
@@ -1488,6 +1950,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1498,7 +1961,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Science"
+          ]
         },
         {
           "Nickname": "Science",
@@ -1507,6 +1975,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1517,7 +1986,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Science"
+          ]
         },
         {
           "Nickname": "Science",
@@ -1526,6 +2000,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1536,7 +2011,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Science"
+          ]
         },
         {
           "Nickname": "Science",
@@ -1545,6 +2025,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1555,7 +2036,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Science"
+          ]
         },
         {
           "Nickname": "Science",
@@ -1564,6 +2050,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1574,7 +2061,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Science"
+          ]
         },
         {
           "Nickname": "Science",
@@ -1583,6 +2075,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1593,7 +2086,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Science"
+          ]
         },
         {
           "Nickname": "Science",
@@ -1602,6 +2100,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1612,7 +2111,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Science"
+          ]
         }
       ],
       "DeckIDs": [
@@ -1703,7 +2207,7 @@
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Elements10.png?1631383337.7701514",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Elements10.png?1631400106.9734135",
           "BackURL": "https://i.imgur.com/A7Wa5GN.jpeg",
           "NumWidth": 10,
           "NumHeight": 2,
@@ -1738,6 +2242,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1748,7 +2253,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Covert Ops",
+            "Covert Ops"
+          ]
         },
         {
           "Nickname": "Sabotage",
@@ -1757,6 +2268,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1767,7 +2279,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Covert Ops",
+            "Power"
+          ]
         },
         {
           "Nickname": "Shuttle Hijack",
@@ -1776,6 +2294,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1786,7 +2305,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Covert Ops",
+            "Air Support"
+          ]
         },
         {
           "Nickname": "Guerrilla Warfare",
@@ -1795,6 +2320,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1805,7 +2331,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Covert Ops",
+            "Combat"
+          ]
         },
         {
           "Nickname": "Rig the Election",
@@ -1814,6 +2346,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1824,7 +2357,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Covert Ops",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Falsify Results",
@@ -1833,6 +2372,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1843,7 +2383,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Covert Ops",
+            "Science"
+          ]
         },
         {
           "Nickname": "Power Surge",
@@ -1852,6 +2398,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1862,7 +2409,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Power",
+            "Power"
+          ]
         },
         {
           "Nickname": "Engine Failure",
@@ -1871,6 +2424,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1881,7 +2435,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Power",
+            "Air Support"
+          ]
         },
         {
           "Nickname": "Raise Shields",
@@ -1890,6 +2450,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1900,7 +2461,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Power",
+            "Combat"
+          ]
         },
         {
           "Nickname": "Ansible",
@@ -1909,6 +2476,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1919,7 +2487,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Power",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Dyson Sphere",
@@ -1928,6 +2502,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1938,7 +2513,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Power",
+            "Science"
+          ]
         },
         {
           "Nickname": "Scramble Small Craft",
@@ -1947,6 +2528,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1957,7 +2539,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Air Support",
+            "Air Support"
+          ]
         },
         {
           "Nickname": "Dog Fight",
@@ -1966,6 +2554,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1976,7 +2565,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Air Support",
+            "Combat"
+          ]
         },
         {
           "Nickname": "Escort Mission",
@@ -1985,6 +2580,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1995,7 +2591,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Air Support",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Warp Field Collapse",
@@ -2004,6 +2606,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2014,7 +2617,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Air Support",
+            "Science"
+          ]
         },
         {
           "Nickname": "Skirmish",
@@ -2023,6 +2632,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2033,7 +2643,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Combat",
+            "Combat"
+          ]
         },
         {
           "Nickname": "Cease Fire Treaty",
@@ -2042,6 +2658,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2052,7 +2669,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Combat",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Army of Clones",
@@ -2061,6 +2684,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2071,7 +2695,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Combat",
+            "Science"
+          ]
         },
         {
           "Nickname": "Theory of Mind",
@@ -2080,6 +2710,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2090,7 +2721,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Diplomacy",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Androids' Rights",
@@ -2099,6 +2736,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2109,7 +2747,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Diplomacy",
+            "Science"
+          ]
         },
         {
           "Nickname": "Symposium",
@@ -2118,6 +2762,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2128,7 +2773,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Science",
+            "Science"
+          ]
         },
         {
           "Nickname": "Hide and Seek",
@@ -2137,6 +2788,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2147,7 +2799,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Covert Ops",
+            "Any"
+          ]
         },
         {
           "Nickname": "Bachelor of Engineering",
@@ -2156,6 +2814,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2166,7 +2825,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Power",
+            "Any"
+          ]
         },
         {
           "Nickname": "Flight School",
@@ -2175,6 +2840,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2185,7 +2851,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Air Support",
+            "Any"
+          ]
         },
         {
           "Nickname": "Boot Camp",
@@ -2194,6 +2866,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2204,7 +2877,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Combat",
+            "Any"
+          ]
         },
         {
           "Nickname": "Debate Club",
@@ -2213,6 +2892,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2223,7 +2903,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Diplomacy",
+            "Any"
+          ]
         },
         {
           "Nickname": "Science Fair",
@@ -2232,6 +2918,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2242,7 +2929,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Science",
+            "Any"
+          ]
         },
         {
           "Nickname": "Vacation",
@@ -2251,6 +2944,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2261,7 +2955,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Any",
+            "Any"
+          ]
         }
       ],
       "DeckIDs": [
@@ -2296,7 +2996,7 @@
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Obstacles10.png?1631383337.7702098",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Obstacles10.png?1631400106.9734871",
           "BackURL": "https://i.imgur.com/LS2eGhT.jpg",
           "NumWidth": 10,
           "NumHeight": 4,
@@ -2331,6 +3031,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2341,7 +3042,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Power"
+          ]
         },
         {
           "Nickname": "Covert Ops/Air Support",
@@ -2350,6 +3057,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2360,7 +3068,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Air Support"
+          ]
         },
         {
           "Nickname": "Covert Ops/Combat",
@@ -2369,6 +3083,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2379,7 +3094,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Combat"
+          ]
         },
         {
           "Nickname": "Covert Ops/Diplomacy",
@@ -2388,6 +3109,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2398,7 +3120,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Covert Ops/Science",
@@ -2407,6 +3135,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2417,7 +3146,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Science"
+          ]
         },
         {
           "Nickname": "Power/Air Support",
@@ -2426,6 +3161,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2436,7 +3172,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power",
+            "Air Support"
+          ]
         },
         {
           "Nickname": "Power/Combat",
@@ -2445,6 +3187,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2455,7 +3198,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power",
+            "Combat"
+          ]
         },
         {
           "Nickname": "Power/Diplomacy",
@@ -2464,6 +3213,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2474,7 +3224,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Power/Science",
@@ -2483,6 +3239,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2493,7 +3250,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power",
+            "Science"
+          ]
         },
         {
           "Nickname": "Air Support/Combat",
@@ -2502,6 +3265,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2512,7 +3276,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Air Support",
+            "Combat"
+          ]
         },
         {
           "Nickname": "Air Support/Diplomacy",
@@ -2521,6 +3291,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2531,7 +3302,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Air Support",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Air Support/Science",
@@ -2540,6 +3317,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2550,7 +3328,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Air Support",
+            "Science"
+          ]
         },
         {
           "Nickname": "Combat/Diplomacy",
@@ -2559,6 +3343,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2569,7 +3354,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Combat",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Combat/Science",
@@ -2578,6 +3369,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2588,7 +3380,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Combat",
+            "Science"
+          ]
         },
         {
           "Nickname": "Diplomacy/Science",
@@ -2597,6 +3395,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2607,7 +3406,13 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Diplomacy",
+            "Science"
+          ]
         },
         {
           "Nickname": "Covert Ops/Power/Air Support",
@@ -2616,6 +3421,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2626,7 +3432,14 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Power",
+            "Air Support"
+          ]
         },
         {
           "Nickname": "Covert Ops/Power/Combat",
@@ -2635,6 +3448,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2645,7 +3459,14 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Power",
+            "Combat"
+          ]
         },
         {
           "Nickname": "Covert Ops/Power/Diplomacy",
@@ -2654,6 +3475,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2664,7 +3486,14 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Power",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Covert Ops/Power/Science",
@@ -2673,6 +3502,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2683,7 +3513,14 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Power",
+            "Science"
+          ]
         },
         {
           "Nickname": "Covert Ops/Air Support/Combat",
@@ -2692,6 +3529,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2702,7 +3540,14 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Air Support",
+            "Combat"
+          ]
         },
         {
           "Nickname": "Covert Ops/Air Support/Diplomacy",
@@ -2711,6 +3556,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2721,7 +3567,14 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Air Support",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Covert Ops/Air Support/Science",
@@ -2730,6 +3583,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2740,7 +3594,14 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Air Support",
+            "Science"
+          ]
         },
         {
           "Nickname": "Covert Ops/Combat/Diplomacy",
@@ -2749,6 +3610,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2759,7 +3621,14 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Combat",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Covert Ops/Combat/Science",
@@ -2768,6 +3637,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2778,7 +3648,14 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Combat",
+            "Science"
+          ]
         },
         {
           "Nickname": "Covert Ops/Diplomacy/Science",
@@ -2787,6 +3664,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2797,7 +3675,14 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Diplomacy",
+            "Science"
+          ]
         },
         {
           "Nickname": "Power/Air Support/Combat",
@@ -2806,6 +3691,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2816,7 +3702,14 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power",
+            "Air Support",
+            "Combat"
+          ]
         },
         {
           "Nickname": "Power/Air Support/Diplomacy",
@@ -2825,6 +3718,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2835,7 +3729,14 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power",
+            "Air Support",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Power/Air Support/Science",
@@ -2844,6 +3745,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2854,7 +3756,14 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power",
+            "Air Support",
+            "Science"
+          ]
         },
         {
           "Nickname": "Power/Combat/Diplomacy",
@@ -2863,6 +3772,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2873,7 +3783,14 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power",
+            "Combat",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Power/Combat/Science",
@@ -2882,6 +3799,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2892,7 +3810,14 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power",
+            "Combat",
+            "Science"
+          ]
         },
         {
           "Nickname": "Power/Diplomacy/Science",
@@ -2901,6 +3826,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2911,7 +3837,14 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power",
+            "Diplomacy",
+            "Science"
+          ]
         },
         {
           "Nickname": "Air Support/Combat/Diplomacy",
@@ -2920,6 +3853,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2930,7 +3864,14 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Air Support",
+            "Combat",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Air Support/Combat/Science",
@@ -2939,6 +3880,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2949,7 +3891,14 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Air Support",
+            "Combat",
+            "Science"
+          ]
         },
         {
           "Nickname": "Air Support/Diplomacy/Science",
@@ -2958,6 +3907,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2968,7 +3918,14 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Air Support",
+            "Diplomacy",
+            "Science"
+          ]
         },
         {
           "Nickname": "Combat/Diplomacy/Science",
@@ -2977,6 +3934,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -2987,7 +3945,14 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Combat",
+            "Diplomacy",
+            "Science"
+          ]
         },
         {
           "Nickname": "Know your Foe",
@@ -2996,6 +3961,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3006,7 +3972,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops"
+          ]
         },
         {
           "Nickname": "Know your Foe",
@@ -3015,6 +3986,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3025,7 +3997,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops"
+          ]
         },
         {
           "Nickname": "Cryptomining",
@@ -3034,6 +4011,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3044,7 +4022,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power"
+          ]
         },
         {
           "Nickname": "Cryptomining",
@@ -3053,6 +4036,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3063,7 +4047,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power"
+          ]
         },
         {
           "Nickname": "Reinforcements",
@@ -3072,6 +4061,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3082,7 +4072,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Air Support"
+          ]
         },
         {
           "Nickname": "Reinforcements",
@@ -3091,6 +4086,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3101,7 +4097,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Air Support"
+          ]
         },
         {
           "Nickname": "By Any Means",
@@ -3110,6 +4111,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3120,7 +4122,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Combat"
+          ]
         },
         {
           "Nickname": "By Any Means",
@@ -3129,6 +4136,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3139,7 +4147,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Combat"
+          ]
         },
         {
           "Nickname": "Bargaining",
@@ -3148,6 +4161,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3158,7 +4172,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Bargaining",
@@ -3167,6 +4186,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3177,7 +4197,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Diplomacy"
+          ]
         },
         {
           "Nickname": "Discovery",
@@ -3186,6 +4211,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3196,7 +4222,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Science"
+          ]
         },
         {
           "Nickname": "Discovery",
@@ -3205,6 +4236,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3215,7 +4247,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Science"
+          ]
         },
         {
           "Nickname": "Preparation",
@@ -3224,6 +4261,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3234,7 +4272,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Luck"
+          ]
         },
         {
           "Nickname": "Preparation",
@@ -3243,6 +4286,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3253,7 +4297,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Luck"
+          ]
         },
         {
           "Nickname": "Consolidation",
@@ -3262,6 +4311,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3272,7 +4322,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Unity"
+          ]
         },
         {
           "Nickname": "Consolidation",
@@ -3281,6 +4336,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3291,7 +4347,12 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Unity"
+          ]
         }
       ],
       "DeckIDs": [
@@ -3349,7 +4410,7 @@
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Rewards10.png?1631383337.7702684",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Rewards10.png?1631400106.9735827",
           "BackURL": "https://i.imgur.com/qtH7MDU.jpg",
           "NumWidth": 10,
           "NumHeight": 6,
@@ -3384,6 +4445,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3394,7 +4456,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Karmics",
@@ -3403,6 +4469,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3413,7 +4480,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Farseers",
@@ -3422,6 +4493,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3432,7 +4504,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Converts",
@@ -3441,6 +4517,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3451,7 +4528,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Specialists",
@@ -3460,6 +4541,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3470,7 +4552,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Glass Cannon",
@@ -3479,6 +4565,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3489,7 +4576,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Empaths",
@@ -3498,6 +4589,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3508,7 +4600,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Minotaurs",
@@ -3517,6 +4613,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3527,7 +4624,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Planners",
@@ -3536,6 +4637,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3546,7 +4648,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Sensors",
@@ -3555,6 +4661,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3565,7 +4672,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Polyannas",
@@ -3574,6 +4685,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3584,7 +4696,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Sadomasochists",
@@ -3593,6 +4709,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3603,7 +4720,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Cybermen",
@@ -3612,6 +4733,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3622,7 +4744,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Tanks",
@@ -3631,6 +4757,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3641,7 +4768,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Faithwalkers",
@@ -3650,6 +4781,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3660,7 +4792,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Gambler",
@@ -3669,6 +4805,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3679,7 +4816,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Jack-of-all-Trades",
@@ -3688,6 +4829,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3698,7 +4840,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Influencers",
@@ -3707,6 +4853,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3717,7 +4864,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Kin",
@@ -3726,6 +4877,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3736,7 +4888,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Monopolists",
@@ -3745,6 +4901,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3755,7 +4912,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Snufflers",
@@ -3764,6 +4925,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3774,7 +4936,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Slavers",
@@ -3783,6 +4949,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3793,7 +4960,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Sorcerers",
@@ -3802,6 +4973,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3812,7 +4984,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Heptapods",
@@ -3821,6 +4997,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3831,7 +5008,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "r-Strategist",
@@ -3840,6 +5021,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3850,7 +5032,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Transmuters",
@@ -3859,6 +5045,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3869,7 +5056,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Pragmatists",
@@ -3878,6 +5069,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3888,7 +5080,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Lucky Devils",
@@ -3897,6 +5093,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3907,7 +5104,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Trader",
@@ -3916,6 +5117,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3926,7 +5128,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Admiral",
@@ -3935,6 +5141,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3945,7 +5152,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Glorified Engineers",
@@ -3954,6 +5165,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3964,7 +5176,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Warrior Caste",
@@ -3973,6 +5189,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -3983,7 +5200,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Chameleons",
@@ -3992,6 +5213,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4002,7 +5224,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Analogists",
@@ -4011,6 +5237,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4021,7 +5248,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Black Market Dealers",
@@ -4030,6 +5261,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4040,7 +5272,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         },
         {
           "Nickname": "Ace Pilots",
@@ -4049,6 +5285,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "0",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4059,7 +5296,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
         }
       ],
       "DeckIDs": [
@@ -4102,7 +5343,7 @@
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Roles10.png?1631383337.7703483",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Roles10.png?1631400106.9737198",
           "BackURL": "https://hdwallpaperim.com/wp-content/uploads/2017/08/22/453064-space-space_art-stars-planet-nebula-galaxy.jpg",
           "NumWidth": 10,
           "NumHeight": 4,
@@ -4137,6 +5378,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4147,7 +5389,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Bravado",
@@ -4156,6 +5402,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4166,7 +5413,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Incentivisational Governance",
@@ -4175,6 +5426,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4185,7 +5437,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Planned Economy",
@@ -4194,6 +5450,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4204,7 +5461,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Oligopoly",
@@ -4213,6 +5474,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4223,7 +5485,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Natural Conservationism",
@@ -4232,6 +5498,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4242,7 +5509,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Wealth Tax",
@@ -4251,6 +5522,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4261,7 +5533,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Compulsory Tithes",
@@ -4270,6 +5546,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4280,7 +5557,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Rapid Communication",
@@ -4289,6 +5570,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4299,7 +5581,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Ansible",
@@ -4308,6 +5594,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4318,7 +5605,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Cultural Convergence",
@@ -4327,6 +5618,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4337,7 +5629,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Conscription",
@@ -4346,6 +5642,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4356,7 +5653,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Logicracy",
@@ -4365,6 +5666,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4375,7 +5677,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Micromanufacoties",
@@ -4384,6 +5690,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4394,7 +5701,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Amishism",
@@ -4403,6 +5714,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4413,7 +5725,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "No Daniels Allowed ",
@@ -4422,6 +5738,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4432,7 +5749,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Free Market Economy",
@@ -4441,6 +5762,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4451,7 +5773,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Income Tax",
@@ -4460,6 +5786,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4470,7 +5797,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "New Employment Sector",
@@ -4479,6 +5810,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4489,7 +5821,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Rapid Deployment",
@@ -4498,6 +5834,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4508,7 +5845,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Rapid Deployment",
@@ -4517,6 +5858,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4527,7 +5869,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Rapid Deployment",
@@ -4536,6 +5882,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4546,7 +5893,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Rapid Deployment",
@@ -4555,6 +5906,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4565,7 +5917,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Self Preservation",
@@ -4574,6 +5930,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4584,7 +5941,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Superstition",
@@ -4593,6 +5954,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4603,7 +5965,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Honour Code",
@@ -4612,6 +5978,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4622,7 +5989,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Uniformity",
@@ -4631,6 +6002,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4641,7 +6013,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Virtue Signaling",
@@ -4650,6 +6026,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4660,7 +6037,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Royal Blood",
@@ -4669,6 +6050,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4679,7 +6061,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Borderless Society",
@@ -4688,6 +6074,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4698,7 +6085,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Pro-Immigration Policy",
@@ -4707,6 +6098,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4717,7 +6109,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Renaissance",
@@ -4726,6 +6122,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4736,7 +6133,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Perfectionism",
@@ -4745,6 +6146,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4755,7 +6157,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Ultimate Power",
@@ -4764,6 +6170,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4774,7 +6181,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Confederation Membership",
@@ -4783,6 +6194,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4793,7 +6205,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Obstinance",
@@ -4802,6 +6218,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4812,7 +6229,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Prosperity Faith",
@@ -4821,6 +6242,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4831,7 +6253,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Atheism",
@@ -4840,6 +6266,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4850,7 +6277,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Virtual World",
@@ -4859,6 +6290,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4869,7 +6301,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Rationing",
@@ -4878,6 +6314,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4888,7 +6325,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Etiquette",
@@ -4897,6 +6338,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4907,7 +6349,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Value Realignment",
@@ -4916,6 +6362,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4926,7 +6373,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Value Realignment",
@@ -4935,6 +6386,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4945,7 +6397,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Experimental Technology",
@@ -4954,6 +6410,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4964,7 +6421,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Experimental Technology",
@@ -4973,6 +6434,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -4983,7 +6445,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Biodegradable Products",
@@ -4992,6 +6458,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5002,7 +6469,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Wormhole Funnel",
@@ -5011,6 +6482,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5021,7 +6493,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Logistic Efficiency",
@@ -5030,6 +6506,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5040,7 +6517,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Status Quo",
@@ -5049,6 +6530,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5059,7 +6541,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Lateral Thinking",
@@ -5068,6 +6554,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5078,7 +6565,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Replicators",
@@ -5087,6 +6578,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5097,7 +6589,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Cryosleep Chambers",
@@ -5106,6 +6602,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5116,7 +6613,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Financial Planning",
@@ -5125,6 +6626,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5135,7 +6637,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Interdisciplinarity",
@@ -5144,6 +6650,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5154,7 +6661,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Solidarity",
@@ -5163,6 +6674,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5173,7 +6685,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Hyperlanes",
@@ -5182,6 +6698,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5192,7 +6709,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Forecasting",
@@ -5201,6 +6722,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5211,7 +6733,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Forecasting",
@@ -5220,6 +6746,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5230,7 +6757,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Long Range Forecasting",
@@ -5239,6 +6770,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5249,7 +6781,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Utility Belt",
@@ -5258,6 +6794,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5268,7 +6805,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Collective Unconscious",
@@ -5277,6 +6818,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5287,7 +6829,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Mind Link",
@@ -5296,6 +6842,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5306,7 +6853,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Nobody Left Behind",
@@ -5315,6 +6866,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5325,7 +6877,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Self-Sacrifice",
@@ -5334,6 +6890,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5344,7 +6901,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Cultural Exchange",
@@ -5353,6 +6914,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5363,7 +6925,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Cultural Exchange",
@@ -5372,6 +6938,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5382,7 +6949,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "United Front",
@@ -5391,6 +6962,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5401,7 +6973,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Emergency Command Hologram",
@@ -5410,6 +6986,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5420,7 +6997,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Bail Out",
@@ -5429,6 +7010,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5439,7 +7021,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Rules of Acquisition",
@@ -5448,6 +7034,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5458,7 +7045,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Reality Rewriter",
@@ -5467,6 +7058,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5477,7 +7069,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Androids",
@@ -5486,6 +7082,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5496,7 +7093,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Collectivism",
@@ -5505,6 +7106,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5515,7 +7117,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Transmogriphier",
@@ -5524,6 +7130,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5534,7 +7141,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Cutting Edge",
@@ -5543,6 +7154,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5553,7 +7165,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "New Math",
@@ -5562,6 +7178,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5572,7 +7189,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Neutralizing Beam",
@@ -5581,6 +7202,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5591,7 +7213,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "The Answer",
@@ -5600,6 +7226,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5610,7 +7237,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Specialiazation",
@@ -5619,6 +7250,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5629,7 +7261,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Mindfulness",
@@ -5638,6 +7274,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5648,7 +7285,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Singular Focus",
@@ -5657,6 +7298,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5667,7 +7309,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Joie de Vivre",
@@ -5676,6 +7322,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5686,7 +7333,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Recycling",
@@ -5695,6 +7346,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5705,7 +7357,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Honour",
@@ -5714,6 +7370,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5724,7 +7381,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Selflessness",
@@ -5733,6 +7394,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5743,7 +7405,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Work Detail",
@@ -5752,6 +7418,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5762,7 +7429,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Thoughts and Prayers",
@@ -5771,6 +7442,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5781,7 +7453,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Windfall",
@@ -5790,6 +7466,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5800,7 +7477,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Revaluation",
@@ -5809,6 +7490,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5819,7 +7501,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Epicureanism",
@@ -5828,6 +7514,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5838,7 +7525,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Tachyon Imbedder",
@@ -5847,6 +7538,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5857,7 +7549,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Patience",
@@ -5866,6 +7562,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5876,7 +7573,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Delayed Gratification",
@@ -5885,6 +7586,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5895,7 +7597,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Delayed Gratification",
@@ -5904,6 +7610,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5914,7 +7621,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Delayed Gratification",
@@ -5923,6 +7634,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5933,7 +7645,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Infinite Improbability",
@@ -5942,6 +7658,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5952,7 +7669,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Philosopher's Stone",
@@ -5961,6 +7682,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5971,7 +7693,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Untitled",
@@ -5980,6 +7706,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -5990,7 +7717,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Untitled",
@@ -5999,6 +7730,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6009,7 +7741,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Untitled",
@@ -6018,6 +7754,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6028,7 +7765,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Untitled",
@@ -6037,6 +7778,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6047,7 +7789,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Untitled",
@@ -6056,6 +7802,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6066,7 +7813,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Untitled",
@@ -6075,6 +7826,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6085,7 +7837,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Untitled",
@@ -6094,6 +7850,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6104,7 +7861,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Untitled",
@@ -6113,6 +7874,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6123,7 +7885,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Find the Cure",
@@ -6132,6 +7898,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6142,7 +7909,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Untitled",
@@ -6151,6 +7922,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6161,7 +7933,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Archiving",
@@ -6170,6 +7946,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6180,7 +7957,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Plentitude",
@@ -6189,6 +7970,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6199,7 +7981,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Selective Citizenship",
@@ -6208,6 +7994,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6218,7 +8005,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Martial Law",
@@ -6227,6 +8018,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6237,7 +8029,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Transgenics",
@@ -6246,6 +8042,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6256,7 +8053,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Face Melting Laser",
@@ -6265,6 +8066,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6275,7 +8077,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Consciousness Upload",
@@ -6284,6 +8090,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6294,7 +8101,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Mob Rule",
@@ -6303,6 +8114,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6313,7 +8125,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Technocracy",
@@ -6322,6 +8138,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6332,7 +8149,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Omnipotent AI",
@@ -6341,6 +8162,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6351,7 +8173,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Element Zero",
@@ -6360,6 +8186,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6370,7 +8197,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Archimedes Lever",
@@ -6379,6 +8210,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6389,7 +8221,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Enlightmentment",
@@ -6398,6 +8234,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6408,7 +8245,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Oneness",
@@ -6417,6 +8258,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6427,7 +8269,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Tricorder",
@@ -6436,6 +8282,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6446,7 +8293,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Universal Recording",
@@ -6455,6 +8306,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6465,7 +8317,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Polydactylity",
@@ -6474,6 +8330,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6484,7 +8341,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Cheap Plastic Surgery",
@@ -6493,6 +8354,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6503,7 +8365,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         },
         {
           "Nickname": "Bistromathics",
@@ -6512,6 +8378,7 @@
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
+          "GMNotes": "9",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -6522,7 +8389,11 @@
             "scaleX": 1,
             "scaleY": 1,
             "scaleZ": 1
-          }
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
         }
       ],
       "DeckIDs": [
@@ -6655,7 +8526,7 @@
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/MacGuffins10.png?1631383337.7704048",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/MacGuffins10.png?1631400106.9737961",
           "BackURL": "https://i.imgur.com/4FsVPIC.jpg",
           "NumWidth": 10,
           "NumHeight": 7,
@@ -6664,7 +8535,7 @@
           "Type": 0
         },
         "11": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/MacGuffins11.png?1631383337.7705498",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/MacGuffins11.png?1631400106.9739766",
           "BackURL": "https://i.imgur.com/4FsVPIC.jpg",
           "NumWidth": 10,
           "NumHeight": 6,

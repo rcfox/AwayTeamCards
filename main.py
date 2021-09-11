@@ -14,8 +14,9 @@ SAVE_DIR = Path('generated')
 
 def main(spreadsheet: Path):
     decks = Deck.load_decks(spreadsheet)
+    decks['MacGuffins'].sort_value = '9'
 
-    tts_decks = [deck.create_tts_deck() for deck in decks]
+    tts_decks = [deck.create_tts_deck() for deck in decks.values()]
     for i, deck in enumerate(tts_decks):
         deck.Transform.posX = i * 2.5
 
@@ -25,7 +26,7 @@ def main(spreadsheet: Path):
     with output_json.open('w') as f:
         json.dump(collection.to_json(), f, indent=2)
 
-    for deck in decks:
+    for deck in decks.values():
         print(deck.name)
         deck.generate_card_sheets()
 

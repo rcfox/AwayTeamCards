@@ -59,6 +59,9 @@ class Card:
     def get_card_type(self) -> str:
         return self.__class__.__name__.replace('Card', '')
 
+    def get_tags(self) -> List[str]:
+        return ['Card']
+
     def generate_image(self, image: Image, bbox: BBox) -> None:
         return
 
@@ -89,6 +92,9 @@ class ElementCard(Card):
                                 ImageOnlyCardTemplate(), element))
         return cards
 
+    def get_tags(self) -> List[str]:
+        return super().get_tags() + ['Element', self.element.name]
+
     def generate_image(self, image: Image, bbox: BBox) -> None:
         icons = [self.element.image_path]
         image_helper.draw_image_row(image, bbox, icons)
@@ -113,6 +119,10 @@ class ObstacleCard(Card):
                     ObstacleCard(name, description, deck_count, CardTemplate(),
                                  elements))
         return cards
+
+    def get_tags(self) -> List[str]:
+        return (super().get_tags() + ['Obstacle'] +
+                [e.name for e in self.elements])
 
     def generate_image(self, image: Image, bbox: BBox) -> None:
         icons = [element.image_path for element in self.elements]
@@ -150,6 +160,10 @@ class RewardCard(Card):
                                elements))
         return cards
 
+    def get_tags(self) -> List[str]:
+        return (super().get_tags() + ['Reward'] +
+                [e.name for e in self.elements])
+
     def generate_image(self, image: Image, bbox: BBox) -> None:
         icons = [element.image_path for element in self.elements]
         image_helper.draw_image_column(image, bbox, icons)
@@ -174,6 +188,9 @@ class RoleCard(Card):
                 cards.append(
                     RoleCard(name, description, deck_count, CardTemplate()))
         return cards
+
+    def get_tags(self) -> List[str]:
+        return super().get_tags() + ['Role']
 
     def generate_image(self, image: Image, bbox: BBox) -> None:
         icons = [ICON_DIR / 'role.svg']
@@ -207,6 +224,9 @@ class MacguffinCard(Card):
                     MacguffinCard(name, description, deck_count,
                                   TextOnlyCardTemplate(), power_rating))
         return cards
+
+    def get_tags(self) -> List[str]:
+        return super().get_tags() + ['MacGuffin']
 
 
 @dataclass

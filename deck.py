@@ -25,17 +25,18 @@ class Deck:
     back_url: str
     hidden_card: Image
     cards: List[Card]
+    sort_value: str = '0'
 
     @classmethod
     def load_decks(self, path: Path) -> Dict[str, Deck]:
         card_types = Card.load_card_types(path)
         hidden = card_types['HiddenCard'][0].draw()
 
-        decks = []
+        decks = {}
         for row in util.spreadsheet_as_dicts(path, 'Decks'):
             deck = Deck(row['Name'], row['Description'], row['Back Image'],
                         hidden, card_types[row['Card Class']])
-            decks.append(deck)
+            decks[deck.name] = deck
         return decks
 
     def subdecks(self) -> Iterable[Card]:
@@ -72,6 +73,8 @@ class Deck:
             for card_id, card in enumerate(subdeck, start=subdeck_idx * 100):
                 tts_card = tabletop_simulator.Card(card.name, card.description,
                                                    card_id)
+                tts_card.GMNotes = self.sort_value
+                tts_card.Tags = card.get_tags()
                 for _ in range(card.deck_count):
                     tts_deck.DeckIDs.append(card_id)
                     tts_deck.ContainedObjects.append(tts_card)
