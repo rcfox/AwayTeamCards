@@ -3,7 +3,8 @@ from pathlib import Path
 from typing import List
 
 import cairosvg
-from PIL import Image
+from PIL import Image as ImageModule
+from PIL.Image import Image
 
 from typedefs import BBox
 
@@ -14,11 +15,11 @@ def svg2image(svg_path: Path, width: int, height: int) -> Image:
                      write_to=out,
                      parent_width=width,
                      parent_height=height)
-    return Image.open(out)
+    return ImageModule.open(out)
 
 
 def draw_image_column(dest_image: Image, dest_area: BBox,
-                      column_images: List[Path]) -> None:
+                      column_images: List[Path]) -> Image:
     ((x1, y1), (x2, y2)) = dest_area
     width = x2 - x1
     height = y2 - y1
@@ -37,9 +38,11 @@ def draw_image_column(dest_image: Image, dest_area: BBox,
         dest_image.paste(icon_img, (icon_x, icon_y), icon_img)
         icon_y += y_step
 
+    return dest_image
+
 
 def draw_image_row(dest_image: Image, dest_area: BBox,
-                   row_images: List[Path]) -> None:
+                   row_images: List[Path]) -> Image:
     ((x1, y1), (x2, y2)) = dest_area
 
     width = x2 - x1
@@ -56,3 +59,32 @@ def draw_image_row(dest_image: Image, dest_area: BBox,
     for icon_img in icon_imgs:
         dest_image.paste(icon_img, (icon_x, icon_y), icon_img)
         icon_x += x_step
+
+    return dest_image
+
+
+def create_card_sheet(images: List[Image], hidden_image: Image, columns: int,
+                      rows: int) -> Image:
+    if columns > 10:
+        raise ValueError('too many columns: max is 10')
+    if rows > 7:
+        raise ValueError('too many rows: max is 7')
+    if len(images) > rows * columns - 1:
+        raise ValueError(
+            'too many images: max is columns*rows, with one reserved for the hidden card'
+        )
+    if len(images) < 1:
+        raise ValueError('no images given')
+
+    card_width, card_height = images[0].size
+
+    sheet = ImageModule.new('RGB', (columns * card_width, rows * card_height))
+    for idx, image in enumerate(images):
+        x = (idx % columns) * card_width
+        y = (idx // columns) * card_height
+        sheet.paste(image, (x, y), image)
+
+    sheet.paste(hidden_image,
+                ((columns - 1) * card_width, (rows - 1) * card_height),
+                hidden_image)
+    return sheet
