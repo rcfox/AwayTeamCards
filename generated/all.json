@@ -13,9 +13,9 @@
         "rotX": 0,
         "rotY": 180,
         "rotZ": 180,
-        "scaleX": 0,
-        "scaleY": 0,
-        "scaleZ": 0
+        "scaleX": 1,
+        "scaleY": 1,
+        "scaleZ": 1
       },
       "ContainedObjects": [
         {
@@ -32,9 +32,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -51,9 +51,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -70,9 +70,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -89,9 +89,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -108,9 +108,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -127,9 +127,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -146,9 +146,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -165,9 +165,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -184,9 +184,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -203,9 +203,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -222,9 +222,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -241,9 +241,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -260,9 +260,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -279,9 +279,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -298,9 +298,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -317,9 +317,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -336,9 +336,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -355,9 +355,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -374,9 +374,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -393,9 +393,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -412,9 +412,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -431,9 +431,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -450,9 +450,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -469,9 +469,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -488,9 +488,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -507,9 +507,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -526,9 +526,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -545,9 +545,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -564,9 +564,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -583,9 +583,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -602,9 +602,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -621,9 +621,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -640,9 +640,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -659,9 +659,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -678,9 +678,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -697,9 +697,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -716,9 +716,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -735,9 +735,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -754,9 +754,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -773,9 +773,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -792,9 +792,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -811,9 +811,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -830,9 +830,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -849,9 +849,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -868,9 +868,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -887,9 +887,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -906,9 +906,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -925,9 +925,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -944,9 +944,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -963,9 +963,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -982,9 +982,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1001,9 +1001,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1020,9 +1020,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1039,9 +1039,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1058,9 +1058,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1077,9 +1077,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1096,9 +1096,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1115,9 +1115,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1134,9 +1134,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1153,9 +1153,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1172,9 +1172,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1191,9 +1191,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1210,9 +1210,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1229,9 +1229,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1248,9 +1248,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1267,9 +1267,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1286,9 +1286,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1305,9 +1305,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1324,9 +1324,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1343,9 +1343,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1362,9 +1362,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1381,9 +1381,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1400,9 +1400,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1419,9 +1419,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1438,9 +1438,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1457,9 +1457,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1476,9 +1476,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1495,9 +1495,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1514,9 +1514,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1533,9 +1533,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1552,9 +1552,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1571,9 +1571,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1590,9 +1590,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1609,9 +1609,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         }
       ],
@@ -1703,10 +1703,10 @@
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Elements10.png?1631382060.0894434",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Elements10.png?1631382581.1633875",
           "BackURL": "https://i.imgur.com/A7Wa5GN.jpeg",
           "NumWidth": 10,
-          "NumHeight": 7,
+          "NumHeight": 2,
           "BackIsHidden": false,
           "UniqueBack": false,
           "Type": 0
@@ -1726,9 +1726,9 @@
         "rotX": 0,
         "rotY": 180,
         "rotZ": 180,
-        "scaleX": 0,
-        "scaleY": 0,
-        "scaleZ": 0
+        "scaleX": 1,
+        "scaleY": 1,
+        "scaleZ": 1
       },
       "ContainedObjects": [
         {
@@ -1745,9 +1745,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1764,9 +1764,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1783,9 +1783,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1802,9 +1802,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1821,9 +1821,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1840,9 +1840,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1859,9 +1859,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1878,9 +1878,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1897,9 +1897,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1916,9 +1916,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1935,9 +1935,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1954,9 +1954,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1973,9 +1973,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -1992,9 +1992,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2011,9 +2011,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2030,9 +2030,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2049,9 +2049,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2068,9 +2068,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2087,9 +2087,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2106,9 +2106,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2125,9 +2125,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2144,9 +2144,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2163,9 +2163,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2182,9 +2182,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2201,9 +2201,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2220,9 +2220,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2239,9 +2239,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2258,9 +2258,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         }
       ],
@@ -2296,10 +2296,10 @@
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Obstacles10.png?1631382060.0895004",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Obstacles10.png?1631382581.1634474",
           "BackURL": "https://i.imgur.com/LS2eGhT.jpg",
           "NumWidth": 10,
-          "NumHeight": 7,
+          "NumHeight": 4,
           "BackIsHidden": false,
           "UniqueBack": false,
           "Type": 0
@@ -2319,9 +2319,9 @@
         "rotX": 0,
         "rotY": 180,
         "rotZ": 180,
-        "scaleX": 0,
-        "scaleY": 0,
-        "scaleZ": 0
+        "scaleX": 1,
+        "scaleY": 1,
+        "scaleZ": 1
       },
       "ContainedObjects": [
         {
@@ -2338,9 +2338,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2357,9 +2357,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2376,9 +2376,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2395,9 +2395,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2414,9 +2414,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2433,9 +2433,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2452,9 +2452,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2471,9 +2471,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2490,9 +2490,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2509,9 +2509,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2528,9 +2528,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2547,9 +2547,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2566,9 +2566,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2585,9 +2585,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2604,9 +2604,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2623,9 +2623,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2642,9 +2642,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2661,9 +2661,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2680,9 +2680,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2699,9 +2699,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2718,9 +2718,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2737,9 +2737,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2756,9 +2756,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2775,9 +2775,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2794,9 +2794,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2813,9 +2813,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2832,9 +2832,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2851,9 +2851,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2870,9 +2870,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2889,9 +2889,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2908,9 +2908,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2927,9 +2927,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2946,9 +2946,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2965,9 +2965,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -2984,9 +2984,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3003,9 +3003,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3022,9 +3022,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3041,9 +3041,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3060,9 +3060,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3079,9 +3079,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3098,9 +3098,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3117,9 +3117,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3136,9 +3136,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3155,9 +3155,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3174,9 +3174,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3193,9 +3193,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3212,9 +3212,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3231,9 +3231,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3250,9 +3250,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3269,9 +3269,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3288,9 +3288,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         }
       ],
@@ -3349,10 +3349,10 @@
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Rewards10.png?1631382060.0895576",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Rewards10.png?1631382581.1635082",
           "BackURL": "https://i.imgur.com/qtH7MDU.jpg",
           "NumWidth": 10,
-          "NumHeight": 7,
+          "NumHeight": 6,
           "BackIsHidden": false,
           "UniqueBack": false,
           "Type": 0
@@ -3372,9 +3372,9 @@
         "rotX": 0,
         "rotY": 180,
         "rotZ": 180,
-        "scaleX": 0,
-        "scaleY": 0,
-        "scaleZ": 0
+        "scaleX": 1,
+        "scaleY": 1,
+        "scaleZ": 1
       },
       "ContainedObjects": [
         {
@@ -3391,9 +3391,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3410,9 +3410,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3429,9 +3429,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3448,9 +3448,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3467,9 +3467,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3486,9 +3486,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3505,9 +3505,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3524,9 +3524,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3543,9 +3543,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3562,9 +3562,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3581,9 +3581,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3600,9 +3600,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3619,9 +3619,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3638,9 +3638,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3657,9 +3657,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3676,9 +3676,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3695,9 +3695,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3714,9 +3714,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3733,9 +3733,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3752,9 +3752,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3771,9 +3771,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3790,9 +3790,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3809,9 +3809,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3828,9 +3828,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3847,9 +3847,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3866,9 +3866,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3885,9 +3885,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3904,9 +3904,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3923,9 +3923,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3942,9 +3942,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3961,9 +3961,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3980,9 +3980,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -3999,9 +3999,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4018,9 +4018,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4037,9 +4037,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4056,9 +4056,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         }
       ],
@@ -4102,10 +4102,10 @@
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Roles10.png?1631382060.0896351",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Roles10.png?1631382581.1635869",
           "BackURL": "https://hdwallpaperim.com/wp-content/uploads/2017/08/22/453064-space-space_art-stars-planet-nebula-galaxy.jpg",
           "NumWidth": 10,
-          "NumHeight": 7,
+          "NumHeight": 4,
           "BackIsHidden": false,
           "UniqueBack": false,
           "Type": 0
@@ -4125,9 +4125,9 @@
         "rotX": 0,
         "rotY": 180,
         "rotZ": 180,
-        "scaleX": 0,
-        "scaleY": 0,
-        "scaleZ": 0
+        "scaleX": 1,
+        "scaleY": 1,
+        "scaleZ": 1
       },
       "ContainedObjects": [
         {
@@ -4144,9 +4144,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4163,9 +4163,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4182,9 +4182,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4201,9 +4201,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4220,9 +4220,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4239,9 +4239,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4258,9 +4258,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4277,9 +4277,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4296,9 +4296,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4315,9 +4315,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4334,9 +4334,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4353,9 +4353,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4372,9 +4372,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4391,9 +4391,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4410,9 +4410,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4429,9 +4429,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4448,9 +4448,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4467,9 +4467,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4486,9 +4486,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4505,9 +4505,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4524,9 +4524,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4543,9 +4543,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4562,9 +4562,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4581,9 +4581,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4600,9 +4600,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4619,9 +4619,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4638,9 +4638,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4657,9 +4657,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4676,9 +4676,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4695,9 +4695,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4714,9 +4714,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4733,9 +4733,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4752,9 +4752,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4771,9 +4771,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4790,9 +4790,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4809,9 +4809,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4828,9 +4828,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4847,9 +4847,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4866,9 +4866,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4885,9 +4885,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4904,9 +4904,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4923,9 +4923,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4942,9 +4942,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4961,9 +4961,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4980,9 +4980,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -4999,9 +4999,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5018,9 +5018,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5037,9 +5037,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5056,9 +5056,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5075,9 +5075,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5094,9 +5094,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5113,9 +5113,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5132,9 +5132,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5151,9 +5151,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5170,9 +5170,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5189,9 +5189,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5208,9 +5208,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5227,9 +5227,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5246,9 +5246,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5265,9 +5265,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5284,9 +5284,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5303,9 +5303,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5322,9 +5322,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5341,9 +5341,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5360,9 +5360,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5379,9 +5379,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5398,9 +5398,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5417,9 +5417,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5436,9 +5436,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5455,9 +5455,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5474,9 +5474,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5493,9 +5493,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5512,9 +5512,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5531,9 +5531,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5550,9 +5550,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5569,9 +5569,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5588,9 +5588,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5607,9 +5607,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5626,9 +5626,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5645,9 +5645,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5664,9 +5664,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5683,9 +5683,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5702,9 +5702,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5721,9 +5721,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5740,9 +5740,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5759,9 +5759,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5778,9 +5778,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5797,9 +5797,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5816,9 +5816,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5835,9 +5835,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5854,9 +5854,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5873,9 +5873,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5892,9 +5892,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5911,9 +5911,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5930,9 +5930,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5949,9 +5949,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5968,9 +5968,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -5987,9 +5987,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6006,9 +6006,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6025,9 +6025,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6044,9 +6044,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6063,9 +6063,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6082,9 +6082,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6101,9 +6101,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6120,9 +6120,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6139,9 +6139,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6158,9 +6158,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6177,9 +6177,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6196,9 +6196,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6215,9 +6215,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6234,9 +6234,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6253,9 +6253,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6272,9 +6272,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6291,9 +6291,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6310,9 +6310,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6329,9 +6329,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6348,9 +6348,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6367,9 +6367,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6386,9 +6386,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6405,9 +6405,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6424,9 +6424,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6443,9 +6443,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6462,9 +6462,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6481,9 +6481,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6500,9 +6500,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6519,9 +6519,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6538,9 +6538,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6557,9 +6557,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6576,9 +6576,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6595,9 +6595,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6614,9 +6614,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6633,9 +6633,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6652,9 +6652,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6671,9 +6671,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6690,9 +6690,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6709,9 +6709,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6728,9 +6728,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6747,9 +6747,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6766,9 +6766,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6785,9 +6785,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6804,9 +6804,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6823,9 +6823,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6842,9 +6842,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6861,9 +6861,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6880,9 +6880,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6899,9 +6899,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6918,9 +6918,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6937,9 +6937,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6956,9 +6956,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6975,9 +6975,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -6994,9 +6994,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7013,9 +7013,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7032,9 +7032,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7051,9 +7051,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7070,9 +7070,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7089,9 +7089,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7108,9 +7108,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7127,9 +7127,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7146,9 +7146,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7165,9 +7165,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7184,9 +7184,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7203,9 +7203,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7222,9 +7222,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7241,9 +7241,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7260,9 +7260,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7279,9 +7279,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7298,9 +7298,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7317,9 +7317,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7336,9 +7336,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7355,9 +7355,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7374,9 +7374,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7393,9 +7393,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7412,9 +7412,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7431,9 +7431,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7450,9 +7450,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7469,9 +7469,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7488,9 +7488,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7507,9 +7507,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7526,9 +7526,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7545,9 +7545,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7564,9 +7564,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7583,9 +7583,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7602,9 +7602,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7621,9 +7621,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7640,9 +7640,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7659,9 +7659,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7678,9 +7678,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7697,9 +7697,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7716,9 +7716,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7735,9 +7735,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7754,9 +7754,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7773,9 +7773,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7792,9 +7792,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7811,9 +7811,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7830,9 +7830,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7849,9 +7849,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7868,9 +7868,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7887,9 +7887,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7906,9 +7906,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7925,9 +7925,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7944,9 +7944,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7963,9 +7963,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -7982,9 +7982,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8001,9 +8001,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8020,9 +8020,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8039,9 +8039,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8058,9 +8058,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8077,9 +8077,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8096,9 +8096,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8115,9 +8115,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8134,9 +8134,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8153,9 +8153,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8172,9 +8172,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8191,9 +8191,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8210,9 +8210,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8229,9 +8229,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8248,9 +8248,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8267,9 +8267,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8286,9 +8286,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8305,9 +8305,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8324,9 +8324,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8343,9 +8343,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8362,9 +8362,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8381,9 +8381,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8400,9 +8400,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8419,9 +8419,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8438,9 +8438,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8457,9 +8457,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8476,9 +8476,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8495,9 +8495,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8514,9 +8514,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8533,9 +8533,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8552,9 +8552,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         },
         {
@@ -8571,9 +8571,9 @@
             "rotX": 0,
             "rotY": 180,
             "rotZ": 180,
-            "scaleX": 0,
-            "scaleY": 0,
-            "scaleZ": 0
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
           }
         }
       ],
@@ -8815,7 +8815,7 @@
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/MacGuffins10.png?1631382060.0896914",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/MacGuffins10.png?1631382581.1636434",
           "BackURL": "https://i.imgur.com/4FsVPIC.jpg",
           "NumWidth": 10,
           "NumHeight": 7,
@@ -8824,10 +8824,10 @@
           "Type": 0
         },
         "11": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/MacGuffins11.png?1631382060.089896",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/MacGuffins11.png?1631382581.1638477",
           "BackURL": "https://i.imgur.com/4FsVPIC.jpg",
           "NumWidth": 10,
-          "NumHeight": 7,
+          "NumHeight": 5,
           "BackIsHidden": false,
           "UniqueBack": false,
           "Type": 0

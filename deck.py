@@ -61,8 +61,10 @@ class Deck:
         tts_deck = tabletop_simulator.Deck(self.name, self.description)
 
         for subdeck_idx, subdeck in enumerate(self.subdecks(), start=10):
+            subdeck = [card for card in subdeck if card]
             face_url = BASE_FACE_URL.format(deck=f'{self.name}{subdeck_idx}',
                                             cache_buster=time.time())
+
             rows = math.ceil(len(subdeck) / 10)
             tts_deck.CustomDeck[str(subdeck_idx)] = tabletop_simulator.SubDeck(
                 face_url, self.back_url, 10, rows)

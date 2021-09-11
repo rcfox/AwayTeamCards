@@ -18,9 +18,9 @@ class Transform(Base):
     rotX: float = 0
     rotY: float = 180
     rotZ: float = 180
-    scaleX: float = 0
-    scaleY: float = 0
-    scaleZ: float = 0
+    scaleX: float = 1
+    scaleY: float = 1
+    scaleZ: float = 1
 
 
 @dataclass
