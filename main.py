@@ -14,7 +14,6 @@ SAVE_DIR = Path('generated')
 
 def main(spreadsheet: Path):
     decks = Deck.load_decks(spreadsheet)
-    decks['MacGuffins'].sort_value = '9'
 
     tts_decks = [deck.create_tts_deck() for deck in decks.values()]
     for i, deck in enumerate(tts_decks):

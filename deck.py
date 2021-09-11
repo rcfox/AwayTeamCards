@@ -25,7 +25,6 @@ class Deck:
     back_url: str
     hidden_card: Image
     cards: List[Card]
-    sort_value: str = '0'
 
     @classmethod
     def load_decks(self, path: Path) -> Dict[str, Deck]:
@@ -73,7 +72,6 @@ class Deck:
             for card_id, card in enumerate(subdeck, start=subdeck_idx * 100):
                 tts_card = tabletop_simulator.Card(card.name, card.description,
                                                    card_id)
-                tts_card.GMNotes = self.sort_value
                 tts_card.Tags = card.get_tags()
                 for _ in range(card.deck_count):
                     tts_deck.DeckIDs.append(card_id)
