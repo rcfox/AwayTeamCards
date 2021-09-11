@@ -69,8 +69,7 @@ class Deck:
             tts_deck.CustomDeck[str(subdeck_idx)] = tabletop_simulator.SubDeck(
                 face_url, self.back_url, 10, rows)
 
-            for card_id, card in enumerate(self.cards,
-                                           start=subdeck_idx * 100):
+            for card_id, card in enumerate(subdeck, start=subdeck_idx * 100):
                 tts_card = tabletop_simulator.Card(card.name, card.description,
                                                    card_id)
                 for _ in range(card.deck_count):
