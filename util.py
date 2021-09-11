@@ -1,8 +1,6 @@
 from contextlib import contextmanager
 from typing import ContextManager, Dict, List
 from pathlib import Path
-
-import cairosvg
 import openpyxl
 
 

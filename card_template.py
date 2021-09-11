@@ -6,11 +6,9 @@ from typing import List, Tuple
 from PIL import Image, ImageDraw, ImageFont
 
 from util import text_wrap
+from typedefs import BBox
 
 FONT_PATH = '/usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf'
-
-Point = Tuple[int, int]
-BBox = Tuple[Point, Point]
 
 
 @dataclass
@@ -172,7 +170,35 @@ class CardTemplate:
 
 @dataclass
 class TextOnlyCardTemplate(CardTemplate):
-    text_box_rows: int = 16
+    def get_text_box(self) -> BBox:
+        _, (_, title_bottom_y) = self.get_title_box()
+
+        text_offset = self.get_type_marker_offset()
+
+        x1 = self.get_x1()
+        x2 = self.get_x2()
+
+        y2 = self.height - self.inset - text_offset
+        y1 = title_bottom_y + self.box_separation
+
+        return ((x1, y1), (x2, y2))
 
     def populate_image(self, *args, **kwargs) -> None:
         return
+
+
+@dataclass
+class ImageOnlyCardTemplate(CardTemplate):
+    def populate_text(self, *args, **kwargs) -> None:
+        return
+
+    def get_text_box(self) -> BBox:
+        text_offset = self.get_type_marker_offset()
+
+        x1 = self.get_x1()
+        x2 = self.get_x2()
+
+        y2 = self.height - self.inset - text_offset + self.box_separation
+        y1 = y2
+
+        return ((x1, y1), (x2, y2))
