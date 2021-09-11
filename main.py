@@ -1,3 +1,4 @@
+import json
 import sys
 from pathlib import Path
 from pprint import pprint
@@ -5,24 +6,25 @@ from pprint import pprint
 from deck import Deck
 import card
 import image_helper
+import util
+import tabletop_simulator
 
-SAVE_DIR = Path('temp')
+SAVE_DIR = Path('generated')
 
 
 def main(spreadsheet: Path):
-    card_types = card.Card.load_card_types(spreadsheet)
-    hidden = card_types[card.HiddenCard][0].draw()
+    decks = Deck.load_decks(spreadsheet)
 
-    for card_type, cards in card_types.items():
-        if card_type == card.HiddenCard:
-            continue
-        # images = [c.draw() for c in cards[:69]]
-        # sheet = image_helper.create_card_sheet(images, hidden, 10, 7)
-        # sheet.save(SAVE_DIR / f'{card_type.__name__}.png')
+    collection = tabletop_simulator.Collection(
+        [deck.create_tts_deck() for deck in decks])
 
-    cards = card_types[card.MacguffinCard]
-    deck = Deck('foo', 'bar', 'foo.', cards)
-    pprint(deck.create_tts_deck().to_json())
+    output_json = SAVE_DIR / 'all.json'
+    with output_json.open('w') as f:
+        json.dump(collection.to_json(), f, indent=2)
+
+    for deck in decks:
+        print(deck.name)
+        deck.generate_card_sheets()
 
 
 if __name__ == '__main__':

@@ -63,11 +63,11 @@ class Card:
         return
 
     @classmethod
-    def load_card_types(cls, path: Path) -> Dict[type, List[Card]]:
+    def load_card_types(cls, path: Path) -> Dict[str, List[Card]]:
         Element.load(path)
         card_types = {}
         for card_type in cls.__subclasses__():
-            card_types[card_type] = card_type.load(path)
+            card_types[card_type.__name__] = card_type.load(path)
         return card_types
 
 

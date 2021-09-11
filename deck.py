@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 import math
 import json
 import time
@@ -21,26 +23,39 @@ class Deck:
     name: str
     description: str
     back_url: str
+    hidden_card: Image
     cards: List[Card]
+
+    @classmethod
+    def load_decks(self, path: Path) -> Dict[str, Deck]:
+        card_types = Card.load_card_types(path)
+        hidden = card_types['HiddenCard'][0].draw()
+
+        decks = []
+        for row in util.spreadsheet_as_dicts(path, 'Decks'):
+            deck = Deck(row['Name'], row['Description'], row['Back Image'],
+                        hidden, card_types[row['Card Class']])
+            decks.append(deck)
+        return decks
 
     def subdecks(self) -> Iterable[Card]:
         yield from util.grouper(self.cards, 69)
 
-    def generate_card_sheets(self, hidden_card: Image) -> List[Path]:
+    def generate_card_sheets(self) -> List[Path]:
         sheets = []
         for subdeck_idx, subdeck in enumerate(self.subdecks(), start=10):
-            image = self.create_subdeck_card_sheet(hidden_card, subdeck)
+            image = self.create_subdeck_card_sheet(subdeck)
             filename = f'{self.name}{subdeck_idx}.png'
             path = GENERATED_PATH / filename
             image.save(path)
             sheets.append(path)
         return sheets
 
-    def create_subdeck_card_sheet(self, hidden_card: Image,
-                                  subdeck: List[Card]) -> Image:
+    def create_subdeck_card_sheet(self, subdeck: List[Card]) -> Image:
         images = [card.draw() for card in subdeck if card]
         rows = math.ceil(len(images) / 10)
-        return image_helper.create_card_sheet(images, hidden_card, 10, rows)
+        return image_helper.create_card_sheet(images, self.hidden_card, 10,
+                                              rows)
 
     def create_tts_deck(self) -> tabletop_simulator.Deck:
         tts_deck = tabletop_simulator.Deck(self.name, self.description)

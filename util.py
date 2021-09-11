@@ -54,6 +54,15 @@ def spreadsheet(path: Path) -> ContextManager[openpyxl.Workbook]:
         wb.close()
 
 
+def spreadsheet_as_dicts(path: Path, sheet_name: str) -> List[Dict]:
+    with spreadsheet(path) as wb:
+        sheet = wb[sheet_name]
+        rows = sheet.iter_rows()
+        header = [cell.value for cell in next(rows)]
+        for row in rows:
+            yield dict(zip(header, [cell.value for cell in row]))
+
+
 def grouper(iterable, n, fillvalue=None):
     "Collect data into fixed-length chunks or blocks"
     # grouper('ABCDEFG', 3, 'x') --> ABC DEF Gxx"
