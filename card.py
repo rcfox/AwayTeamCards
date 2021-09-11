@@ -22,7 +22,8 @@ class Element:
 
     @classmethod
     def load(cls, path: Path) -> List[Element]:
-        elements = []
+        global ELEMENTS
+        ELEMENTS = {}
         with spreadsheet(path) as wb:
             for row in wb['Elements'].iter_rows(min_row=2, max_col=2):
                 name = row[0].value
@@ -31,9 +32,8 @@ class Element:
 
                 image = row[1].value
                 e = Element(name, image)
-                elements.append(e)
                 ELEMENTS[e.name] = e
-        return elements
+        return ELEMENTS.values()
 
     @classmethod
     def get(cls, name: str) -> Optional[Element]:
@@ -181,11 +181,23 @@ class Card:
     deck_count: int
     template: CardTemplate
 
+    def get_filename(self) -> str:
+        filename = f'{self.__class__.__name__}{self.name}.png'
+        return filename.replace('/', '')
+
     def draw(self):
         return self.template.draw(self)
 
     def get_card_type(self) -> str:
         return self.__class__.__name__.replace('Card', '')
+
+    @classmethod
+    def load_card_types(cls, path: Path) -> Dict[type, List[Card]]:
+        Element.load(path)
+        card_types = {}
+        for card_type in cls.__subclasses__():
+            card_types[card_type] = card_type.load(path)
+        return card_types
 
 
 @dataclass
