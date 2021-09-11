@@ -7,7 +7,7 @@
       "Hands": false,
       "SidewaysCard": false,
       "Transform": {
-        "posX": 0,
+        "posX": 0.0,
         "posY": 0,
         "posZ": 0,
         "rotX": 0,
@@ -1703,7 +1703,7 @@
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Elements10.png?1631381304.9310927",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Elements10.png?1631382060.0894434",
           "BackURL": "https://i.imgur.com/A7Wa5GN.jpeg",
           "NumWidth": 10,
           "NumHeight": 7,
@@ -1720,7 +1720,7 @@
       "Hands": false,
       "SidewaysCard": false,
       "Transform": {
-        "posX": 0,
+        "posX": 2.5,
         "posY": 0,
         "posZ": 0,
         "rotX": 0,
@@ -2296,7 +2296,7 @@
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Obstacles10.png?1631381304.9311485",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Obstacles10.png?1631382060.0895004",
           "BackURL": "https://i.imgur.com/LS2eGhT.jpg",
           "NumWidth": 10,
           "NumHeight": 7,
@@ -2313,7 +2313,7 @@
       "Hands": false,
       "SidewaysCard": false,
       "Transform": {
-        "posX": 0,
+        "posX": 5.0,
         "posY": 0,
         "posZ": 0,
         "rotX": 0,
@@ -3349,7 +3349,7 @@
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Rewards10.png?1631381304.9312031",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Rewards10.png?1631382060.0895576",
           "BackURL": "https://i.imgur.com/qtH7MDU.jpg",
           "NumWidth": 10,
           "NumHeight": 7,
@@ -3366,7 +3366,7 @@
       "Hands": false,
       "SidewaysCard": false,
       "Transform": {
-        "posX": 0,
+        "posX": 7.5,
         "posY": 0,
         "posZ": 0,
         "rotX": 0,
@@ -4102,7 +4102,7 @@
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Roles10.png?1631381304.9313183",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Roles10.png?1631382060.0896351",
           "BackURL": "https://hdwallpaperim.com/wp-content/uploads/2017/08/22/453064-space-space_art-stars-planet-nebula-galaxy.jpg",
           "NumWidth": 10,
           "NumHeight": 7,
@@ -4119,7 +4119,7 @@
       "Hands": false,
       "SidewaysCard": false,
       "Transform": {
-        "posX": 0,
+        "posX": 10.0,
         "posY": 0,
         "posZ": 0,
         "rotX": 0,
@@ -8815,7 +8815,7 @@
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/MacGuffins10.png?1631381304.9313745",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/MacGuffins10.png?1631382060.0896914",
           "BackURL": "https://i.imgur.com/4FsVPIC.jpg",
           "NumWidth": 10,
           "NumHeight": 7,
@@ -8824,7 +8824,7 @@
           "Type": 0
         },
         "11": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/MacGuffins11.png?1631381304.931574",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/MacGuffins11.png?1631382060.089896",
           "BackURL": "https://i.imgur.com/4FsVPIC.jpg",
           "NumWidth": 10,
           "NumHeight": 7,

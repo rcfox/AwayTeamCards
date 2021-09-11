@@ -15,8 +15,11 @@ SAVE_DIR = Path('generated')
 def main(spreadsheet: Path):
     decks = Deck.load_decks(spreadsheet)
 
-    collection = tabletop_simulator.Collection(
-        [deck.create_tts_deck() for deck in decks])
+    tts_decks = [deck.create_tts_deck() for deck in decks]
+    for i, deck in enumerate(tts_decks):
+        deck.Transform.posX = i * 2.5
+
+    collection = tabletop_simulator.Collection(tts_decks)
 
     output_json = SAVE_DIR / 'all.json'
     with output_json.open('w') as f:
