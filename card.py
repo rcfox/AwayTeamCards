@@ -207,3 +207,14 @@ class MacguffinCard(Card):
                     MacguffinCard(name, description, deck_count,
                                   TextOnlyCardTemplate(), power_rating))
         return cards
+
+
+@dataclass
+class HiddenCard(Card):
+    @classmethod
+    def load(cls, path: Path) -> List[Card]:
+        return [cls('???', '', 0, ImageOnlyCardTemplate())]
+
+    def generate_image(self, image: Image, bbox: BBox) -> None:
+        icons = [ICON_DIR / 'hidden.svg']
+        image_helper.draw_image_row(image, bbox, icons)
