@@ -2123,7 +2123,7 @@
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Elements10.png?1631401343.3012443",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Elements10.png?1634443046.2688828",
           "BackURL": "https://i.imgur.com/A7Wa5GN.jpeg",
           "NumWidth": 10,
           "NumHeight": 2,
@@ -2850,6 +2850,206 @@
             "Any",
             "Any"
           ]
+        },
+        {
+          "Nickname": "Covert Ops NAME ME",
+          "Description": "A",
+          "CardID": 1036,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Covert Ops",
+            "Blank"
+          ]
+        },
+        {
+          "Nickname": "Power NAME ME",
+          "Description": "B",
+          "CardID": 1037,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Power",
+            "Blank"
+          ]
+        },
+        {
+          "Nickname": "Air Support NAME ME",
+          "Description": "C",
+          "CardID": 1038,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Air Support",
+            "Blank"
+          ]
+        },
+        {
+          "Nickname": "Combat NAME ME",
+          "Description": "D",
+          "CardID": 1039,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Combat",
+            "Blank"
+          ]
+        },
+        {
+          "Nickname": "Diplomacy NAME ME",
+          "Description": "F",
+          "CardID": 1041,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Diplomacy",
+            "Blank"
+          ]
+        },
+        {
+          "Nickname": "Science NAME ME",
+          "Description": "G",
+          "CardID": 1042,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Science",
+            "Blank"
+          ]
+        },
+        {
+          "Nickname": "Any NAME ME",
+          "Description": "H",
+          "CardID": 1043,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Any",
+            "Blank"
+          ]
+        },
+        {
+          "Nickname": "Blank NAME ME",
+          "Description": "I",
+          "CardID": 1044,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Blank",
+            "Blank"
+          ]
         }
       ],
       "DeckIDs": [
@@ -2880,14 +3080,22 @@
         1031,
         1033,
         1034,
-        1035
+        1035,
+        1036,
+        1037,
+        1038,
+        1039,
+        1041,
+        1042,
+        1043,
+        1044
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Obstacles10.png?1631401343.3013349",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Obstacles10.png?1634443046.2689571",
           "BackURL": "https://i.imgur.com/LS2eGhT.jpg",
           "NumWidth": 10,
-          "NumHeight": 4,
+          "NumHeight": 5,
           "BackIsHidden": false,
           "UniqueBack": false,
           "Type": 0
@@ -4247,7 +4455,7 @@
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Rewards10.png?1631401343.3014338",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Rewards10.png?1634443046.2690732",
           "BackURL": "https://i.imgur.com/qtH7MDU.jpg",
           "NumWidth": 10,
           "NumHeight": 6,
@@ -5036,7 +5244,7 @@
         },
         {
           "Nickname": "Analogists",
-          "Description": "You may temporarily skip an obstacle involving science. If the next obstacle involves science, cards played apply to both obstacles. You must deal with the initial obstacle or lose personnel.",
+          "Description": "Cards played to overcome obstacles involving science carry over to subsequent obstacles in that turn. (Luck only carries over once.)",
           "CardID": 1033,
           "Name": "Card",
           "Hands": true,
@@ -5144,7 +5352,7 @@
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Roles10.png?1631401343.3015835",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Roles10.png?1634443046.269203",
           "BackURL": "https://hdwallpaperim.com/wp-content/uploads/2017/08/22/453064-space-space_art-stars-planet-nebula-galaxy.jpg",
           "NumWidth": 10,
           "NumHeight": 4,
@@ -8201,7 +8409,7 @@
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/MacGuffins10.png?1631401343.3016636",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/MacGuffins10.png?1634443046.2692769",
           "BackURL": "https://i.imgur.com/4FsVPIC.jpg",
           "NumWidth": 10,
           "NumHeight": 7,
@@ -8210,7 +8418,7 @@
           "Type": 0
         },
         "11": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/MacGuffins11.png?1631401343.3018703",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/MacGuffins11.png?1634443046.2694576",
           "BackURL": "https://i.imgur.com/4FsVPIC.jpg",
           "NumWidth": 10,
           "NumHeight": 6,
