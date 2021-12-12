@@ -1,13 +1,5204 @@
 {
   "ObjectStates": [
     {
+      "Nickname": "Elements",
+      "Description": "Cards used to overcome obstacles.",
+      "Name": "DeckCustom",
+      "Hands": false,
+      "SidewaysCard": false,
+      "Transform": {
+        "posX": 0.0,
+        "posY": 0,
+        "posZ": 0,
+        "rotX": 0,
+        "rotY": 180,
+        "rotZ": 180,
+        "scaleX": 1,
+        "scaleY": 1,
+        "scaleZ": 1
+      },
+      "ContainedObjects": [
+        {
+          "Nickname": "Covert Ops",
+          "Description": "",
+          "CardID": 1000,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Covert Ops"
+          ]
+        },
+        {
+          "Nickname": "Covert Ops",
+          "Description": "",
+          "CardID": 1000,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Covert Ops"
+          ]
+        },
+        {
+          "Nickname": "Covert Ops",
+          "Description": "",
+          "CardID": 1000,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Covert Ops"
+          ]
+        },
+        {
+          "Nickname": "Covert Ops",
+          "Description": "",
+          "CardID": 1000,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Covert Ops"
+          ]
+        },
+        {
+          "Nickname": "Covert Ops",
+          "Description": "",
+          "CardID": 1000,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Covert Ops"
+          ]
+        },
+        {
+          "Nickname": "Covert Ops",
+          "Description": "",
+          "CardID": 1000,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Covert Ops"
+          ]
+        },
+        {
+          "Nickname": "Covert Ops",
+          "Description": "",
+          "CardID": 1000,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Covert Ops"
+          ]
+        },
+        {
+          "Nickname": "Covert Ops",
+          "Description": "",
+          "CardID": 1000,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Covert Ops"
+          ]
+        },
+        {
+          "Nickname": "Covert Ops",
+          "Description": "",
+          "CardID": 1000,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Covert Ops"
+          ]
+        },
+        {
+          "Nickname": "Power",
+          "Description": "",
+          "CardID": 1001,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Power"
+          ]
+        },
+        {
+          "Nickname": "Power",
+          "Description": "",
+          "CardID": 1001,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Power"
+          ]
+        },
+        {
+          "Nickname": "Power",
+          "Description": "",
+          "CardID": 1001,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Power"
+          ]
+        },
+        {
+          "Nickname": "Power",
+          "Description": "",
+          "CardID": 1001,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Power"
+          ]
+        },
+        {
+          "Nickname": "Power",
+          "Description": "",
+          "CardID": 1001,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Power"
+          ]
+        },
+        {
+          "Nickname": "Power",
+          "Description": "",
+          "CardID": 1001,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Power"
+          ]
+        },
+        {
+          "Nickname": "Power",
+          "Description": "",
+          "CardID": 1001,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Power"
+          ]
+        },
+        {
+          "Nickname": "Power",
+          "Description": "",
+          "CardID": 1001,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Power"
+          ]
+        },
+        {
+          "Nickname": "Power",
+          "Description": "",
+          "CardID": 1001,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Power"
+          ]
+        },
+        {
+          "Nickname": "Air Support",
+          "Description": "",
+          "CardID": 1002,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Air Support"
+          ]
+        },
+        {
+          "Nickname": "Air Support",
+          "Description": "",
+          "CardID": 1002,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Air Support"
+          ]
+        },
+        {
+          "Nickname": "Air Support",
+          "Description": "",
+          "CardID": 1002,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Air Support"
+          ]
+        },
+        {
+          "Nickname": "Air Support",
+          "Description": "",
+          "CardID": 1002,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Air Support"
+          ]
+        },
+        {
+          "Nickname": "Air Support",
+          "Description": "",
+          "CardID": 1002,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Air Support"
+          ]
+        },
+        {
+          "Nickname": "Air Support",
+          "Description": "",
+          "CardID": 1002,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Air Support"
+          ]
+        },
+        {
+          "Nickname": "Air Support",
+          "Description": "",
+          "CardID": 1002,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Air Support"
+          ]
+        },
+        {
+          "Nickname": "Air Support",
+          "Description": "",
+          "CardID": 1002,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Air Support"
+          ]
+        },
+        {
+          "Nickname": "Air Support",
+          "Description": "",
+          "CardID": 1002,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Air Support"
+          ]
+        },
+        {
+          "Nickname": "Combat",
+          "Description": "",
+          "CardID": 1003,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Combat"
+          ]
+        },
+        {
+          "Nickname": "Combat",
+          "Description": "",
+          "CardID": 1003,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Combat"
+          ]
+        },
+        {
+          "Nickname": "Combat",
+          "Description": "",
+          "CardID": 1003,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Combat"
+          ]
+        },
+        {
+          "Nickname": "Combat",
+          "Description": "",
+          "CardID": 1003,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Combat"
+          ]
+        },
+        {
+          "Nickname": "Combat",
+          "Description": "",
+          "CardID": 1003,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Combat"
+          ]
+        },
+        {
+          "Nickname": "Combat",
+          "Description": "",
+          "CardID": 1003,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Combat"
+          ]
+        },
+        {
+          "Nickname": "Combat",
+          "Description": "",
+          "CardID": 1003,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Combat"
+          ]
+        },
+        {
+          "Nickname": "Combat",
+          "Description": "",
+          "CardID": 1003,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Combat"
+          ]
+        },
+        {
+          "Nickname": "Combat",
+          "Description": "",
+          "CardID": 1003,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Combat"
+          ]
+        },
+        {
+          "Nickname": "Diplomacy",
+          "Description": "",
+          "CardID": 1005,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Diplomacy",
+          "Description": "",
+          "CardID": 1005,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Diplomacy",
+          "Description": "",
+          "CardID": 1005,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Diplomacy",
+          "Description": "",
+          "CardID": 1005,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Diplomacy",
+          "Description": "",
+          "CardID": 1005,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Diplomacy",
+          "Description": "",
+          "CardID": 1005,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Diplomacy",
+          "Description": "",
+          "CardID": 1005,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Diplomacy",
+          "Description": "",
+          "CardID": 1005,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Diplomacy",
+          "Description": "",
+          "CardID": 1005,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Luck",
+          "Description": "",
+          "CardID": 1006,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Luck"
+          ]
+        },
+        {
+          "Nickname": "Luck",
+          "Description": "",
+          "CardID": 1006,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Luck"
+          ]
+        },
+        {
+          "Nickname": "Luck",
+          "Description": "",
+          "CardID": 1006,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Luck"
+          ]
+        },
+        {
+          "Nickname": "Luck",
+          "Description": "",
+          "CardID": 1006,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Luck"
+          ]
+        },
+        {
+          "Nickname": "Luck",
+          "Description": "",
+          "CardID": 1006,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Luck"
+          ]
+        },
+        {
+          "Nickname": "Luck",
+          "Description": "",
+          "CardID": 1006,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Luck"
+          ]
+        },
+        {
+          "Nickname": "Luck",
+          "Description": "",
+          "CardID": 1006,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Luck"
+          ]
+        },
+        {
+          "Nickname": "Luck",
+          "Description": "",
+          "CardID": 1006,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Luck"
+          ]
+        },
+        {
+          "Nickname": "Luck",
+          "Description": "",
+          "CardID": 1006,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Luck"
+          ]
+        },
+        {
+          "Nickname": "Science",
+          "Description": "",
+          "CardID": 1007,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Science",
+          "Description": "",
+          "CardID": 1007,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Science",
+          "Description": "",
+          "CardID": 1007,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Science",
+          "Description": "",
+          "CardID": 1007,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Science",
+          "Description": "",
+          "CardID": 1007,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Science",
+          "Description": "",
+          "CardID": 1007,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Science",
+          "Description": "",
+          "CardID": 1007,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Science",
+          "Description": "",
+          "CardID": 1007,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Science",
+          "Description": "",
+          "CardID": 1007,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Element",
+            "Science"
+          ]
+        }
+      ],
+      "DeckIDs": [
+        1000,
+        1000,
+        1000,
+        1000,
+        1000,
+        1000,
+        1000,
+        1000,
+        1000,
+        1001,
+        1001,
+        1001,
+        1001,
+        1001,
+        1001,
+        1001,
+        1001,
+        1001,
+        1002,
+        1002,
+        1002,
+        1002,
+        1002,
+        1002,
+        1002,
+        1002,
+        1002,
+        1003,
+        1003,
+        1003,
+        1003,
+        1003,
+        1003,
+        1003,
+        1003,
+        1003,
+        1005,
+        1005,
+        1005,
+        1005,
+        1005,
+        1005,
+        1005,
+        1005,
+        1005,
+        1006,
+        1006,
+        1006,
+        1006,
+        1006,
+        1006,
+        1006,
+        1006,
+        1006,
+        1007,
+        1007,
+        1007,
+        1007,
+        1007,
+        1007,
+        1007,
+        1007,
+        1007
+      ],
+      "CustomDeck": {
+        "10": {
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Elements10.png?1639346107.5319731",
+          "BackURL": "https://i.imgur.com/A7Wa5GN.jpeg",
+          "NumWidth": 10,
+          "NumHeight": 2,
+          "BackIsHidden": false,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      }
+    },
+    {
+      "Nickname": "Obstacles",
+      "Description": "Cards standing in the way of victory.",
+      "Name": "DeckCustom",
+      "Hands": false,
+      "SidewaysCard": false,
+      "Transform": {
+        "posX": 2.5,
+        "posY": 0,
+        "posZ": 0,
+        "rotX": 0,
+        "rotY": 180,
+        "rotZ": 180,
+        "scaleX": 1,
+        "scaleY": 1,
+        "scaleZ": 1
+      },
+      "ContainedObjects": [
+        {
+          "Nickname": "Vault Heist",
+          "Description": "Breaking into the enemy vault is a two-man job.",
+          "CardID": 1000,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Covert Ops",
+            "Covert Ops"
+          ]
+        },
+        {
+          "Nickname": "Sabotage",
+          "Description": "\"Kill the lights!\"",
+          "CardID": 1001,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Covert Ops",
+            "Power"
+          ]
+        },
+        {
+          "Nickname": "Shuttle Hijack",
+          "Description": "\u201cLet your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt.\u201d - ancient Terran tactician",
+          "CardID": 1002,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Covert Ops",
+            "Air Support"
+          ]
+        },
+        {
+          "Nickname": "Guerrilla Warfare",
+          "Description": "You are part of the land. Let it work with you, fight for you.",
+          "CardID": 1003,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Covert Ops",
+            "Combat"
+          ]
+        },
+        {
+          "Nickname": "Rig the Election",
+          "Description": "Spread democracy, whether they like it or not.",
+          "CardID": 1005,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Covert Ops",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Falsify Results",
+          "Description": "There's no stopping progress, but maybe we can slow it down a bit.",
+          "CardID": 1006,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Covert Ops",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Power Surge",
+          "Description": "\"Divert power to deflectors, engines, weapons - just divert it everywhere!\" ",
+          "CardID": 1007,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Power",
+            "Power"
+          ]
+        },
+        {
+          "Nickname": "Engine Failure",
+          "Description": "You came in that thing? You're braver than I thought!",
+          "CardID": 1008,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Power",
+            "Air Support"
+          ]
+        },
+        {
+          "Nickname": "Raise Shields",
+          "Description": "Modern craft are equipped with a combination of sandcasters, point defense lasers, and microthrusters. ",
+          "CardID": 1009,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Power",
+            "Combat"
+          ]
+        },
+        {
+          "Nickname": "Ansible",
+          "Description": "This device allows the user to communicate at faster-than-light speeds. ",
+          "CardID": 1011,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Power",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Dyson Sphere",
+          "Description": "A type II civilization can harness all the energy from its star by means of a system-sized solar collector. ",
+          "CardID": 1012,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Power",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Scramble Small Craft",
+          "Description": "\"Get every available craft in the air, now!\"",
+          "CardID": 1013,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Air Support",
+            "Air Support"
+          ]
+        },
+        {
+          "Nickname": "Dog Fight",
+          "Description": "Attack ships on fire off the shoulder of Orion. C-beams glitter in the dark near the Tannh\u00e4user Gate. ",
+          "CardID": 1014,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Air Support",
+            "Combat"
+          ]
+        },
+        {
+          "Nickname": "Escort Mission",
+          "Description": "It should be a cushy job, playing waiter to this two-bit word-dealer. ",
+          "CardID": 1016,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Air Support",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Warp Field Collapse",
+          "Description": "An unplanned shift from hyperspace to regular space can be quite... unpleasant. ",
+          "CardID": 1017,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Air Support",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Skirmish",
+          "Description": "For when there are no more options.",
+          "CardID": 1018,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Combat",
+            "Combat"
+          ]
+        },
+        {
+          "Nickname": "Cease Fire Treaty",
+          "Description": "\"Speak softly and carry a big stick; you will go far.\" - ancient Terran leader",
+          "CardID": 1020,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Combat",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Army of Clones",
+          "Description": "Each one as capable as the last, ready to fight and die for their brothers. ",
+          "CardID": 1021,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Combat",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Theory of Mind",
+          "Description": "To achieve an amenable solution one must see the problem from all perspectives. ",
+          "CardID": 1025,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Diplomacy",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Androids' Rights",
+          "Description": "They are now indistinguishable from us in every respect. ",
+          "CardID": 1026,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Diplomacy",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Symposium",
+          "Description": "A free-flowing exchange of ideas.",
+          "CardID": 1027,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Science",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Hide and Seek",
+          "Description": "A schoolyard game to practice your stealth abilities.",
+          "CardID": 1028,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Covert Ops",
+            "Any"
+          ]
+        },
+        {
+          "Nickname": "Bachelor of Engineering",
+          "Description": "Formal education to give you the fundamentals.",
+          "CardID": 1029,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Power",
+            "Any"
+          ]
+        },
+        {
+          "Nickname": "Flight School",
+          "Description": "Learn to fly in formation and trust your squadmates.",
+          "CardID": 1030,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Air Support",
+            "Any"
+          ]
+        },
+        {
+          "Nickname": "Boot Camp",
+          "Description": "Physical conditioning to ensure you can make it on the battle field.",
+          "CardID": 1031,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Combat",
+            "Any"
+          ]
+        },
+        {
+          "Nickname": "Debate Club",
+          "Description": "Practice your rhetoric and lead the club to regionals!",
+          "CardID": 1033,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Diplomacy",
+            "Any"
+          ]
+        },
+        {
+          "Nickname": "Science Fair",
+          "Description": "A baking soda volcano is a rite of passage for a budding scientist.",
+          "CardID": 1034,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Science",
+            "Any"
+          ]
+        },
+        {
+          "Nickname": "Vacation",
+          "Description": "Anything goes at this all-inclusive beachside resort.",
+          "CardID": 1035,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Any",
+            "Any"
+          ]
+        },
+        {
+          "Nickname": "Covert Ops NAME ME",
+          "Description": "A",
+          "CardID": 1036,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Covert Ops",
+            "Blank"
+          ]
+        },
+        {
+          "Nickname": "Power NAME ME",
+          "Description": "B",
+          "CardID": 1037,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Power",
+            "Blank"
+          ]
+        },
+        {
+          "Nickname": "Air Support NAME ME",
+          "Description": "C",
+          "CardID": 1038,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Air Support",
+            "Blank"
+          ]
+        },
+        {
+          "Nickname": "Combat NAME ME",
+          "Description": "D",
+          "CardID": 1039,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Combat",
+            "Blank"
+          ]
+        },
+        {
+          "Nickname": "Diplomacy NAME ME",
+          "Description": "F",
+          "CardID": 1041,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Diplomacy",
+            "Blank"
+          ]
+        },
+        {
+          "Nickname": "Science NAME ME",
+          "Description": "G",
+          "CardID": 1042,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Science",
+            "Blank"
+          ]
+        },
+        {
+          "Nickname": "Any NAME ME",
+          "Description": "H",
+          "CardID": 1043,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Any",
+            "Blank"
+          ]
+        },
+        {
+          "Nickname": "Blank NAME ME",
+          "Description": "I",
+          "CardID": 1044,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Obstacle",
+            "Blank",
+            "Blank"
+          ]
+        }
+      ],
+      "DeckIDs": [
+        1000,
+        1001,
+        1002,
+        1003,
+        1005,
+        1006,
+        1007,
+        1008,
+        1009,
+        1011,
+        1012,
+        1013,
+        1014,
+        1016,
+        1017,
+        1018,
+        1020,
+        1021,
+        1025,
+        1026,
+        1027,
+        1028,
+        1029,
+        1030,
+        1031,
+        1033,
+        1034,
+        1035,
+        1036,
+        1037,
+        1038,
+        1039,
+        1041,
+        1042,
+        1043,
+        1044
+      ],
+      "CustomDeck": {
+        "10": {
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Obstacles10.png?1639346107.532051",
+          "BackURL": "https://i.imgur.com/LS2eGhT.jpg",
+          "NumWidth": 10,
+          "NumHeight": 5,
+          "BackIsHidden": false,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      }
+    },
+    {
+      "Nickname": "Rewards",
+      "Description": "Cards gained by clearing obstacles.",
+      "Name": "DeckCustom",
+      "Hands": false,
+      "SidewaysCard": false,
+      "Transform": {
+        "posX": 5.0,
+        "posY": 0,
+        "posZ": 0,
+        "rotX": 0,
+        "rotY": 180,
+        "rotZ": 180,
+        "scaleX": 1,
+        "scaleY": 1,
+        "scaleZ": 1
+      },
+      "ContainedObjects": [
+        {
+          "Nickname": "Covert Ops/Covert Ops",
+          "Description": "",
+          "CardID": 1000,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Covert Ops"
+          ]
+        },
+        {
+          "Nickname": "Covert Ops/Power",
+          "Description": "",
+          "CardID": 1001,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Power"
+          ]
+        },
+        {
+          "Nickname": "Covert Ops/Air Support",
+          "Description": "",
+          "CardID": 1002,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Air Support"
+          ]
+        },
+        {
+          "Nickname": "Covert Ops/Combat",
+          "Description": "",
+          "CardID": 1003,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Combat"
+          ]
+        },
+        {
+          "Nickname": "Covert Ops/Diplomacy",
+          "Description": "",
+          "CardID": 1005,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Covert Ops/Science",
+          "Description": "",
+          "CardID": 1006,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Power/Power",
+          "Description": "",
+          "CardID": 1007,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power",
+            "Power"
+          ]
+        },
+        {
+          "Nickname": "Power/Air Support",
+          "Description": "",
+          "CardID": 1008,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power",
+            "Air Support"
+          ]
+        },
+        {
+          "Nickname": "Power/Combat",
+          "Description": "",
+          "CardID": 1009,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power",
+            "Combat"
+          ]
+        },
+        {
+          "Nickname": "Power/Diplomacy",
+          "Description": "",
+          "CardID": 1011,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Power/Science",
+          "Description": "",
+          "CardID": 1012,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Air Support/Air Support",
+          "Description": "",
+          "CardID": 1013,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Air Support",
+            "Air Support"
+          ]
+        },
+        {
+          "Nickname": "Air Support/Combat",
+          "Description": "",
+          "CardID": 1014,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Air Support",
+            "Combat"
+          ]
+        },
+        {
+          "Nickname": "Air Support/Diplomacy",
+          "Description": "",
+          "CardID": 1016,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Air Support",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Air Support/Science",
+          "Description": "",
+          "CardID": 1017,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Air Support",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Combat/Combat",
+          "Description": "",
+          "CardID": 1018,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Combat",
+            "Combat"
+          ]
+        },
+        {
+          "Nickname": "Combat/Diplomacy",
+          "Description": "",
+          "CardID": 1020,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Combat",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Combat/Science",
+          "Description": "",
+          "CardID": 1021,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Combat",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Diplomacy/Diplomacy",
+          "Description": "",
+          "CardID": 1025,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Diplomacy",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Diplomacy/Science",
+          "Description": "",
+          "CardID": 1026,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Diplomacy",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Science/Science",
+          "Description": "",
+          "CardID": 1027,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Science",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Covert Ops/Power/Air Support",
+          "Description": "",
+          "CardID": 1028,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Power",
+            "Air Support"
+          ]
+        },
+        {
+          "Nickname": "Covert Ops/Power/Combat",
+          "Description": "",
+          "CardID": 1029,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Power",
+            "Combat"
+          ]
+        },
+        {
+          "Nickname": "Covert Ops/Power/Diplomacy",
+          "Description": "",
+          "CardID": 1030,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Power",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Covert Ops/Power/Science",
+          "Description": "",
+          "CardID": 1031,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Power",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Covert Ops/Air Support/Combat",
+          "Description": "",
+          "CardID": 1032,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Air Support",
+            "Combat"
+          ]
+        },
+        {
+          "Nickname": "Covert Ops/Air Support/Diplomacy",
+          "Description": "",
+          "CardID": 1033,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Air Support",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Covert Ops/Air Support/Science",
+          "Description": "",
+          "CardID": 1034,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Air Support",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Covert Ops/Combat/Diplomacy",
+          "Description": "",
+          "CardID": 1035,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Combat",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Covert Ops/Combat/Science",
+          "Description": "",
+          "CardID": 1036,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Combat",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Covert Ops/Diplomacy/Science",
+          "Description": "",
+          "CardID": 1037,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops",
+            "Diplomacy",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Power/Air Support/Combat",
+          "Description": "",
+          "CardID": 1038,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power",
+            "Air Support",
+            "Combat"
+          ]
+        },
+        {
+          "Nickname": "Power/Air Support/Diplomacy",
+          "Description": "",
+          "CardID": 1039,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power",
+            "Air Support",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Power/Air Support/Science",
+          "Description": "",
+          "CardID": 1040,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power",
+            "Air Support",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Power/Combat/Diplomacy",
+          "Description": "",
+          "CardID": 1041,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power",
+            "Combat",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Power/Combat/Science",
+          "Description": "",
+          "CardID": 1042,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power",
+            "Combat",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Power/Diplomacy/Science",
+          "Description": "",
+          "CardID": 1043,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power",
+            "Diplomacy",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Air Support/Combat/Diplomacy",
+          "Description": "",
+          "CardID": 1044,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Air Support",
+            "Combat",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Air Support/Combat/Science",
+          "Description": "",
+          "CardID": 1045,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Air Support",
+            "Combat",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Air Support/Diplomacy/Science",
+          "Description": "",
+          "CardID": 1046,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Air Support",
+            "Diplomacy",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Combat/Diplomacy/Science",
+          "Description": "",
+          "CardID": 1047,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Combat",
+            "Diplomacy",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Cloaking Device",
+          "Description": "You may skip one obstacle (and its reward) after revealing it this turn. ",
+          "CardID": 1048,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops"
+          ]
+        },
+        {
+          "Nickname": "Cloaking Device",
+          "Description": "You may skip one obstacle (and its reward) after revealing it this turn. ",
+          "CardID": 1048,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops"
+          ]
+        },
+        {
+          "Nickname": "Cloaking Device",
+          "Description": "You may skip one obstacle (and its reward) after revealing it this turn. ",
+          "CardID": 1048,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops"
+          ]
+        },
+        {
+          "Nickname": "Cryptomining",
+          "Description": "Refresh the market or gain 1 credit.",
+          "CardID": 1049,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power"
+          ]
+        },
+        {
+          "Nickname": "Cryptomining",
+          "Description": "Refresh the market or gain 1 credit.",
+          "CardID": 1049,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power"
+          ]
+        },
+        {
+          "Nickname": "Cryptomining",
+          "Description": "Refresh the market or gain 1 credit.",
+          "CardID": 1049,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power"
+          ]
+        },
+        {
+          "Nickname": "Reinforcements",
+          "Description": "Increase your morale counter by 1, up to your maximum.",
+          "CardID": 1050,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Air Support"
+          ]
+        },
+        {
+          "Nickname": "Reinforcements",
+          "Description": "Increase your morale counter by 1, up to your maximum.",
+          "CardID": 1050,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Air Support"
+          ]
+        },
+        {
+          "Nickname": "Reinforcements",
+          "Description": "Increase your morale counter by 1, up to your maximum.",
+          "CardID": 1050,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Air Support"
+          ]
+        },
+        {
+          "Nickname": "By Any Means",
+          "Description": "Move cards in the MacGuffin grid to the right to close the gaps. No morale is lost from columns cleared in this way. ",
+          "CardID": 1051,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Combat"
+          ]
+        },
+        {
+          "Nickname": "By Any Means",
+          "Description": "Move cards in the MacGuffin grid to the right to close the gaps. No morale is lost from columns cleared in this way. ",
+          "CardID": 1051,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Combat"
+          ]
+        },
+        {
+          "Nickname": "By Any Means",
+          "Description": "Move cards in the MacGuffin grid to the right to close the gaps. No morale is lost from columns cleared in this way. ",
+          "CardID": 1051,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Combat"
+          ]
+        },
+        {
+          "Nickname": "Bargaining",
+          "Description": "You may spend 3x (any symbol) to clear a future obstacle in this turn.",
+          "CardID": 1052,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Bargaining",
+          "Description": "You may spend 3x (any symbol) to clear a future obstacle in this turn.",
+          "CardID": 1052,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Bargaining",
+          "Description": "You may spend 3x (any symbol) to clear a future obstacle in this turn.",
+          "CardID": 1052,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Diplomacy"
+          ]
+        },
+        {
+          "Nickname": "Discovery",
+          "Description": "Draw 3 element cards. (Can exceed maximum hand limit until end of turn.)",
+          "CardID": 1053,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Discovery",
+          "Description": "Draw 3 element cards. (Can exceed maximum hand limit until end of turn.)",
+          "CardID": 1053,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Discovery",
+          "Description": "Draw 3 element cards. (Can exceed maximum hand limit until end of turn.)",
+          "CardID": 1053,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Preparation",
+          "Description": "Draw any of the cards from the pool into your hand.",
+          "CardID": 1054,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Luck"
+          ]
+        },
+        {
+          "Nickname": "Preparation",
+          "Description": "Draw any of the cards from the pool into your hand.",
+          "CardID": 1054,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Luck"
+          ]
+        },
+        {
+          "Nickname": "Preparation",
+          "Description": "Draw any of the cards from the pool into your hand.",
+          "CardID": 1054,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Luck"
+          ]
+        },
+        {
+          "Nickname": "Preparation",
+          "Description": "Draw any of the cards from the pool into your hand.",
+          "CardID": 1054,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Luck"
+          ]
+        }
+      ],
+      "DeckIDs": [
+        1000,
+        1001,
+        1002,
+        1003,
+        1005,
+        1006,
+        1007,
+        1008,
+        1009,
+        1011,
+        1012,
+        1013,
+        1014,
+        1016,
+        1017,
+        1018,
+        1020,
+        1021,
+        1025,
+        1026,
+        1027,
+        1028,
+        1029,
+        1030,
+        1031,
+        1032,
+        1033,
+        1034,
+        1035,
+        1036,
+        1037,
+        1038,
+        1039,
+        1040,
+        1041,
+        1042,
+        1043,
+        1044,
+        1045,
+        1046,
+        1047,
+        1048,
+        1048,
+        1048,
+        1049,
+        1049,
+        1049,
+        1050,
+        1050,
+        1050,
+        1051,
+        1051,
+        1051,
+        1052,
+        1052,
+        1052,
+        1053,
+        1053,
+        1053,
+        1054,
+        1054,
+        1054,
+        1054
+      ],
+      "CustomDeck": {
+        "10": {
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Rewards10.png?1639346107.5321703",
+          "BackURL": "https://i.imgur.com/qtH7MDU.jpg",
+          "NumWidth": 10,
+          "NumHeight": 6,
+          "BackIsHidden": false,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      }
+    },
+    {
+      "Nickname": "Roles",
+      "Description": "Cards that give a player special powers.",
+      "Name": "DeckCustom",
+      "Hands": false,
+      "SidewaysCard": false,
+      "Transform": {
+        "posX": 7.5,
+        "posY": 0,
+        "posZ": 0,
+        "rotX": 0,
+        "rotY": 180,
+        "rotZ": 180,
+        "scaleX": 1,
+        "scaleY": 1,
+        "scaleZ": 1
+      },
+      "ContainedObjects": [
+        {
+          "Nickname": "Leaders",
+          "Description": "When sharing cards, you share (face up) before your allies. ",
+          "CardID": 1000,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Karmics",
+          "Description": "If you share 3 cards, you may draw 1 element.",
+          "CardID": 1001,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Farseers",
+          "Description": "The final obstacle and reward is always face up on your turn. ",
+          "CardID": 1002,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Converts",
+          "Description": "When sharing cards, your allies share (face up) before you. ",
+          "CardID": 1003,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Specialists",
+          "Description": "Choose an element (except luck). On your turn you may discard a card in lieu of your specialist element. ",
+          "CardID": 1004,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Glass Cannon",
+          "Description": "Your max hand does not change as you lose morale. You start with half the normal morale, and this is your maximum.",
+          "CardID": 1005,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Empaths",
+          "Description": "You may share between zero and four cards.",
+          "CardID": 1006,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Minotaurs",
+          "Description": "Once per turn, if you would fail an obstacle you may lose one personnel to shuffle that obstacle back into the obstacles deck and replace it with the top one from the deck. You are now engaged with that new obstacle. ",
+          "CardID": 1007,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Planners",
+          "Description": "Credits you accumulate do not need to be spent immediately.",
+          "CardID": 1008,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Sensors",
+          "Description": "After the pooling step on your turn, you may look at all the rewards. ",
+          "CardID": 1009,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Polyannas",
+          "Description": "On your turn, you may use two of the same element from your hand in place of a luck.",
+          "CardID": 1010,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Sadomasochists",
+          "Description": "Draw two element cards for each event that causes morale loss. You have no max hand size and no longer draw element cards in between rounds.",
+          "CardID": 1011,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Cybermen",
+          "Description": "Once per turn, you may pay 1 credit to increase your morale by two. You may not go above your maximum. ",
+          "CardID": 1012,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Tanks",
+          "Description": "If in a turn you would lose more than one personnel, lose one fewer. ",
+          "CardID": 1013,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Faithwalkers",
+          "Description": "You can only share 1 card. Two cards are drawn from the basic elements deck and added to the pool when you share. ",
+          "CardID": 1014,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Gambler",
+          "Description": "Roll a D6 at the start of your turn. On the roll of a 2, 3, or 4 you start on that obstacle. ",
+          "CardID": 1015,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Jack-of-all-Trades",
+          "Description": "Your hand size is one greater than your current personnel. ",
+          "CardID": 1016,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Influencers",
+          "Description": "You may announce which card you are sharing aloud before anyone contributes to the pool. You need not be honest.",
+          "CardID": 1017,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Kin",
+          "Description": "You may look at the active player's hand while they're blindfolded. You may not share this information. ",
+          "CardID": 1018,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Monopolists",
+          "Description": "Once per turn you may discard doubles of an element from your hand to draw 3 new elements at any time.",
+          "CardID": 1019,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Snufflers",
+          "Description": "On your turn you may look at one facedown card (including macguffins). ",
+          "CardID": 1020,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Slavers",
+          "Description": "You may lose 2 personnel to gain 1 credit. You can still only buy from the market during your buy phase.",
+          "CardID": 1021,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Sorcerers",
+          "Description": "You may discard X cards to look at the top 2X cards of any deck. Put them back on the top or bottom of that deck in any order. ",
+          "CardID": 1022,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Heptapods",
+          "Description": "You approach obstacles in reverse order. You cannot disengage unless you have lost at least 1 personnel.",
+          "CardID": 1023,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "r-Strategists",
+          "Description": "You may waste your turn to return your morale to max. ",
+          "CardID": 1024,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Transmuters",
+          "Description": "You may discard two cards to draw a card from the reward deck to your hand at any time. ",
+          "CardID": 1025,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Pragmatists",
+          "Description": "When you draw basic element cards, draw 2 extra and then discard 2 cards. ",
+          "CardID": 1026,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Lucky Angels",
+          "Description": "You may generate a luck symbol by asking your allies to discard a total of three cards, divided among the players as you choose. ",
+          "CardID": 1027,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Lucky Devils",
+          "Description": "You may generate a luck symbol by forcing your allies to discard a total of three cards, divided among the players as you choose. You cannot ask permission to do this, nor give them warning. ",
+          "CardID": 1028,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Philanthopists",
+          "Description": "You may give a card from your hand to another player at any time. ",
+          "CardID": 1029,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Admiral",
+          "Description": "You choose who is first player each round. That player draws an extra element card. ",
+          "CardID": 1030,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Traders",
+          "Description": "Once during your turn you may refresh the market. ",
+          "CardID": 1031,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Glorified Engineers",
+          "Description": "If you play a power card from your hand to overcome an obstacle, you may return it to your hand.",
+          "CardID": 1032,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Warrior Caste",
+          "Description": "You may play a combat card from your hand to overcome any obstacle at the cost of 1 personel.",
+          "CardID": 1033,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Chameleons",
+          "Description": "You may skip over any obstacle involving covert ops. Don't lose personnel, but also don't take the reward.",
+          "CardID": 1034,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Analogists",
+          "Description": "Cards played to overcome obstacles involving science carry over to subsequent obstacles in that turn. (Except luck.)",
+          "CardID": 1035,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Black Market Dealers",
+          "Description": "At the end of your turn, you may discard a diplomacy card to draw the top card of the reward deck into your hand.",
+          "CardID": 1036,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Ace Pilots",
+          "Description": "When another player encounters an obstacle involving air support, you may offer 1 or 2 cards to help overcome that obstacle.",
+          "CardID": 1037,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        }
+      ],
+      "DeckIDs": [
+        1000,
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        1007,
+        1008,
+        1009,
+        1010,
+        1011,
+        1012,
+        1013,
+        1014,
+        1015,
+        1016,
+        1017,
+        1018,
+        1019,
+        1020,
+        1021,
+        1022,
+        1023,
+        1024,
+        1025,
+        1026,
+        1027,
+        1028,
+        1029,
+        1030,
+        1031,
+        1032,
+        1033,
+        1034,
+        1035,
+        1036,
+        1037
+      ],
+      "CustomDeck": {
+        "10": {
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Roles10.png?1639346107.5323114",
+          "BackURL": "https://hdwallpaperim.com/wp-content/uploads/2017/08/22/453064-space-space_art-stars-planet-nebula-galaxy.jpg",
+          "NumWidth": 10,
+          "NumHeight": 4,
+          "BackIsHidden": false,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      }
+    },
+    {
       "Nickname": "MacGuffins",
       "Description": "Cards that introduce new effects into the game.",
       "Name": "DeckCustom",
       "Hands": false,
       "SidewaysCard": false,
       "Transform": {
-        "posX": 0.0,
+        "posX": 10.0,
         "posY": 0,
         "posZ": 0,
         "rotX": 0,
@@ -3361,7 +8552,7 @@
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/MacGuffins10.png?1639345076.5740862",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/MacGuffins10.png?1639346107.532396",
           "BackURL": "https://i.imgur.com/4FsVPIC.jpg",
           "NumWidth": 10,
           "NumHeight": 7,
@@ -3370,7 +8561,7 @@
           "Type": 0
         },
         "11": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/MacGuffins11.png?1639345076.5743535",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/MacGuffins11.png?1639346107.5326355",
           "BackURL": "https://i.imgur.com/4FsVPIC.jpg",
           "NumWidth": 10,
           "NumHeight": 6,
