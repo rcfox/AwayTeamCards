@@ -1,7 +1,10 @@
 import json
 import sys
+import tempfile
 from pathlib import Path
 from pprint import pprint
+
+import requests
 
 from deck import Deck
 import card
@@ -10,6 +13,12 @@ import util
 import tabletop_simulator
 
 SAVE_DIR = Path('generated')
+
+SPREADSHEET_ID = '1YAY_diHKl7vRUOvA_KsW_tmMnFpQGiaZSLMKNZcBbXI'
+
+
+def export_url(spreadsheet_id):
+    return f'https://docs.google.com/spreadsheets/d/{spreadsheet_id}/export?format=xlsx'
 
 
 def main(spreadsheet: Path):
@@ -35,4 +44,10 @@ if __name__ == '__main__':
         spreadsheet = Path(sys.argv[1])
         main(spreadsheet)
     else:
-        print('Must provide an AwayTeamCards spreadsheet.')
+        print(f'Downloading spreadsheet {SPREADSHEET_ID}.')
+        r = requests.get(export_url(SPREADSHEET_ID))
+        r.raise_for_status()
+
+        with tempfile.NamedTemporaryFile(suffix='.xlsx') as tmp_file:
+            tmp_file.write(r.content)
+            main(Path(tmp_file.name))
