@@ -1598,7 +1598,7 @@
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Elements10.png?1636251330.9253159",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Elements10.png?1639338262.8587098",
           "BackURL": "https://i.imgur.com/A7Wa5GN.jpeg",
           "NumWidth": 10,
           "NumHeight": 2,
@@ -2567,7 +2567,7 @@
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Obstacles10.png?1636251330.9253864",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Obstacles10.png?1639338262.8587883",
           "BackURL": "https://i.imgur.com/LS2eGhT.jpg",
           "NumWidth": 10,
           "NumHeight": 5,
@@ -3689,6 +3689,54 @@
           ]
         },
         {
+          "Nickname": "Cloaking Device",
+          "Description": "You may skip one obstacle (and its reward) after revealing it this turn. ",
+          "CardID": 1048,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Covert Ops"
+          ]
+        },
+        {
+          "Nickname": "Cryptomining",
+          "Description": "Refresh the market or gain 1 credit.",
+          "CardID": 1049,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Power"
+          ]
+        },
+        {
           "Nickname": "Cryptomining",
           "Description": "Refresh the market or gain 1 credit.",
           "CardID": 1049,
@@ -3785,8 +3833,32 @@
           ]
         },
         {
+          "Nickname": "Reinforcements",
+          "Description": "Increase your morale counter by 1, up to your maximum.",
+          "CardID": 1050,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Air Support"
+          ]
+        },
+        {
           "Nickname": "By Any Means",
-          "Description": "Prevent the loss of morale from clearing columns of the grid for the rest of the turn.",
+          "Description": "Move cards in the MacGuffin grid to the right to close the gaps. No morale is lost from columns cleared in this way. ",
           "CardID": 1051,
           "Name": "Card",
           "Hands": true,
@@ -3810,7 +3882,7 @@
         },
         {
           "Nickname": "By Any Means",
-          "Description": "Prevent the loss of morale from clearing columns of the grid for the rest of the turn.",
+          "Description": "Move cards in the MacGuffin grid to the right to close the gaps. No morale is lost from columns cleared in this way. ",
           "CardID": 1051,
           "Name": "Card",
           "Hands": true,
@@ -3830,6 +3902,54 @@
             "Card",
             "Reward",
             "Combat"
+          ]
+        },
+        {
+          "Nickname": "By Any Means",
+          "Description": "Move cards in the MacGuffin grid to the right to close the gaps. No morale is lost from columns cleared in this way. ",
+          "CardID": 1051,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Combat"
+          ]
+        },
+        {
+          "Nickname": "Bargaining",
+          "Description": "You may spend 3x (any symbol) to clear a future obstacle in this turn.",
+          "CardID": 1052,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Diplomacy"
           ]
         },
         {
@@ -3929,6 +4049,54 @@
           ]
         },
         {
+          "Nickname": "Discovery",
+          "Description": "Draw 3 element cards. (Can exceed maximum hand limit until end of turn.)",
+          "CardID": 1053,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Science"
+          ]
+        },
+        {
+          "Nickname": "Preparation",
+          "Description": "Draw any of the cards from the pool into your hand.",
+          "CardID": 1054,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Reward",
+            "Luck"
+          ]
+        },
+        {
           "Nickname": "Preparation",
           "Description": "Draw any of the cards from the pool into your hand.",
           "CardID": 1054,
@@ -3977,9 +4145,9 @@
           ]
         },
         {
-          "Nickname": "Consolidation",
-          "Description": "Move cards in the MacGuffin grid to the right to close the gaps",
-          "CardID": 1055,
+          "Nickname": "Preparation",
+          "Description": "Draw any of the cards from the pool into your hand.",
+          "CardID": 1054,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -3997,31 +4165,7 @@
           "Tags": [
             "Card",
             "Reward",
-            "Unity"
-          ]
-        },
-        {
-          "Nickname": "Consolidation",
-          "Description": "Move cards in the MacGuffin grid to the right to close the gaps",
-          "CardID": 1055,
-          "Name": "Card",
-          "Hands": true,
-          "SidewaysCard": false,
-          "Transform": {
-            "posX": 0,
-            "posY": 0,
-            "posZ": 0,
-            "rotX": 0,
-            "rotY": 180,
-            "rotZ": 180,
-            "scaleX": 1,
-            "scaleY": 1,
-            "scaleZ": 1
-          },
-          "Tags": [
-            "Card",
-            "Reward",
-            "Unity"
+            "Luck"
           ]
         }
       ],
@@ -4069,24 +4213,30 @@
         1047,
         1048,
         1048,
+        1048,
+        1049,
         1049,
         1049,
         1050,
         1050,
+        1050,
+        1051,
         1051,
         1051,
         1052,
         1052,
+        1052,
+        1053,
         1053,
         1053,
         1054,
         1054,
-        1055,
-        1055
+        1054,
+        1054
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Rewards10.png?1636251330.9254992",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Rewards10.png?1639338262.8589046",
           "BackURL": "https://i.imgur.com/qtH7MDU.jpg",
           "NumWidth": 10,
           "NumHeight": 6,
@@ -4231,7 +4381,7 @@
         },
         {
           "Nickname": "Glass Cannon",
-          "Description": "Your max hand does not change as you lose personnel. You start with half the normal personnel, and this is your maximum.",
+          "Description": "Your max hand does not change as you lose morale. You start with half the normal morale, and this is your maximum.",
           "CardID": 1005,
           "Name": "Card",
           "Hands": true,
@@ -4369,7 +4519,7 @@
         },
         {
           "Nickname": "Sadomasochists",
-          "Description": "Draw two element cards for each loss of personnel due to a failed obstacle. You have no max hand size and no longer draw element cards in between rounds.",
+          "Description": "Draw two element cards for each event that causes morale loss. You have no max hand size and no longer draw element cards in between rounds.",
           "CardID": 1011,
           "Name": "Card",
           "Hands": true,
@@ -4392,7 +4542,7 @@
         },
         {
           "Nickname": "Cybermen",
-          "Description": "Once per turn, you may pay 1 credit to increase your personnel by one. You may not go above your maximum. ",
+          "Description": "Once per turn, you may pay 1 credit to increase your morale by two. You may not go above your maximum. ",
           "CardID": 1012,
           "Name": "Card",
           "Hands": true,
@@ -4461,7 +4611,7 @@
         },
         {
           "Nickname": "Gambler",
-          "Description": "You may choose to roll a D4 at the beginning of your turn. Start on that obstacle. ",
+          "Description": "Roll a D6 at the start of your turn. On the roll of a 2, 3, or 4 you start on that obstacle. ",
           "CardID": 1015,
           "Name": "Card",
           "Hands": true,
@@ -4507,7 +4657,7 @@
         },
         {
           "Nickname": "Influencers",
-          "Description": "You may announce 1 card you are sharing aloud before you share. You need not be honest.",
+          "Description": "You may announce which card you are sharing aloud before anyone contributes to the pool. You need not be honest.",
           "CardID": 1017,
           "Name": "Card",
           "Hands": true,
@@ -4553,7 +4703,7 @@
         },
         {
           "Nickname": "Monopolists",
-          "Description": "You may discard triples of elements from your hand to draw 4 new elements at any time.",
+          "Description": "Once per turn you may discard doubles of an element from your hand to draw 3 new elements at any time.",
           "CardID": 1019,
           "Name": "Card",
           "Hands": true,
@@ -4576,7 +4726,7 @@
         },
         {
           "Nickname": "Snufflers",
-          "Description": "On your turn you may look at one facedown card. ",
+          "Description": "On your turn you may look at one facedown card (including macguffins). ",
           "CardID": 1020,
           "Name": "Card",
           "Hands": true,
@@ -4667,8 +4817,8 @@
           ]
         },
         {
-          "Nickname": "r-Strategist",
-          "Description": "You may pay 2 credits to return your personnel to max. ",
+          "Nickname": "r-Strategists",
+          "Description": "You may waste your turn to return your morale to max. ",
           "CardID": 1024,
           "Name": "Card",
           "Hands": true,
@@ -4691,7 +4841,7 @@
         },
         {
           "Nickname": "Transmuters",
-          "Description": "You may discard two cards to draw a reward card to your hand at any time. ",
+          "Description": "You may discard two cards to draw a card from the reward deck to your hand at any time. ",
           "CardID": 1025,
           "Name": "Card",
           "Hands": true,
@@ -4736,8 +4886,8 @@
           ]
         },
         {
-          "Nickname": "Lucky Devils",
-          "Description": "You may generate a luck symbol by forcing all other players to discard two cards. You cannot ask permission to do this, nor give them warning. ",
+          "Nickname": "Lucky Angels",
+          "Description": "You may generate a luck symbol by asking your allies to discard a total of three cards, divided among the players as you choose. ",
           "CardID": 1027,
           "Name": "Card",
           "Hands": true,
@@ -4759,8 +4909,8 @@
           ]
         },
         {
-          "Nickname": "Trader",
-          "Description": "You may give a card from your hand to another player. They may then give you a card from their hand. ",
+          "Nickname": "Lucky Devils",
+          "Description": "You may generate a luck symbol by forcing your allies to discard a total of three cards, divided among the players as you choose. You cannot ask permission to do this, nor give them warning. ",
           "CardID": 1028,
           "Name": "Card",
           "Hands": true,
@@ -4782,9 +4932,55 @@
           ]
         },
         {
-          "Nickname": "Admiral",
-          "Description": "You choose who is first player each round. ",
+          "Nickname": "Philanthopists",
+          "Description": "You may give a card from your hand to another player at any time. ",
           "CardID": 1029,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Admiral",
+          "Description": "You choose who is first player each round. That player draws an extra element card. ",
+          "CardID": 1030,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "Role"
+          ]
+        },
+        {
+          "Nickname": "Traders",
+          "Description": "Once during your turn you may refresh the market. ",
+          "CardID": 1031,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -4807,7 +5003,7 @@
         {
           "Nickname": "Glorified Engineers",
           "Description": "If you play a power card from your hand to overcome an obstacle, you may return it to your hand.",
-          "CardID": 1030,
+          "CardID": 1032,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -4830,7 +5026,7 @@
         {
           "Nickname": "Warrior Caste",
           "Description": "You may play a combat card from your hand to overcome any obstacle at the cost of 1 personel.",
-          "CardID": 1031,
+          "CardID": 1033,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -4853,7 +5049,7 @@
         {
           "Nickname": "Chameleons",
           "Description": "You may skip over any obstacle involving covert ops. Don't lose personnel, but also don't take the reward.",
-          "CardID": 1032,
+          "CardID": 1034,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -4876,7 +5072,7 @@
         {
           "Nickname": "Analogists",
           "Description": "Cards played to overcome obstacles involving science carry over to subsequent obstacles in that turn. (Except luck.)",
-          "CardID": 1033,
+          "CardID": 1035,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -4899,7 +5095,7 @@
         {
           "Nickname": "Black Market Dealers",
           "Description": "At the end of your turn, you may discard a diplomacy card to draw the top card of the reward deck into your hand.",
-          "CardID": 1034,
+          "CardID": 1036,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -4922,7 +5118,7 @@
         {
           "Nickname": "Ace Pilots",
           "Description": "When another player encounters an obstacle involving air support, you may offer 1 or 2 cards to help overcome that obstacle.",
-          "CardID": 1035,
+          "CardID": 1037,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -4979,11 +5175,13 @@
         1032,
         1033,
         1034,
-        1035
+        1035,
+        1036,
+        1037
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Roles10.png?1636251330.9256282",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/Roles10.png?1639338262.8590407",
           "BackURL": "https://hdwallpaperim.com/wp-content/uploads/2017/08/22/453064-space-space_art-stars-planet-nebula-galaxy.jpg",
           "NumWidth": 10,
           "NumHeight": 4,
@@ -5012,8 +5210,8 @@
       },
       "ContainedObjects": [
         {
-          "Nickname": "New Fad",
-          "Description": "Everyone takes 1 damage.",
+          "Nickname": "Interdisciplinarity",
+          "Description": "always",
           "CardID": 1000,
           "Name": "Card",
           "Hands": true,
@@ -5035,8 +5233,8 @@
           ]
         },
         {
-          "Nickname": "Bravado",
-          "Description": "All damge is now doubled.",
+          "Nickname": "Hyperlanes",
+          "Description": "always",
           "CardID": 1001,
           "Name": "Card",
           "Hands": true,
@@ -5058,8 +5256,8 @@
           ]
         },
         {
-          "Nickname": "Incentivisational Governance",
-          "Description": "Add a reward to the first obstacle.",
+          "Nickname": "Selective Citizenship",
+          "Description": "always",
           "CardID": 1002,
           "Name": "Card",
           "Hands": true,
@@ -5081,8 +5279,8 @@
           ]
         },
         {
-          "Nickname": "Planned Economy",
-          "Description": "Remove one market slot.",
+          "Nickname": "Free Market Economy",
+          "Description": "buy",
           "CardID": 1003,
           "Name": "Card",
           "Hands": true,
@@ -5104,8 +5302,8 @@
           ]
         },
         {
-          "Nickname": "Oligopoly",
-          "Description": "Remove two market slots.",
+          "Nickname": "Rules of Acquisition",
+          "Description": "buy",
           "CardID": 1004,
           "Name": "Card",
           "Hands": true,
@@ -5127,8 +5325,8 @@
           ]
         },
         {
-          "Nickname": "Natural Conservationism",
-          "Description": "Remove the first reward slot.",
+          "Nickname": "Ansible",
+          "Description": "damage",
           "CardID": 1005,
           "Name": "Card",
           "Hands": true,
@@ -5150,8 +5348,8 @@
           ]
         },
         {
-          "Nickname": "Wealth Tax",
-          "Description": "Only one player can contribute to the pool (before seeing the obstacles).",
+          "Nickname": "Solidarity",
+          "Description": "damage",
           "CardID": 1006,
           "Name": "Card",
           "Hands": true,
@@ -5173,8 +5371,8 @@
           ]
         },
         {
-          "Nickname": "Compulsory Tithes",
-          "Description": "Anyone who doesn't contribute to the pool (including the current player) must discard a card.",
+          "Nickname": "Androids",
+          "Description": "damage",
           "CardID": 1007,
           "Name": "Card",
           "Hands": true,
@@ -5196,8 +5394,8 @@
           ]
         },
         {
-          "Nickname": "Rapid Communication",
-          "Description": "Discard down to your personel size at the end of your turn.",
+          "Nickname": "Epicureanism",
+          "Description": "damage",
           "CardID": 1008,
           "Name": "Card",
           "Hands": true,
@@ -5219,8 +5417,8 @@
           ]
         },
         {
-          "Nickname": "Ansible",
-          "Description": "Discard down to your personel size as you take damage.",
+          "Nickname": "Cultural Exchange",
+          "Description": "damage",
           "CardID": 1009,
           "Name": "Card",
           "Hands": true,
@@ -5242,8 +5440,8 @@
           ]
         },
         {
-          "Nickname": "Cultural Convergence",
-          "Description": "Discard your culture card and draw a new one from the top of the deck. ",
+          "Nickname": "Emergency Command Hologram",
+          "Description": "damage",
           "CardID": 1010,
           "Name": "Card",
           "Hands": true,
@@ -5265,8 +5463,8 @@
           ]
         },
         {
-          "Nickname": "Conscription",
-          "Description": "Everyone heals 1 damage. +1 cost",
+          "Nickname": "Bravado",
+          "Description": "damage",
           "CardID": 1011,
           "Name": "Card",
           "Hands": true,
@@ -5288,8 +5486,8 @@
           ]
         },
         {
-          "Nickname": "Logicracy",
-          "Description": "No luck can be played. ",
+          "Nickname": "Nobody Left Behind",
+          "Description": "damage",
           "CardID": 1012,
           "Name": "Card",
           "Hands": true,
@@ -5311,8 +5509,8 @@
           ]
         },
         {
-          "Nickname": "Micromanufacoties",
-          "Description": "Refresh the market at the end of every turn",
+          "Nickname": "United Front",
+          "Description": "damage",
           "CardID": 1013,
           "Name": "Card",
           "Hands": true,
@@ -5334,8 +5532,8 @@
           ]
         },
         {
-          "Nickname": "Amishism",
-          "Description": "Add one element card covering each remaining macguffin",
+          "Nickname": "Cultural Exchange",
+          "Description": "damage",
           "CardID": 1014,
           "Name": "Card",
           "Hands": true,
@@ -5357,8 +5555,8 @@
           ]
         },
         {
-          "Nickname": "No Daniels Allowed ",
-          "Description": "Add a fifth obstacle and fourth reward (no extra credits). ",
+          "Nickname": "New Fad",
+          "Description": "immediate",
           "CardID": 1015,
           "Name": "Card",
           "Hands": true,
@@ -5380,8 +5578,8 @@
           ]
         },
         {
-          "Nickname": "Free Market Economy",
-          "Description": "Rewards from the market cost one more credit.",
+          "Nickname": "Planned Economy",
+          "Description": "immediate",
           "CardID": 1016,
           "Name": "Card",
           "Hands": true,
@@ -5403,8 +5601,8 @@
           ]
         },
         {
-          "Nickname": "Income Tax",
-          "Description": "The second reward slot awards no credits. ",
+          "Nickname": "Oligopoly",
+          "Description": "immediate",
           "CardID": 1017,
           "Name": "Card",
           "Hands": true,
@@ -5426,8 +5624,8 @@
           ]
         },
         {
-          "Nickname": "New Employment Sector",
-          "Description": "Max hand size is decreased by one. ",
+          "Nickname": "Natural Conservationism",
+          "Description": "immediate",
           "CardID": 1018,
           "Name": "Card",
           "Hands": true,
@@ -5449,8 +5647,8 @@
           ]
         },
         {
-          "Nickname": "Rapid Deployment",
-          "Description": "The fourth obstacle stays facedown during the pooling phase. ",
+          "Nickname": "New Employment Sector",
+          "Description": "immediate",
           "CardID": 1019,
           "Name": "Card",
           "Hands": true,
@@ -5472,8 +5670,8 @@
           ]
         },
         {
-          "Nickname": "Rapid Deployment",
-          "Description": "The third obstacle stays facedown during the pooling phase. ",
+          "Nickname": "Renaissance",
+          "Description": "immediate",
           "CardID": 1020,
           "Name": "Card",
           "Hands": true,
@@ -5495,8 +5693,8 @@
           ]
         },
         {
-          "Nickname": "Rapid Deployment",
-          "Description": "The second obstacle stays facedown during the pooling phase. ",
+          "Nickname": "Status Quo",
+          "Description": "immediate",
           "CardID": 1021,
           "Name": "Card",
           "Hands": true,
@@ -5518,8 +5716,8 @@
           ]
         },
         {
-          "Nickname": "Rapid Deployment",
-          "Description": "The first obstacle stays facedown during the pooling phase. ",
+          "Nickname": "Cultural Convergence",
+          "Description": "immediate",
           "CardID": 1022,
           "Name": "Card",
           "Hands": true,
@@ -5541,8 +5739,8 @@
           ]
         },
         {
-          "Nickname": "Self Preservation",
-          "Description": "You cannot contribute 3 cards to the pool. ",
+          "Nickname": "Amishism",
+          "Description": "immediate",
           "CardID": 1023,
           "Name": "Card",
           "Hands": true,
@@ -5564,8 +5762,8 @@
           ]
         },
         {
-          "Nickname": "Superstition",
-          "Description": "You cannot contribute 2 cards to the pool. ",
+          "Nickname": "Joie de Vivre",
+          "Description": "immediate",
           "CardID": 1024,
           "Name": "Card",
           "Hands": true,
@@ -5587,8 +5785,8 @@
           ]
         },
         {
-          "Nickname": "Honour Code",
-          "Description": "You cannot contribute 1 card to the pool unless you only have one card. ",
+          "Nickname": "Recycling",
+          "Description": "immediate",
           "CardID": 1025,
           "Name": "Card",
           "Hands": true,
@@ -5610,8 +5808,8 @@
           ]
         },
         {
-          "Nickname": "Uniformity",
-          "Description": "Cultural powers cannot be used. ",
+          "Nickname": "Borderless Society",
+          "Description": "immediate",
           "CardID": 1026,
           "Name": "Card",
           "Hands": true,
@@ -5633,8 +5831,8 @@
           ]
         },
         {
-          "Nickname": "Virtue Signaling",
-          "Description": "The active player reveals one card at the beginning of their turn.",
+          "Nickname": "Pro-Immigration Policy",
+          "Description": "immediate",
           "CardID": 1027,
           "Name": "Card",
           "Hands": true,
@@ -5656,8 +5854,8 @@
           ]
         },
         {
-          "Nickname": "Royal Blood",
-          "Description": "The player who unlocks this macguffin must go first for the rest of the game. ",
+          "Nickname": "Ultimate Power",
+          "Description": "immediate",
           "CardID": 1028,
           "Name": "Card",
           "Hands": true,
@@ -5679,8 +5877,8 @@
           ]
         },
         {
-          "Nickname": "Borderless Society",
-          "Description": "Give your culture card to the player to your left. ",
+          "Nickname": "Confederation Membership",
+          "Description": "immediate",
           "CardID": 1029,
           "Name": "Card",
           "Hands": true,
@@ -5702,8 +5900,8 @@
           ]
         },
         {
-          "Nickname": "Pro-Immigration Policy",
-          "Description": "Give your culture card to the player to your right. ",
+          "Nickname": "Value Realignment",
+          "Description": "immediate",
           "CardID": 1030,
           "Name": "Card",
           "Hands": true,
@@ -5725,8 +5923,8 @@
           ]
         },
         {
-          "Nickname": "Renaissance",
-          "Description": "When this macguffin is unlocked, each player rolls their personnel die. This is their new personnel. ",
+          "Nickname": "Value Realignment",
+          "Description": "immediate",
           "CardID": 1031,
           "Name": "Card",
           "Hands": true,
@@ -5748,8 +5946,8 @@
           ]
         },
         {
-          "Nickname": "Perfectionism",
-          "Description": "Take one damage when you encounter an obstacle with repeated symbols. ",
+          "Nickname": "Experimental Technology",
+          "Description": "immediate",
           "CardID": 1032,
           "Name": "Card",
           "Hands": true,
@@ -5771,8 +5969,8 @@
           ]
         },
         {
-          "Nickname": "Ultimate Power",
-          "Description": "You lose the game unless this mcguffin is unlocked last.",
+          "Nickname": "Experimental Technology",
+          "Description": "immediate",
           "CardID": 1033,
           "Name": "Card",
           "Hands": true,
@@ -5794,8 +5992,8 @@
           ]
         },
         {
-          "Nickname": "Confederation Membership",
-          "Description": "You lose the game unless this mcguffin is revealed first.",
+          "Nickname": "Infinite Improbability",
+          "Description": "immediate",
           "CardID": 1034,
           "Name": "Card",
           "Hands": true,
@@ -5817,8 +6015,8 @@
           ]
         },
         {
-          "Nickname": "Obstinance",
-          "Description": "Reverse luck symbols require luck. ",
+          "Nickname": "Hyperfocus",
+          "Description": "immediate",
           "CardID": 1035,
           "Name": "Card",
           "Hands": true,
@@ -5840,8 +6038,8 @@
           ]
         },
         {
-          "Nickname": "Prosperity Faith",
-          "Description": "Roll the D-element at the beginning of each turn, that element can be used as luck for the remainder. x6",
+          "Nickname": "Lateral Thinking",
+          "Description": "immediate",
           "CardID": 1036,
           "Name": "Card",
           "Hands": true,
@@ -5863,8 +6061,8 @@
           ]
         },
         {
-          "Nickname": "Atheism",
-          "Description": "Reverse luck symbols require ____. x6",
+          "Nickname": "Replicators",
+          "Description": "immediate",
           "CardID": 1037,
           "Name": "Card",
           "Hands": true,
@@ -5886,8 +6084,8 @@
           ]
         },
         {
-          "Nickname": "Virtual World",
-          "Description": "The market doesn't refresh at the end of the round. ",
+          "Nickname": "Untitled",
+          "Description": "immediate",
           "CardID": 1038,
           "Name": "Card",
           "Hands": true,
@@ -5909,8 +6107,8 @@
           ]
         },
         {
-          "Nickname": "Rationing",
-          "Description": "Solving an obstacle with ____ causes you to discard a card. x6",
+          "Nickname": "Face Melting Laser",
+          "Description": "immediate",
           "CardID": 1039,
           "Name": "Card",
           "Hands": true,
@@ -5932,8 +6130,8 @@
           ]
         },
         {
-          "Nickname": "Etiquette",
-          "Description": "Lose one personnel every time you use a curse word.",
+          "Nickname": "Untitled",
+          "Description": "immediate",
           "CardID": 1040,
           "Name": "Card",
           "Hands": true,
@@ -5955,8 +6153,8 @@
           ]
         },
         {
-          "Nickname": "Value Realignment",
-          "Description": "When you unlock this macguffin, you may replace one macguffin with one drawn randomly from the red deck. ",
+          "Nickname": "Untitled",
+          "Description": "immediate",
           "CardID": 1041,
           "Name": "Card",
           "Hands": true,
@@ -5978,8 +6176,8 @@
           ]
         },
         {
-          "Nickname": "Value Realignment",
-          "Description": "When you unlock this macguffin, you may replace one macguffin with one drawn randomly from the green deck. ",
+          "Nickname": "Bail Out",
+          "Description": "damage",
           "CardID": 1042,
           "Name": "Card",
           "Hands": true,
@@ -6001,8 +6199,8 @@
           ]
         },
         {
-          "Nickname": "Experimental Technology",
-          "Description": "When you unlock this macguffin, you must replace it with one drawn randomly from the red deck. ",
+          "Nickname": "Philosopher's Stone",
+          "Description": "immediate",
           "CardID": 1043,
           "Name": "Card",
           "Hands": true,
@@ -6024,8 +6222,8 @@
           ]
         },
         {
-          "Nickname": "Experimental Technology",
-          "Description": "When you unlock this macguffin, you must replace it with one drawn randomly from the green deck. ",
+          "Nickname": "Conscription",
+          "Description": "immediate",
           "CardID": 1044,
           "Name": "Card",
           "Hands": true,
@@ -6047,8 +6245,8 @@
           ]
         },
         {
-          "Nickname": "Biodegradable Products",
-          "Description": "Players must discard their hands at the end of each round. ",
+          "Nickname": "Tachyon Embedder",
+          "Description": "immediate",
           "CardID": 1045,
           "Name": "Card",
           "Hands": true,
@@ -6070,8 +6268,8 @@
           ]
         },
         {
-          "Nickname": "Wormhole Funnel",
-          "Description": "After each pooling phase, draw one element card to add to the pool.",
+          "Nickname": "Mind Link",
+          "Description": "immediate / always?",
           "CardID": 1046,
           "Name": "Card",
           "Hands": true,
@@ -6093,8 +6291,8 @@
           ]
         },
         {
-          "Nickname": "Logistic Efficiency",
-          "Description": "Before each pooling phase, draw one element card to add to the pool.",
+          "Nickname": "Collective Unconscious",
+          "Description": "immediate / damage",
           "CardID": 1047,
           "Name": "Card",
           "Hands": true,
@@ -6116,8 +6314,8 @@
           ]
         },
         {
-          "Nickname": "Status Quo",
-          "Description": "No effect. ",
+          "Nickname": "The Answer",
+          "Description": "macguffin",
           "CardID": 1048,
           "Name": "Card",
           "Hands": true,
@@ -6139,8 +6337,8 @@
           ]
         },
         {
-          "Nickname": "Lateral Thinking",
-          "Description": "When you unlock this macguffin, remove one card from one locked macguffin. ",
+          "Nickname": "Neutralizing Beam",
+          "Description": "macguffin",
           "CardID": 1049,
           "Name": "Card",
           "Hands": true,
@@ -6162,8 +6360,8 @@
           ]
         },
         {
-          "Nickname": "Replicators",
-          "Description": "When you unlock this macguffin, draw one reward card from the top of the reward deck to your hand. . ",
+          "Nickname": "Work Detail",
+          "Description": "market refresh",
           "CardID": 1050,
           "Name": "Card",
           "Hands": true,
@@ -6185,8 +6383,8 @@
           ]
         },
         {
-          "Nickname": "Cryosleep Chambers",
-          "Description": "When you unluck this macguffin, your turn is skipped until another macguffin is unlocked on a subsequent turn. ",
+          "Nickname": "Transmogriphier",
+          "Description": "matrix unlock",
           "CardID": 1051,
           "Name": "Card",
           "Hands": true,
@@ -6208,8 +6406,8 @@
           ]
         },
         {
-          "Nickname": "Financial Planning",
-          "Description": "Accomplishing the fourth obstacle earns an extra credit. ",
+          "Nickname": "Rationing",
+          "Description": "obstacle",
           "CardID": 1052,
           "Name": "Card",
           "Hands": true,
@@ -6231,8 +6429,8 @@
           ]
         },
         {
-          "Nickname": "Interdisciplinarity",
-          "Description": "Your hand size is one more than your personnel. ",
+          "Nickname": "Delayed Gratification",
+          "Description": "obstacle",
           "CardID": 1053,
           "Name": "Card",
           "Hands": true,
@@ -6254,8 +6452,8 @@
           ]
         },
         {
-          "Nickname": "Solidarity",
-          "Description": "Each player discards a card when any player loses personnel. ",
+          "Nickname": "Delayed Gratification",
+          "Description": "obstacle",
           "CardID": 1054,
           "Name": "Card",
           "Hands": true,
@@ -6277,8 +6475,8 @@
           ]
         },
         {
-          "Nickname": "Hyperlanes",
-          "Description": "Add a fourth market slot. ",
+          "Nickname": "Delayed Gratification",
+          "Description": "obstacle",
           "CardID": 1055,
           "Name": "Card",
           "Hands": true,
@@ -6300,8 +6498,8 @@
           ]
         },
         {
-          "Nickname": "Forecasting",
-          "Description": "The first reward is always face up. ",
+          "Nickname": "Income Tax",
+          "Description": "obstacle",
           "CardID": 1056,
           "Name": "Card",
           "Hands": true,
@@ -6323,8 +6521,8 @@
           ]
         },
         {
-          "Nickname": "Forecasting",
-          "Description": "The second reward is always face up. ",
+          "Nickname": "Revaluation",
+          "Description": "obstacle",
           "CardID": 1057,
           "Name": "Card",
           "Hands": true,
@@ -6346,8 +6544,8 @@
           ]
         },
         {
-          "Nickname": "Long Range Forecasting",
-          "Description": "The third reward is always face up. ",
+          "Nickname": "Financial Planning",
+          "Description": "obstacle",
           "CardID": 1058,
           "Name": "Card",
           "Hands": true,
@@ -6369,8 +6567,8 @@
           ]
         },
         {
-          "Nickname": "Utility Belt",
-          "Description": "A single luck element card can be used to surpass an obstacle.",
+          "Nickname": "Logicracy",
+          "Description": "obstacle",
           "CardID": 1059,
           "Name": "Card",
           "Hands": true,
@@ -6392,8 +6590,8 @@
           ]
         },
         {
-          "Nickname": "Collective Unconscious",
-          "Description": "Your hand size is equal to the player's with the smallest max hand size.",
+          "Nickname": "Mindfulness",
+          "Description": "obstacle",
           "CardID": 1060,
           "Name": "Card",
           "Hands": true,
@@ -6415,8 +6613,8 @@
           ]
         },
         {
-          "Nickname": "Mind Link",
-          "Description": "Your hand size is equal to the player's with the largest max hand size.",
+          "Nickname": "Singular Focus",
+          "Description": "obstacle",
           "CardID": 1061,
           "Name": "Card",
           "Hands": true,
@@ -6438,8 +6636,8 @@
           ]
         },
         {
-          "Nickname": "Nobody Left Behind",
-          "Description": "You may discard your hand to avoid losing a personnel. ",
+          "Nickname": "Atheism",
+          "Description": "obstacle",
           "CardID": 1062,
           "Name": "Card",
           "Hands": true,
@@ -6461,8 +6659,8 @@
           ]
         },
         {
-          "Nickname": "Self-Sacrifice",
-          "Description": "Before the pooling phase, the active player discards their hand and the non-active players draw to their max hand size.",
+          "Nickname": "Utility Belt",
+          "Description": "obstacle",
           "CardID": 1063,
           "Name": "Card",
           "Hands": true,
@@ -6484,8 +6682,8 @@
           ]
         },
         {
-          "Nickname": "Cultural Exchange",
-          "Description": "When you would lose personnel, your neighbour to the left loses it instead. ",
+          "Nickname": "Specialiazation",
+          "Description": "obstacle",
           "CardID": 1064,
           "Name": "Card",
           "Hands": true,
@@ -6507,8 +6705,8 @@
           ]
         },
         {
-          "Nickname": "Cultural Exchange",
-          "Description": "When you would lose personnel, your neighbour to the right loses it instead. ",
+          "Nickname": "Reality Rewriter",
+          "Description": "obstacle",
           "CardID": 1065,
           "Name": "Card",
           "Hands": true,
@@ -6530,8 +6728,8 @@
           ]
         },
         {
-          "Nickname": "United Front",
-          "Description": "When you would lose personnel, the player with the highest personnel loses it instead. If tied, you choose. ",
+          "Nickname": "Compulsory Tithes",
+          "Description": "pooling",
           "CardID": 1066,
           "Name": "Card",
           "Hands": true,
@@ -6553,8 +6751,8 @@
           ]
         },
         {
-          "Nickname": "Emergency Command Hologram",
-          "Description": "Reaching zero personnel is not a loss condition. You play with a hand of zero cards. ",
+          "Nickname": "Find the Cure",
+          "Description": "pooling",
           "CardID": 1067,
           "Name": "Card",
           "Hands": true,
@@ -6576,8 +6774,8 @@
           ]
         },
         {
-          "Nickname": "Bail Out",
-          "Description": "Reaching zero personnel resets your personnel to max rather than ending the game. ",
+          "Nickname": "Wormhole Funnel",
+          "Description": "pooling",
           "CardID": 1068,
           "Name": "Card",
           "Hands": true,
@@ -6599,8 +6797,8 @@
           ]
         },
         {
-          "Nickname": "Rules of Acquisition",
-          "Description": "You may discard a luck card in lieu of a credit. Do this only during your turn when one would buy from the market. ",
+          "Nickname": "Wealth Tax",
+          "Description": "pooling",
           "CardID": 1100,
           "Name": "Card",
           "Hands": true,
@@ -6622,8 +6820,8 @@
           ]
         },
         {
-          "Nickname": "Reality Rewriter",
-          "Description": "On obstacle cards, treat ____ as reverse luck and reverse luck as ____. x6",
+          "Nickname": "Rapid Deployment",
+          "Description": "pooling",
           "CardID": 1101,
           "Name": "Card",
           "Hands": true,
@@ -6645,8 +6843,8 @@
           ]
         },
         {
-          "Nickname": "Androids",
-          "Description": "Your max hand size is 6 minus your personnel. ",
+          "Nickname": "Rapid Deployment",
+          "Description": "pooling",
           "CardID": 1102,
           "Name": "Card",
           "Hands": true,
@@ -6668,8 +6866,8 @@
           ]
         },
         {
-          "Nickname": "Collectivism",
-          "Description": "Add 10 Unity cards to the elements deck then shuffle that deck. ",
+          "Nickname": "Rapid Deployment",
+          "Description": "pooling",
           "CardID": 1103,
           "Name": "Card",
           "Hands": true,
@@ -6691,8 +6889,8 @@
           ]
         },
         {
-          "Nickname": "Transmogriphier",
-          "Description": "When you apply a reward to a macguffin, you may instead choose to apply the card from the top of the reward deck (make the decision before looking). ",
+          "Nickname": "Rapid Deployment",
+          "Description": "pooling",
           "CardID": 1104,
           "Name": "Card",
           "Hands": true,
@@ -6714,8 +6912,8 @@
           ]
         },
         {
-          "Nickname": "Cutting Edge",
-          "Description": "Just before the first turn of the game, halve the rewards deck. Shuffle 4 macguffin cards into the one half then place that half on the top. Each of these macguffin cards can be used to remove one card from this macguffin. ",
+          "Nickname": "Self Preservation",
+          "Description": "pooling",
           "CardID": 1105,
           "Name": "Card",
           "Hands": true,
@@ -6737,8 +6935,8 @@
           ]
         },
         {
-          "Nickname": "New Math",
-          "Description": "Discard a card every time you say a number. ",
+          "Nickname": "Superstition",
+          "Description": "pooling",
           "CardID": 1106,
           "Name": "Card",
           "Hands": true,
@@ -6760,8 +6958,8 @@
           ]
         },
         {
-          "Nickname": "Neutralizing Beam",
-          "Description": "The next macguffin you unlock after this one has no effect. ",
+          "Nickname": "Honour Code",
+          "Description": "pooling",
           "CardID": 1107,
           "Name": "Card",
           "Hands": true,
@@ -6783,8 +6981,8 @@
           ]
         },
         {
-          "Nickname": "The Answer",
-          "Description": "If you unlock this macguffin and another one in the same turn, you win the game. ",
+          "Nickname": "Perfectionism",
+          "Description": "pooling",
           "CardID": 1108,
           "Name": "Card",
           "Hands": true,
@@ -6806,8 +7004,8 @@
           ]
         },
         {
-          "Nickname": "Specialiazation",
-          "Description": "When you play an ____ element card from your hand (not from the pool), draw a card. x6",
+          "Nickname": "Obstinance",
+          "Description": "pooling",
           "CardID": 1109,
           "Name": "Card",
           "Hands": true,
@@ -6829,8 +7027,8 @@
           ]
         },
         {
-          "Nickname": "Mindfulness",
-          "Description": "Reward cards with three elements can only be used for two of their elements at a time. ",
+          "Nickname": "Thoughts and Prayers",
+          "Description": "pooling",
           "CardID": 1110,
           "Name": "Card",
           "Hands": true,
@@ -6852,8 +7050,8 @@
           ]
         },
         {
-          "Nickname": "Singular Focus",
-          "Description": "Reward cards with two elements can only be used for one of their elements at a time. ",
+          "Nickname": "Untitled",
+          "Description": "pooling",
           "CardID": 1111,
           "Name": "Card",
           "Hands": true,
@@ -6875,8 +7073,8 @@
           ]
         },
         {
-          "Nickname": "Joie de Vivre",
-          "Description": "When you unlock this macguffin, shuffle the discarded element cards back into the deck. ",
+          "Nickname": "Logistic Efficiency",
+          "Description": "pooling",
           "CardID": 1112,
           "Name": "Card",
           "Hands": true,
@@ -6898,8 +7096,8 @@
           ]
         },
         {
-          "Nickname": "Recycling",
-          "Description": "When you unlock this macguffin, shuffle the discarded reward cards back into the deck. ",
+          "Nickname": "Self-Sacrifice",
+          "Description": "pooling",
           "CardID": 1113,
           "Name": "Card",
           "Hands": true,
@@ -6921,8 +7119,8 @@
           ]
         },
         {
-          "Nickname": "Honour",
-          "Description": "You cannot use reward cards with special abilities except during your turn. ",
+          "Nickname": "Virtue Signaling",
+          "Description": "pooling",
           "CardID": 1114,
           "Name": "Card",
           "Hands": true,
@@ -6944,8 +7142,8 @@
           ]
         },
         {
-          "Nickname": "Selflessness",
-          "Description": "You cannot use reward cards with special abilities on your turn. ",
+          "Nickname": "Virtual World",
+          "Description": "round",
           "CardID": 1115,
           "Name": "Card",
           "Hands": true,
@@ -6967,8 +7165,8 @@
           ]
         },
         {
-          "Nickname": "Work Detail",
-          "Description": "Every player loses one personnel when the market is refreshed. ",
+          "Nickname": "Biodegradable Products",
+          "Description": "round",
           "CardID": 1116,
           "Name": "Card",
           "Hands": true,
@@ -6990,8 +7188,8 @@
           ]
         },
         {
-          "Nickname": "Thoughts and Prayers",
-          "Description": "At the start of each pooling phase, while the active player is blind, draw one card from the elements deck. If it matches an obstacle, discard it, otherwise add it to the pool. The blinded player should have no way of knowing if this card is in the pool.",
+          "Nickname": "Royal Blood",
+          "Description": "round",
           "CardID": 1117,
           "Name": "Card",
           "Hands": true,
@@ -7013,8 +7211,8 @@
           ]
         },
         {
-          "Nickname": "Windfall",
-          "Description": "When you unlock this McGuffin, draw one reward card: if it matches a card locking a McGuffin, use it toward unlocking.",
+          "Nickname": "Untitled",
+          "Description": "special card",
           "CardID": 1118,
           "Name": "Card",
           "Hands": true,
@@ -7036,8 +7234,8 @@
           ]
         },
         {
-          "Nickname": "Revaluation",
-          "Description": "The first reward slot awards a credit. The second and third slots do not. ",
+          "Nickname": "Selflessness",
+          "Description": "special card",
           "CardID": 1119,
           "Name": "Card",
           "Hands": true,
@@ -7059,8 +7257,8 @@
           ]
         },
         {
-          "Nickname": "Epicureanism",
-          "Description": "Losing personnel instead causes you to gain personnel. If anyone goes above their max personnel, everyone loses. ",
+          "Nickname": "Honour",
+          "Description": "special card",
           "CardID": 1120,
           "Name": "Card",
           "Hands": true,
@@ -7082,8 +7280,8 @@
           ]
         },
         {
-          "Nickname": "Tachyon Imbedder",
-          "Description": "As soon as this macguffin is unlocked, player turn order is reversed. ",
+          "Nickname": "Micromanufactories",
+          "Description": "turn",
           "CardID": 1121,
           "Name": "Card",
           "Hands": true,
@@ -7105,8 +7303,8 @@
           ]
         },
         {
-          "Nickname": "Patience",
-          "Description": "No other macguffin effects take place until this one is unlocked. ",
+          "Nickname": "Cryosleep Chambers",
+          "Description": "turn",
           "CardID": 1122,
           "Name": "Card",
           "Hands": true,
@@ -7128,8 +7326,8 @@
           ]
         },
         {
-          "Nickname": "Delayed Gratification",
-          "Description": "Do not reveal the second obstacle's reward when you finish the first obstacle. ",
+          "Nickname": "Incentivisational Governance",
+          "Description": "turn",
           "CardID": 1123,
           "Name": "Card",
           "Hands": true,
@@ -7151,8 +7349,8 @@
           ]
         },
         {
-          "Nickname": "Delayed Gratification",
-          "Description": "Do not reveal the third obstacle's reward when you finish the second obstacle. ",
+          "Nickname": "Prosperity Faith",
+          "Description": "turn",
           "CardID": 1124,
           "Name": "Card",
           "Hands": true,
@@ -7174,8 +7372,8 @@
           ]
         },
         {
-          "Nickname": "Delayed Gratification",
-          "Description": "Do not reveal the fourth obstacle's reward when you finish the third obstacle. ",
+          "Nickname": "Short Range Forecasting",
+          "Description": "turn",
           "CardID": 1125,
           "Name": "Card",
           "Hands": true,
@@ -7197,8 +7395,8 @@
           ]
         },
         {
-          "Nickname": "Infinite Improbability",
-          "Description": "Draw element cards until you reach a double. This MacGuffin costs 3 of that element.",
+          "Nickname": "Forecasting",
+          "Description": "turn",
           "CardID": 1126,
           "Name": "Card",
           "Hands": true,
@@ -7220,8 +7418,8 @@
           ]
         },
         {
-          "Nickname": "Philosopher's Stone",
-          "Description": "The player who unlocks this MacGuffin gets 1 credit for each other unlocked MacGuffin to spend immediately.",
+          "Nickname": "Long Range Forecasting",
+          "Description": "turn",
           "CardID": 1127,
           "Name": "Card",
           "Hands": true,
@@ -7243,8 +7441,8 @@
           ]
         },
         {
-          "Nickname": "Untitled",
-          "Description": "The player who unlocks this MacGuffin may say a quote from a sci-fi franchise to pick up a reward card.",
+          "Nickname": "No Daniels Allowed ",
+          "Description": "turn",
           "CardID": 1128,
           "Name": "Card",
           "Hands": true,
@@ -7266,8 +7464,8 @@
           ]
         },
         {
-          "Nickname": "Untitled",
-          "Description": "Players may argue any ambiguous language in their favour.",
+          "Nickname": "Uniformity",
+          "Description": "",
           "CardID": 1129,
           "Name": "Card",
           "Hands": true,
@@ -7290,169 +7488,8 @@
         },
         {
           "Nickname": "Untitled",
-          "Description": "The player with the biggest hand has the biggest hand.",
+          "Description": "",
           "CardID": 1130,
-          "Name": "Card",
-          "Hands": true,
-          "SidewaysCard": false,
-          "Transform": {
-            "posX": 0,
-            "posY": 0,
-            "posZ": 0,
-            "rotX": 0,
-            "rotY": 180,
-            "rotZ": 180,
-            "scaleX": 1,
-            "scaleY": 1,
-            "scaleZ": 1
-          },
-          "Tags": [
-            "Card",
-            "MacGuffin"
-          ]
-        },
-        {
-          "Nickname": "Untitled",
-          "Description": "Any player who has left Earth's atmosphere may pick up 3 element cards when this MacGuffin is unlocked.",
-          "CardID": 1131,
-          "Name": "Card",
-          "Hands": true,
-          "SidewaysCard": false,
-          "Transform": {
-            "posX": 0,
-            "posY": 0,
-            "posZ": 0,
-            "rotX": 0,
-            "rotY": 180,
-            "rotZ": 180,
-            "scaleX": 1,
-            "scaleY": 1,
-            "scaleZ": 1
-          },
-          "Tags": [
-            "Card",
-            "MacGuffin"
-          ]
-        },
-        {
-          "Nickname": "Untitled",
-          "Description": "All players now contribute to their own pool instead of playing directly from their hand to overcome obstacles. (Up to x cards)",
-          "CardID": 1132,
-          "Name": "Card",
-          "Hands": true,
-          "SidewaysCard": false,
-          "Transform": {
-            "posX": 0,
-            "posY": 0,
-            "posZ": 0,
-            "rotX": 0,
-            "rotY": 180,
-            "rotZ": 180,
-            "scaleX": 1,
-            "scaleY": 1,
-            "scaleZ": 1
-          },
-          "Tags": [
-            "Card",
-            "MacGuffin"
-          ]
-        },
-        {
-          "Nickname": "Untitled",
-          "Description": "One extra player hand is dealt face up. This hand contributes 1 card per other contributing player to the pool.",
-          "CardID": 1133,
-          "Name": "Card",
-          "Hands": true,
-          "SidewaysCard": false,
-          "Transform": {
-            "posX": 0,
-            "posY": 0,
-            "posZ": 0,
-            "rotX": 0,
-            "rotY": 180,
-            "rotZ": 180,
-            "scaleX": 1,
-            "scaleY": 1,
-            "scaleZ": 1
-          },
-          "Tags": [
-            "Card",
-            "MacGuffin"
-          ]
-        },
-        {
-          "Nickname": "Untitled",
-          "Description": "When an action reward is played, other players may discard an element of the same type to also receive the effect.",
-          "CardID": 1134,
-          "Name": "Card",
-          "Hands": true,
-          "SidewaysCard": false,
-          "Transform": {
-            "posX": 0,
-            "posY": 0,
-            "posZ": 0,
-            "rotX": 0,
-            "rotY": 180,
-            "rotZ": 180,
-            "scaleX": 1,
-            "scaleY": 1,
-            "scaleZ": 1
-          },
-          "Tags": [
-            "Card",
-            "MacGuffin"
-          ]
-        },
-        {
-          "Nickname": "Untitled",
-          "Description": "All players lay their hands face up in a pool, and redraw to max hand size. For the rest of the game, active players may buy from this pool at the cost of 2 element cards.",
-          "CardID": 1135,
-          "Name": "Card",
-          "Hands": true,
-          "SidewaysCard": false,
-          "Transform": {
-            "posX": 0,
-            "posY": 0,
-            "posZ": 0,
-            "rotX": 0,
-            "rotY": 180,
-            "rotZ": 180,
-            "scaleX": 1,
-            "scaleY": 1,
-            "scaleZ": 1
-          },
-          "Tags": [
-            "Card",
-            "MacGuffin"
-          ]
-        },
-        {
-          "Nickname": "Find the Cure",
-          "Description": "One card is discarded from the pool until this MacGuffin is unlocked.",
-          "CardID": 1136,
-          "Name": "Card",
-          "Hands": true,
-          "SidewaysCard": false,
-          "Transform": {
-            "posX": 0,
-            "posY": 0,
-            "posZ": 0,
-            "rotX": 0,
-            "rotY": 180,
-            "rotZ": 180,
-            "scaleX": 1,
-            "scaleY": 1,
-            "scaleZ": 1
-          },
-          "Tags": [
-            "Card",
-            "MacGuffin"
-          ]
-        },
-        {
-          "Nickname": "Untitled",
-          "Description": "Everyone's hand size is the average (rounded down) of the players' proper hand sizes.",
-          "CardID": 1137,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -7475,7 +7512,7 @@
         {
           "Nickname": "Archiving",
           "Description": "",
-          "CardID": 1138,
+          "CardID": 1131,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -7498,30 +7535,7 @@
         {
           "Nickname": "Plentitude",
           "Description": "",
-          "CardID": 1139,
-          "Name": "Card",
-          "Hands": true,
-          "SidewaysCard": false,
-          "Transform": {
-            "posX": 0,
-            "posY": 0,
-            "posZ": 0,
-            "rotX": 0,
-            "rotY": 180,
-            "rotZ": 180,
-            "scaleX": 1,
-            "scaleY": 1,
-            "scaleZ": 1
-          },
-          "Tags": [
-            "Card",
-            "MacGuffin"
-          ]
-        },
-        {
-          "Nickname": "Selective Citizenship",
-          "Description": "Select a culture card, any player may choose to use that culture's effect for the rest of the game.",
-          "CardID": 1140,
+          "CardID": 1132,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -7544,7 +7558,7 @@
         {
           "Nickname": "Martial Law",
           "Description": "",
-          "CardID": 1141,
+          "CardID": 1133,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -7567,30 +7581,7 @@
         {
           "Nickname": "Transgenics",
           "Description": "",
-          "CardID": 1142,
-          "Name": "Card",
-          "Hands": true,
-          "SidewaysCard": false,
-          "Transform": {
-            "posX": 0,
-            "posY": 0,
-            "posZ": 0,
-            "rotX": 0,
-            "rotY": 180,
-            "rotZ": 180,
-            "scaleX": 1,
-            "scaleY": 1,
-            "scaleZ": 1
-          },
-          "Tags": [
-            "Card",
-            "MacGuffin"
-          ]
-        },
-        {
-          "Nickname": "Face Melting Laser",
-          "Description": "The player who unlocks this now uses the element deck as their hand. Players draw from their hand randomly.",
-          "CardID": 1143,
+          "CardID": 1134,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -7613,7 +7604,7 @@
         {
           "Nickname": "Consciousness Upload",
           "Description": "",
-          "CardID": 1144,
+          "CardID": 1135,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -7636,7 +7627,7 @@
         {
           "Nickname": "Mob Rule",
           "Description": "",
-          "CardID": 1145,
+          "CardID": 1136,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -7659,7 +7650,7 @@
         {
           "Nickname": "Technocracy",
           "Description": "",
-          "CardID": 1146,
+          "CardID": 1137,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -7682,7 +7673,7 @@
         {
           "Nickname": "Omnipotent AI",
           "Description": "",
-          "CardID": 1147,
+          "CardID": 1138,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -7705,7 +7696,7 @@
         {
           "Nickname": "Element Zero",
           "Description": "",
-          "CardID": 1148,
+          "CardID": 1139,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -7728,7 +7719,7 @@
         {
           "Nickname": "Archimedes Lever",
           "Description": "",
-          "CardID": 1149,
+          "CardID": 1140,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -7751,7 +7742,7 @@
         {
           "Nickname": "Enlightmentment",
           "Description": "",
-          "CardID": 1150,
+          "CardID": 1141,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -7774,7 +7765,7 @@
         {
           "Nickname": "Oneness",
           "Description": "",
-          "CardID": 1151,
+          "CardID": 1142,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -7797,7 +7788,7 @@
         {
           "Nickname": "Tricorder",
           "Description": "",
-          "CardID": 1152,
+          "CardID": 1143,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -7820,7 +7811,7 @@
         {
           "Nickname": "Universal Recording",
           "Description": "",
-          "CardID": 1153,
+          "CardID": 1144,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -7843,7 +7834,7 @@
         {
           "Nickname": "Polydactylity",
           "Description": "",
-          "CardID": 1154,
+          "CardID": 1145,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -7866,7 +7857,53 @@
         {
           "Nickname": "Cheap Plastic Surgery",
           "Description": "",
-          "CardID": 1155,
+          "CardID": 1146,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
+        },
+        {
+          "Nickname": "Rapid Communication",
+          "Description": "",
+          "CardID": 1147,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
+        },
+        {
+          "Nickname": "Cutting Edge",
+          "Description": "",
+          "CardID": 1148,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -7888,8 +7925,100 @@
         },
         {
           "Nickname": "Bistromathics",
-          "Description": "A = number of people who RSVPed \"yes\" to the invitation to this gaming event. B = number of people who showed up. C = the number of half-hours between the first and last arrival. D = the number of remaining MacGuffins. The cost for this is A - B + C + D.",
-          "CardID": 1156,
+          "Description": "",
+          "CardID": 1149,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
+        },
+        {
+          "Nickname": "Collectivism",
+          "Description": "",
+          "CardID": 1150,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
+        },
+        {
+          "Nickname": "Patience",
+          "Description": "",
+          "CardID": 1151,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
+        },
+        {
+          "Nickname": "Etiquette",
+          "Description": "",
+          "CardID": 1152,
+          "Name": "Card",
+          "Hands": true,
+          "SidewaysCard": false,
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Tags": [
+            "Card",
+            "MacGuffin"
+          ]
+        },
+        {
+          "Nickname": "New Math",
+          "Description": "",
+          "CardID": 1153,
           "Name": "Card",
           "Hands": true,
           "SidewaysCard": false,
@@ -8033,14 +8162,11 @@
         1150,
         1151,
         1152,
-        1153,
-        1154,
-        1155,
-        1156
+        1153
       ],
       "CustomDeck": {
         "10": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/MacGuffins10.png?1636251330.9257255",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/MacGuffins10.png?1639338262.8591263",
           "BackURL": "https://i.imgur.com/4FsVPIC.jpg",
           "NumWidth": 10,
           "NumHeight": 7,
@@ -8049,7 +8175,7 @@
           "Type": 0
         },
         "11": {
-          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/MacGuffins11.png?1636251330.926004",
+          "FaceURL": "https://raw.githubusercontent.com/rcfox/AwayTeamCards/master/generated/MacGuffins11.png?1639338262.8593206",
           "BackURL": "https://i.imgur.com/4FsVPIC.jpg",
           "NumWidth": 10,
           "NumHeight": 6,
