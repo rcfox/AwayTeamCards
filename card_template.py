@@ -5,6 +5,7 @@ from typing import List, Tuple
 
 from PIL import Image, ImageDraw, ImageFont
 
+import image_helper
 from util import text_wrap
 from typedefs import BBox
 
@@ -49,6 +50,10 @@ class CardTemplate:
         # Use 'Q' since it's full height and has a descender
         _, height = font.getsize('Q')
         return height
+
+    def get_text_width(self, font: ImageFont, text: str) -> int:
+        width, _ = font.getsize(text)
+        return width
 
     def draw_rect(self, draw: ImageDraw, bbox: BBox) -> None:
         draw.rounded_rectangle(bbox,
@@ -202,3 +207,91 @@ class ImageOnlyCardTemplate(CardTemplate):
         y1 = y2
 
         return ((x1, y1), (x2, y2))
+
+
+@dataclass
+class MacguffinCardTemplate(TextOnlyCardTemplate):
+    def populate_trigger(self, image: Image, card: MacguffinCard) -> None:
+        draw = ImageDraw.Draw(image)
+
+        font = self.font.font_variant(size=self.type_font_size)
+
+        trigger_text = card.trigger.upper()
+
+        text_height = self.get_text_height(font)
+        text_width = self.get_text_width(font, trigger_text)
+
+        before_offset = 0
+        icon_offset = 0
+        icon_size = 0
+
+        if card.trigger_type.lower() == 'before':
+            icon_size = text_height
+            before_offset = icon_size + self.type_padding
+
+        elif card.trigger_type.lower() == 'after':
+            icon_size = text_height
+            icon_offset = text_width + self.type_padding
+
+        trigger_x = self.get_x1() + self.rect_radius + before_offset
+        trigger_y = self.height - self.inset - text_height // 2 - self.type_padding
+
+        draw.text((trigger_x, trigger_y),
+                  trigger_text,
+                  font=font,
+                  fill=self.fg_colour,
+                  anchor='lm')
+
+        if icon_size > 0:
+            gear_icon = image_helper.svg2image(
+                image_helper.ICON_DIR / 'gear.svg', icon_size, icon_size)
+            icon_x = self.get_x1() + self.rect_radius + icon_offset
+            icon_y = trigger_y - icon_size // 2
+            image.paste(gear_icon, (icon_x, icon_y), gear_icon)
+
+    def populate_rating(self, image: Image, card: MacguffinCard) -> None:
+        draw = ImageDraw.Draw(image)
+        font = self.font.font_variant(size=self.title_font_size)
+
+        ((x1, y1), (x2, y2)) = self.get_text_box()
+
+        colour = (200, 200, 200, 255)
+        text_colour = (0, 0, 0, 255)
+        text = str(card.power_rating)
+
+        if 'neutral' in card.ryan_rating:
+            colour = (200, 200, 0, 255)
+        if 'negative' in card.ryan_rating:
+            colour = (255, 0, 0, 255)
+            text_colour = (255, 255, 255, 255)
+        if 'positive' in card.ryan_rating:
+            colour = (0, 255, 0, 255)
+
+        diameter = self.get_text_height(font) + 2
+        offset = 8
+
+        circle_x1 = x2 - diameter - offset
+        circle_y1 = y1 + offset
+
+        circle_x2 = x2 - offset
+        circle_y2 = y1 + diameter + offset
+
+        draw.ellipse(((circle_x1, circle_y1), (circle_x2, circle_y2)),
+                     fill=colour)
+
+        circle_x = (circle_x2 - circle_x1) // 2 + circle_x1
+        circle_y = (circle_y2 - circle_y1) // 2 + circle_y1
+
+        draw.text((circle_x, circle_y),
+                  text,
+                  font=font,
+                  fill=text_colour,
+                  anchor='mm')
+
+    def draw(self, card: Card) -> Image:
+        img = super().draw(card)
+
+        self.populate_trigger(img, card)
+        self.populate_rating(img, card)
+
+        return img

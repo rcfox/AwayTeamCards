@@ -1,3 +1,4 @@
+from functools import lru_cache
 from io import BytesIO
 from pathlib import Path
 from typing import List
@@ -8,7 +9,10 @@ from PIL.Image import Image
 
 from typedefs import BBox
 
+ICON_DIR = Path('icons')
 
+
+@lru_cache
 def svg2image(svg_path: Path, width: int, height: int) -> Image:
     out = BytesIO()
     cairosvg.svg2png(url=str(svg_path),

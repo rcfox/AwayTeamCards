@@ -5,12 +5,11 @@ from typing import ContextManager, Dict, List, Tuple
 from pathlib import Path
 
 from util import spreadsheet, spreadsheet_as_dicts
-from card_template import CardTemplate, TextOnlyCardTemplate, ImageOnlyCardTemplate
+from card_template import (CardTemplate, TextOnlyCardTemplate,
+                           ImageOnlyCardTemplate, MacguffinCardTemplate)
 import image_helper
 
 ELEMENTS: Dict[str, Element] = {}
-
-ICON_DIR = Path('icons')
 
 
 @dataclass
@@ -20,7 +19,7 @@ class Element:
 
     @property
     def image_path(self) -> Path:
-        return ICON_DIR / self.image_filename
+        return image_helper.ICON_DIR / self.image_filename
 
     @classmethod
     def load(cls, path: Path) -> List[Element]:
@@ -193,15 +192,16 @@ class RoleCard(Card):
         return super().get_tags() + ['Role']
 
     def generate_image(self, image: Image, bbox: BBox) -> None:
-        icons = [ICON_DIR / 'role.svg']
+        icons = [image_helper.ICON_DIR / 'role.svg']
         image_helper.draw_image_row(image, bbox, icons)
 
 
 @dataclass
 class MacguffinCard(Card):
     power_rating: int
+    ryan_rating: List[str]
     trigger: str
-    before_trigger: bool
+    trigger_type: str
 
     @classmethod
     def load(cls, path: Path) -> List[Card]:
@@ -212,17 +212,22 @@ class MacguffinCard(Card):
 
             deck_count = 1
             power_rating = int(row['Power Rating'] or 0)
-            before_trigger = row['Before/After'] == 'before'
+            ryan_rating = (row["Ryan's Rating"] or '').split(',')
 
             cards.append(
                 MacguffinCard(row['Name'], row['Effect'], deck_count,
-                              TextOnlyCardTemplate(), power_rating,
-                              row['Trigger'], before_trigger))
+                              MacguffinCardTemplate(), power_rating,
+                              ryan_rating, row['Trigger'] or '',
+                              row['Before/After'] or ''))
 
         return cards
 
     def get_tags(self) -> List[str]:
-        return super().get_tags() + ['MacGuffin']
+        return super().get_tags() + [
+            'MacGuffin',
+            self.trigger.title(),
+            self.trigger_type.title()
+        ] + self.ryan_rating
 
 
 @dataclass
@@ -232,5 +237,5 @@ class HiddenCard(Card):
         return [cls('???', '', 0, ImageOnlyCardTemplate())]
 
     def generate_image(self, image: Image, bbox: BBox) -> None:
-        icons = [ICON_DIR / 'hidden.svg']
+        icons = [image_helper.ICON_DIR / 'hidden.svg']
         image_helper.draw_image_row(image, bbox, icons)
