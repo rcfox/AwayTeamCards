@@ -4,7 +4,7 @@ from dataclasses import dataclass, field
 from typing import ContextManager, Dict, List, Tuple
 from pathlib import Path
 
-from util import spreadsheet
+from util import spreadsheet, spreadsheet_as_dicts
 from card_template import CardTemplate, TextOnlyCardTemplate, ImageOnlyCardTemplate
 import image_helper
 
@@ -200,29 +200,25 @@ class RoleCard(Card):
 @dataclass
 class MacguffinCard(Card):
     power_rating: int
+    trigger: str
+    before_trigger: bool
 
     @classmethod
     def load(cls, path: Path) -> List[Card]:
         cards = []
-        with spreadsheet(path) as wb:
-            for row in wb['MacGuffins'].iter_rows(min_row=2, max_col=3):
-                name = row[0].value
-                if name is None:
-                    continue
+        for row in spreadsheet_as_dicts(path, 'MacGuffins'):
+            if not row['Name']:
+                continue
 
-                power_rating = 0
-                try:
-                    power_rating = int(row[1].value or 0)
-                except ValueError:
-                    pass
+            deck_count = 1
+            power_rating = int(row['Power Rating'] or 0)
+            before_trigger = row['Before/After'] == 'before'
 
-                description = row[2].value or ''
+            cards.append(
+                MacguffinCard(row['Name'], row['Effect'], deck_count,
+                              TextOnlyCardTemplate(), power_rating,
+                              row['Trigger'], before_trigger))
 
-                deck_count = 1
-
-                cards.append(
-                    MacguffinCard(name, description, deck_count,
-                                  TextOnlyCardTemplate(), power_rating))
         return cards
 
     def get_tags(self) -> List[str]:

@@ -54,13 +54,15 @@ def spreadsheet(path: Path) -> ContextManager[openpyxl.Workbook]:
         wb.close()
 
 
-def spreadsheet_as_dicts(path: Path, sheet_name: str) -> List[Dict]:
+def spreadsheet_as_dicts(path: Path, sheet_name: str) -> List[Dict[str, str]]:
     with spreadsheet(path) as wb:
         sheet = wb[sheet_name]
         rows = sheet.iter_rows()
         header = [cell.value for cell in next(rows)]
         for row in rows:
-            yield dict(zip(header, [cell.value for cell in row]))
+            yield dict(
+                itertools.zip_longest(header, [cell.value for cell in row],
+                                      fillvalue=''))
 
 
 def grouper(iterable, n, fillvalue=None):

@@ -33,6 +33,9 @@ class Deck:
 
         decks = {}
         for row in util.spreadsheet_as_dicts(path, 'Decks'):
+            if row['Name'] != 'MacGuffins':
+                continue
+
             deck = Deck(row['Name'], row['Description'], row['Back Image'],
                         hidden, card_types[row['Card Class']])
             decks[deck.name] = deck
