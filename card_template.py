@@ -64,11 +64,18 @@ class CardTemplate:
     def populate_title(self, draw: ImageDraw, title: str, bbox: BBox) -> None:
         self.draw_rect(draw, bbox)
 
-        ((x1, y1), _) = bbox
+        ((x1, y1), (x2, _)) = bbox
         font = self.font.font_variant(size=self.title_font_size)
         title_x = x1 + self.rect_radius + self.title_padding
         title_y = y1 + self.title_padding
-        draw.text((title_x, title_y),
+
+        max_width = x2 - self.rect_radius - self.title_padding - title_x
+        font_adjust = 1
+        while self.get_text_width(font, title) > max_width:
+            font = self.font.font_variant(size=self.title_font_size - font_adjust)
+            font_adjust += 1
+
+        draw.text((title_x, title_y + font_adjust // 2),
                   title,
                   font=font,
                   fill=self.fg_colour,
