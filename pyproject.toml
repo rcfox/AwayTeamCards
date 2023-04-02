@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "awayteamcards"
+version = "0.1.0"
+description = "Generate cards for the Away Team game, based on our spreadsheet."
+authors = ["Ryan Fox <foxryan@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+openpyxl = "^3.1.2"
+requests = "^2.28.2"
+pillow = "^9.5.0"
+cairosvg = "^2.7.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
