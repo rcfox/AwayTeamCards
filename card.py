@@ -5,8 +5,8 @@ from typing import ContextManager, Dict, List, Tuple
 from pathlib import Path
 
 from util import spreadsheet, spreadsheet_as_dicts
-from card_template import (CardTemplate, TextOnlyCardTemplate,
-                           ImageOnlyCardTemplate, MacguffinCardTemplate)
+from card_template import CardTemplate, ImageOnlyCardTemplate, TextOnlyCardTemplate, MacguffinCardTemplate
+from card_template_game_crafter import PokerDeckTemplate, PokerDeckImageOnlyTemplate, PokerDeckTextOnlyTemplate, PokerDeckMacguffinCardTemplate
 import image_helper
 
 ELEMENTS: Dict[str, Element] = {}
@@ -46,14 +46,25 @@ class Card:
     name: str
     description: str
     deck_count: int
-    template: CardTemplate
 
     def get_filename(self) -> str:
         filename = f'{self.__class__.__name__}{self.name}.png'
         return filename.replace('/', '')
 
+    def tts_template(self) -> CardTemplate:
+        return CardTemplate()
+
+    def game_crafter_template(self) -> CardTemplate:
+        return PokerDeckTemplate()
+
     def draw(self):
-        return self.template.draw(self)
+        return self.draw_tts()
+
+    def draw_tts(self):
+        return self.tts_template().draw(self)
+
+    def draw_game_crafter(self):
+        return self.game_crafter_template().draw(self)
 
     def get_card_type(self) -> str:
         return self.__class__.__name__.replace('Card', '')
@@ -86,10 +97,14 @@ class ElementCard(Card):
                 if element is None:
                     continue
                 deck_count = int(row[2].value)
-                cards.append(
-                    ElementCard(element.name, '', deck_count,
-                                ImageOnlyCardTemplate(), element))
+                cards.append(ElementCard(element.name, '', deck_count, element))
         return cards
+
+    def tts_template(self) -> CardTemplate:
+        return ImageOnlyCardTemplate()
+
+    def game_crafter_template(self) -> CardTemplate:
+        return PokerDeckImageOnlyTemplate()
 
     def get_tags(self) -> List[str]:
         return super().get_tags() + ['Element', self.element.name]
@@ -114,9 +129,7 @@ class ObstacleCard(Card):
                 name = row[2].value
                 description = row[3].value
                 deck_count = int(row[4].value)
-                cards.append(
-                    ObstacleCard(name, description, deck_count, CardTemplate(),
-                                 elements))
+                cards.append(ObstacleCard(name, description, deck_count, elements))
         return cards
 
     def get_tags(self) -> List[str]:
@@ -149,15 +162,18 @@ class RewardCard(Card):
                 if name is None:
                     name = '/'.join(element.name for element in elements)
 
-                if description:
-                    template = CardTemplate()
-                else:
-                    template = ImageOnlyCardTemplate()
-
-                cards.append(
-                    RewardCard(name, description, deck_count, template,
-                               elements))
+                cards.append(RewardCard(name, description, deck_count, elements))
         return cards
+
+    def tts_template(self) -> CardTemplate:
+        if self.description:
+            return CardTemplate()
+        return ImageOnlyCardTemplate()
+
+    def game_crafter_template(self) -> CardTemplate:
+        if self.description:
+            return PokerDeckTemplate()
+        return PokerDeckImageOnlyTemplate()
 
     def get_tags(self) -> List[str]:
         return (super().get_tags() + ['Reward'] +
@@ -184,8 +200,7 @@ class RoleCard(Card):
                 description = row[1].value or ''
                 deck_count = 1
 
-                cards.append(
-                    RoleCard(name, description, deck_count, CardTemplate()))
+                cards.append(RoleCard(name, description, deck_count))
         return cards
 
     def get_tags(self) -> List[str]:
@@ -207,7 +222,7 @@ class MacguffinCard(Card):
     def load(cls, path: Path) -> List[Card]:
         cards = []
         for row in spreadsheet_as_dicts(path, 'MacGuffins'):
-            if not row['Name']:
+            if not (row['Name'] or '').strip() or not (row['Effect'] or '').strip():
                 continue
 
             deck_count = 1
@@ -216,11 +231,17 @@ class MacguffinCard(Card):
 
             cards.append(
                 MacguffinCard(row['Name'], row['Effect'], deck_count,
-                              MacguffinCardTemplate(), power_rating,
+                              power_rating,
                               ryan_rating, row['Trigger'] or '',
                               row['Before/After'] or ''))
 
         return cards
+
+    def tts_template(self) -> CardTemplate:
+        return MacguffinCardTemplate()
+
+    def game_crafter_template(self) -> CardTemplate:
+        return PokerDeckMacguffinCardTemplate()
 
     def get_tags(self) -> List[str]:
         return super().get_tags() + [
@@ -234,7 +255,10 @@ class MacguffinCard(Card):
 class HiddenCard(Card):
     @classmethod
     def load(cls, path: Path) -> List[Card]:
-        return [cls('???', '', 0, ImageOnlyCardTemplate())]
+        return [cls('???', '', 0)]
+
+    def tts_template(self) -> CardTemplate:
+        return ImageOnlyCardTemplate()
 
     def generate_image(self, image: Image, bbox: BBox) -> None:
         icons = [image_helper.ICON_DIR / 'hidden.svg']

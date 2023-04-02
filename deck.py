@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import re
 import math
 import json
 import time
@@ -37,6 +38,19 @@ class Deck:
                         hidden, card_types[row['Card Class']])
             decks[deck.name] = deck
         return decks
+
+    def generate_game_crafter_images(self):
+        image_path = GENERATED_PATH / 'game_crafter'
+        image_path.mkdir(parents=True, exist_ok=True)
+        for card_idx, card in enumerate(self.cards):
+            if card.deck_count == 0:
+                continue
+            sanitized_name = re.sub(r'\W', '', card.name)
+            filename = f'{sanitized_name}_{card_idx}[face,{card.deck_count}].png'
+            path = image_path/ filename
+            print(path)
+            image = card.draw_game_crafter()
+            image.save(path)
 
     def subdecks(self) -> Iterable[Card]:
         yield from util.grouper(self.cards, 69)

@@ -24,6 +24,9 @@ def export_url(spreadsheet_id):
 def main(spreadsheet: Path):
     decks = Deck.load_decks(spreadsheet)
 
+    for deck in decks.values():
+        deck.generate_game_crafter_images()
+
     tts_decks = [deck.create_tts_deck() for deck in decks.values()]
     for i, deck in enumerate(tts_decks):
         deck.Transform.posX = i * 2.5
