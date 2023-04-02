@@ -6,7 +6,7 @@ from pathlib import Path
 
 from util import spreadsheet, spreadsheet_as_dicts
 from card_template import CardTemplate, ImageOnlyCardTemplate, TextOnlyCardTemplate, MacguffinCardTemplate
-from card_template_game_crafter import PokerDeckTemplate, PokerDeckImageOnlyTemplate, PokerDeckTextOnlyTemplate, PokerDeckMacguffinCardTemplate
+from card_template_game_crafter import PokerDeckTemplate, PokerDeckImageOnlyTemplate, PokerDeckTextOnlyTemplate, PokerDeckMacguffinCardTemplate, SquareDeckTemplate, SquareDeckImageOnlyTemplate, CircleDeckTemplate
 import image_helper
 
 ELEMENTS: Dict[str, Element] = {}
@@ -104,7 +104,7 @@ class ElementCard(Card):
         return ImageOnlyCardTemplate()
 
     def game_crafter_template(self) -> CardTemplate:
-        return PokerDeckImageOnlyTemplate()
+        return SquareDeckImageOnlyTemplate()
 
     def get_tags(self) -> List[str]:
         return super().get_tags() + ['Element', self.element.name]
@@ -172,8 +172,8 @@ class RewardCard(Card):
 
     def game_crafter_template(self) -> CardTemplate:
         if self.description:
-            return PokerDeckTemplate()
-        return PokerDeckImageOnlyTemplate()
+            return SquareDeckTemplate()
+        return SquareDeckImageOnlyTemplate()
 
     def get_tags(self) -> List[str]:
         return (super().get_tags() + ['Reward'] +
@@ -202,6 +202,9 @@ class RoleCard(Card):
 
                 cards.append(RoleCard(name, description, deck_count))
         return cards
+
+    def game_crafter_template(self) -> CardTemplate:
+        return CircleDeckTemplate()
 
     def get_tags(self) -> List[str]:
         return super().get_tags() + ['Role']

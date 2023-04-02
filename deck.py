@@ -8,7 +8,7 @@ from dataclasses import dataclass
 from typing import List, Iterable, Dict
 from pathlib import Path
 
-from card import Card
+from card import Card, MacguffinCard
 import tabletop_simulator
 import util
 import image_helper
@@ -40,14 +40,20 @@ class Deck:
         return decks
 
     def generate_game_crafter_images(self):
-        image_path = GENERATED_PATH / 'game_crafter'
-        image_path.mkdir(parents=True, exist_ok=True)
+        image_path = Path('game_crafter')
         for card_idx, card in enumerate(self.cards):
             if card.deck_count == 0:
                 continue
             sanitized_name = re.sub(r'\W', '', card.name)
             filename = f'{sanitized_name}_{card_idx}[face,{card.deck_count}].png'
-            path = image_path/ filename
+            deck_name = card.__class__.__name__.replace('Card', '')
+            if isinstance(card, MacguffinCard):
+                if card.power_rating > 0:
+                    deck_name = 'Ideal'
+                else:
+                    deck_name = 'Caveat'
+            path = image_path/ deck_name / filename
+            path.parent.mkdir(parents=True, exist_ok=True)
             print(path)
             image = card.draw_game_crafter()
             image.save(path)

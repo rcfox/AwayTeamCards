@@ -5,7 +5,6 @@ import itertools
 
 import openpyxl
 
-
 def text_wrap(text, font, max_width):
     """Wrap text base on specified width.
         This is to enable text of width more than the image width to be display
@@ -23,9 +22,14 @@ def text_wrap(text, font, max_width):
         """
     lines = []
 
+    if callable(max_width):
+        max_width_func = max_width
+    else:
+        max_width_func = lambda x: max_width
+
     # If the text width is smaller than the image width, then no need to split
     # just add it to the line list and return
-    if font.getsize(text)[0] <= max_width:
+    if font.getsize(text)[0] <= max_width_func(0):
         lines.append(text)
     else:
         #split the line by spaces to get words
@@ -35,7 +39,7 @@ def text_wrap(text, font, max_width):
         while i < len(words):
             line = ''
             while i < len(words) and font.getsize(line +
-                                                  words[i])[0] <= max_width:
+                                                  words[i])[0] <= max_width_func(len(lines)):
                 line = line + words[i] + " "
                 i += 1
             if not line:
@@ -43,7 +47,6 @@ def text_wrap(text, font, max_width):
                 i += 1
             lines.append(line)
     return '\n'.join(lines)
-
 
 @contextmanager
 def spreadsheet(path: Path) -> ContextManager[openpyxl.Workbook]:
